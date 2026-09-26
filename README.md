@@ -1,77 +1,39 @@
 # E-commerce Sales Data Analysis
 
-A portfolio-ready data analysis project that simulates a client request: take raw e-commerce sales data, clean it, analyze it, visualize business performance, and produce useful insights.
+## About the Project
 
-## Skills Demonstrated
+This project analyzes e-commerce sales data using Python to understand sales performance and identify useful business insights.
+
+The project starts with raw sales data and follows a complete data analysis workflow, including data cleaning, data transformation, analysis, and visualization.
+
+## What I Did
+
+- Loaded and explored the raw e-commerce sales dataset using Pandas.
+- Checked the dataset for missing values and duplicate records.
+- Identified invalid quantities and unit prices.
+- Cleaned the dataset by handling missing values, removing duplicates, and removing invalid records.
+- Converted the order date into a proper date format.
+- Created a new **Revenue** column using Quantity × Unit Price.
+- Extracted month and year information for time-based analysis.
+- Calculated key business metrics such as total revenue, total orders, and average order value.
+- Analyzed revenue by product category and region.
+- Identified the top-performing products.
+- Analyzed the most frequently used payment methods.
+- Analyzed monthly revenue trends.
+- Created visualizations using Matplotlib.
+- Exported the cleaned dataset for further use.
+
+## Tools & Technologies
 
 - Python
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
-- Data cleaning
-- Exploratory data analysis (EDA)
-- KPI calculation
-- Business insights
-- CSV/Excel data handling
+- Jupyter Notebook
+- VS Code
 
-## Project Structure
+## Project Outcome
 
-```text
-Ecommerce-Sales-Analysis/
-├── data/
-│   └── ecommerce_sales_raw.csv
-├── notebooks/
-│   └── ecommerce_sales_analysis.ipynb
-├── src/
-│   └── analyze_sales.py
-├── visualizations/
-├── README.md
-└── requirements.txt
-```
+The project transforms raw e-commerce sales data into a cleaned and structured dataset and provides visual insights into revenue, products, categories, regions, payment methods, and sales trends.
 
-## How to Run in VS Code
-
-1. Extract the ZIP file.
-2. Open the extracted `Ecommerce-Sales-Analysis` folder in VS Code.
-3. Create/activate a virtual environment.
-4. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-5. Open `notebooks/ecommerce_sales_analysis.ipynb`.
-6. Select the project's Python environment as the notebook kernel.
-7. Run the cells from top to bottom.
-
-You can also run:
-
-```bash
-python src/analyze_sales.py
-```
-
-## Business Questions
-
-The project answers:
-
-- What is total revenue?
-- How many orders were placed?
-- What is the average order value?
-- Which category generates the most revenue?
-- Which region performs best?
-- Which products are the top revenue contributors?
-- Which payment method is most frequently used?
-- How does revenue change month by month?
-
-## Important Note
-
-The included dataset is synthetic and was created specifically for learning and portfolio development. It intentionally contains duplicates, missing values, and invalid values so that the data-cleaning workflow resembles a real client dataset.
-
-## Freelance Use
-
-This project demonstrates a service you can offer to clients:
-
-> Clean raw sales data, analyze business performance, create visualizations, and deliver actionable insights.
-
-For a real client, replace the sample dataset with the client's approved data and agree on the required deliverables before starting work.
+The project demonstrates practical skills in **data cleaning, exploratory data analysis, feature engineering, data visualization, and business analysis**.
