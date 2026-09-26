@@ -1,0 +1,2213 @@
+Order ID,Customer ID,Order Date,Product,Category,Quantity,Unit Price,Region,City,Payment Method
+ORD100001,C1033,2025-03-15,Smartphone,Electronics,3,28884.21,North,,Cash on Delivery
+ORD100002,C1130,2025-07-02,Coffee Maker,Home Appliances,1,6448.4,West,Surat,Cash on Delivery
+ORD100003,C1195,2025-02-03,Coffee Maker,Home Appliances,1,6216.33,East,Patna,UPI
+ORD100004,C1340,2025-01-25,Mixer Grinder,Home Appliances,2,5078.97,West,Surat,Net Banking
+ORD100005,C1055,2025-07-19,T-Shirt,Fashion,1,1112.41,South,Vijayawada,Debit Card
+ORD100006,C1165,2025-01-28,Air Fryer,Home Appliances,1,7638.33,East,Patna,UPI
+ORD100007,C1154,2025-12-10,Office Chair,Furniture,1,8730.95,North,Delhi,Net Banking
+ORD100008,C1136,2025-11-04,Running Shoes,Fashion,3,4719.43,South,Hyderabad,UPI
+ORD100009,C1276,2025-10-18,Smartwatch,Electronics,1,6448.25,South,Hyderabad,Debit Card
+ORD100010,C1049,2025-01-14,Desk,Furniture,1,12131.98,West,Ahmedabad,UPI
+ORD100011,C1223,2025-07-29,Office Chair,Furniture,2,8860.4,North,Lucknow,Credit Card
+ORD100012,C1076,2025-12-25,Smartphone,Electronics,1,27716.49,South,Hyderabad,Credit Card
+ORD100013,C1103,2025-12-01,Bookshelf,Furniture,1,6272.64,South,Vijayawada,Debit Card
+ORD100014,C1285,2025-06-02,Smartphone,Electronics,2,27580.61,West,Ahmedabad,UPI
+ORD100015,C1057,2025-09-19,Mouse,Accessories,2,894.51,South,Bengaluru,Credit Card
+ORD100016,C1106,2025-03-29,Bookshelf,Furniture,1,6376.26,West,Mumbai,Debit Card
+ORD100017,C1319,2025-05-14,Running Shoes,Fashion,1,4832.57,South,Chennai,Debit Card
+ORD100018,C1158,2025-10-15,Office Chair,Furniture,2,8794.97,East,Bhubaneswar,UPI
+ORD100019,C1108,2025-09-21,Smartphone,Electronics,1,26666.59,East,Kolkata,Credit Card
+ORD100020,C1152,2025-08-31,Backpack,Fashion,2,2277.25,East,Kolkata,Debit Card
+ORD100021,C1015,2025-10-15,Headphones,Electronics,1,3452.85,West,Ahmedabad,Credit Card
+ORD100022,C1060,2025-10-17,Headphones,Electronics,1,3549.08,South,Chennai,Cash on Delivery
+ORD100023,C1336,2025-02-25,Bookshelf,Furniture,2,6003.72,North,Lucknow,Credit Card
+ORD100024,C1329,2025-06-11,Desk,Furniture,1,11982.16,South,Vijayawada,Credit Card
+ORD100025,C1154,2025-11-07,Backpack,Fashion,1,2207.28,South,Chennai,UPI
+ORD100026,C1039,2025-04-26,Mouse,Accessories,1,907.78,East,Ranchi,Debit Card
+ORD100027,C1038,2025-04-28,Smartphone,Electronics,2,29203.54,West,Pune,Net Banking
+ORD100028,C1291,2025-04-24,Bookshelf,Furniture,2,6365.76,South,Bengaluru,Net Banking
+ORD100029,C1090,2025-11-27,Bookshelf,Furniture,1,6515.66,East,Bhubaneswar,Cash on Delivery
+ORD100030,C1313,2025-02-25,Headphones,Electronics,1,3775.73,South,Bengaluru,Debit Card
+ORD100031,C1271,2025-01-09,Mixer Grinder,Home Appliances,2,5046.85,East,Ranchi,Debit Card
+ORD100032,C1328,2025-01-02,Office Chair,Furniture,2,8176.95,South,Chennai,UPI
+ORD100033,C1210,2025-05-15,Laptop,Electronics,1,52177.56,East,Kolkata,Net Banking
+ORD100034,C1176,2025-07-02,Laptop,Electronics,2,59152.07,South,Bengaluru,UPI
+ORD100035,C1043,2025-12-20,Bookshelf,Furniture,1,6684.77,South,Bengaluru,Credit Card
+ORD100036,C1251,2025-01-10,Air Fryer,Home Appliances,1,8179.55,West,Ahmedabad,Debit Card
+ORD100037,C1106,2025-12-22,Mixer Grinder,Home Appliances,4,5114.79,South,Bengaluru,Credit Card
+ORD100038,C1009,2025-07-02,Desk,Furniture,1,12815.63,East,Patna,Credit Card
+ORD100039,C1339,2025-01-03,Headphones,Electronics,1,3454.7,South,Hyderabad,Credit Card
+ORD100040,,2025-11-06,Headphones,Electronics,1,3659.47,East,Ranchi,UPI
+ORD100041,C1213,2025-10-07,Keyboard,Accessories,1,1808.86,West,Surat,Net Banking
+ORD100042,C1229,2025-02-11,Coffee Maker,Home Appliances,1,6422.92,North,Lucknow,Net Banking
+ORD100043,C1286,2025-11-03,Keyboard,Accessories,1,1870.85,South,Chennai,UPI
+ORD100044,C1109,2025-04-27,Air Fryer,Home Appliances,1,8205.18,West,Mumbai,UPI
+ORD100045,C1041,2025-06-16,Air Fryer,Home Appliances,1,7367.71,South,Vijayawada,UPI
+ORD100046,C1239,2025-07-08,T-Shirt,Fashion,1,1217.5,South,Bengaluru,Credit Card
+ORD100047,C1016,2025-07-15,Mixer Grinder,Home Appliances,3,5492.14,North,Jaipur,UPI
+ORD100048,C1018,2025-04-14,Air Fryer,Home Appliances,2,7695.5,South,Bengaluru,UPI
+ORD100049,C1324,2025-05-28,Air Fryer,Home Appliances,3,7240.85,South,Hyderabad,UPI
+ORD100050,C1273,2025-07-31,Mixer Grinder,Home Appliances,5,5451.29,East,Ranchi,Debit Card
+ORD100051,C1301,2025-12-19,Running Shoes,Fashion,2,4510.24,South,Vijayawada,Credit Card
+ORD100052,C1168,2025-06-08,Coffee Maker,Home Appliances,1,6125.36,West,Pune,Credit Card
+ORD100053,C1133,2025-06-08,Running Shoes,Fashion,1,4375.8,North,Delhi,Debit Card
+ORD100054,C1115,2025-10-09,Smartwatch,Electronics,4,6978.62,East,Bhubaneswar,Credit Card
+ORD100055,C1222,2025-10-07,Bookshelf,Furniture,3,6534.03,West,Surat,UPI
+ORD100056,C1047,2025-12-02,Headphones,Electronics,2,3702.0,South,Hyderabad,Credit Card
+ORD100057,C1049,2025-09-22,Running Shoes,Fashion,1,4813.88,West,Mumbai,Cash on Delivery
+ORD100058,C1332,2025-12-06,Headphones,Electronics,3,3665.26,West,Surat,UPI
+ORD100059,C1198,2025-02-17,T-Shirt,Fashion,2,1136.89,South,Hyderabad,Credit Card
+ORD100060,C1173,2025-07-08,Desk,Furniture,2,12574.55,North,Jaipur,Credit Card
+ORD100061,C1231,2025-06-28,Headphones,Electronics,1,3269.12,South,Vijayawada,Credit Card
+ORD100062,C1267,2025-10-26,Air Fryer,Home Appliances,1,8297.16,West,Surat,UPI
+ORD100063,C1328,2025-02-01,Coffee Maker,Home Appliances,1,6133.69,South,Chennai,Credit Card
+ORD100064,C1274,2025-05-12,Coffee Maker,Home Appliances,2,6953.59,West,Pune,Credit Card
+ORD100065,C1042,2025-06-04,Headphones,Electronics,2,3752.67,East,Bhubaneswar,Net Banking
+ORD100066,C1005,2025-07-18,Air Fryer,Home Appliances,2,8032.25,South,Hyderabad,Credit Card
+ORD100067,C1106,2025-01-05,T-Shirt,Fashion,1,1188.92,South,Vijayawada,Net Banking
+ORD100068,C1100,2025-09-07,Coffee Maker,Home Appliances,5,6894.37,South,Vijayawada,Net Banking
+ORD100069,C1032,2025-08-16,Laptop,Electronics,2,56321.1,East,Kolkata,Net Banking
+ORD100070,C1070,2025-10-23,Mixer Grinder,Home Appliances,1,5430.27,South,Bengaluru,Net Banking
+ORD100071,C1213,2025-10-27,Keyboard,Accessories,1,1670.88,South,Hyderabad,Net Banking
+ORD100072,C1325,2025-12-20,Bookshelf,Furniture,1,6813.0,East,Kolkata,Debit Card
+ORD100073,C1044,2025-02-11,Mixer Grinder,Home Appliances,1,4951.88,East,Patna,Credit Card
+ORD100074,C1258,2025-10-24,Backpack,Fashion,3,2078.63,West,Ahmedabad,UPI
+ORD100075,C1020,2025-07-05,Laptop,Electronics,5,55981.58,West,Pune,Credit Card
+ORD100076,C1033,2025-05-16,Laptop,Electronics,2,52123.53,East,Kolkata,UPI
+ORD100077,C1201,2025-11-15,Mouse,Accessories,3,919.64,North,Chandigarh,UPI
+ORD100078,C1228,2025-04-04,Smartwatch,Electronics,2,7223.75,South,Vijayawada,Cash on Delivery
+ORD100079,C1042,2025-02-17,Headphones,Electronics,1,3485.53,North,Delhi,UPI
+ORD100080,C1223,2025-05-27,Bookshelf,Furniture,1,6615.43,South,Chennai,Credit Card
+ORD100081,C1013,2025-12-02,Headphones,Electronics,2,3397.54,South,Chennai,Credit Card
+ORD100082,C1246,2025-08-04,Desk,Furniture,2,12126.28,South,Chennai,Debit Card
+ORD100083,C1151,2025-03-13,Backpack,Fashion,3,2217.3,South,Hyderabad,Debit Card
+ORD100084,C1323,2025-02-16,Desk,Furniture,2,12741.89,North,Jaipur,Credit Card
+ORD100085,C1173,2025-05-21,Coffee Maker,Home Appliances,1,6850.88,West,Ahmedabad,UPI
+ORD100086,C1117,2025-07-26,Laptop,Electronics,1,53069.38,East,Kolkata,UPI
+ORD100087,C1300,2025-09-15,T-Shirt,Fashion,1,1262.82,West,Pune,UPI
+ORD100088,C1336,2025-07-03,T-Shirt,Fashion,1,1174.06,West,Mumbai,Cash on Delivery
+ORD100089,C1136,2025-10-02,Office Chair,Furniture,2,8779.35,South,Vijayawada,Debit Card
+ORD100090,C1059,2025-09-17,Mouse,Accessories,2,851.58,South,Bengaluru,Net Banking
+ORD100091,C1050,2025-08-26,Air Fryer,Home Appliances,3,8411.92,North,Chandigarh,Credit Card
+ORD100092,C1165,2025-06-25,Mixer Grinder,Home Appliances,2,5144.9,South,Chennai,UPI
+ORD100093,C1103,2025-03-12,Keyboard,Accessories,1,1723.06,East,Kolkata,Credit Card
+ORD100094,C1296,2025-11-03,Bookshelf,Furniture,1,6233.41,North,Lucknow,Debit Card
+ORD100095,C1129,2025-09-22,Backpack,Fashion,2,2044.45,West,Ahmedabad,Credit Card
+ORD100096,C1299,2025-09-09,Air Fryer,Home Appliances,1,8135.25,East,Bhubaneswar,Credit Card
+ORD100097,C1175,2025-08-01,Office Chair,Furniture,3,8283.2,West,Surat,Credit Card
+ORD100098,C1063,2025-05-23,Desk,Furniture,4,12251.2,North,Delhi,UPI
+ORD100099,C1108,2025-06-03,Keyboard,Accessories,4,1785.08,South,Bengaluru,Credit Card
+ORD100100,C1344,2025-09-18,Backpack,Fashion,2,2247.09,South,Bengaluru,Debit Card
+ORD100101,C1338,2025-04-14,Air Fryer,Home Appliances,3,8075.43,West,Pune,Debit Card
+ORD100102,C1194,2025-08-26,Office Chair,Furniture,2,8418.52,South,Vijayawada,Debit Card
+ORD100103,C1263,2025-12-21,Office Chair,Furniture,1,8817.9,East,Ranchi,UPI
+ORD100104,C1345,2025-11-16,Laptop,Electronics,2,54909.36,South,Bengaluru,Credit Card
+ORD100105,C1195,2025-03-23,Keyboard,Accessories,3,1680.43,North,Chandigarh,Net Banking
+ORD100106,C1018,2025-12-14,Smartwatch,Electronics,1,6857.43,East,Ranchi,UPI
+ORD100107,C1259,2025-09-28,Air Fryer,Home Appliances,2,8256.09,West,Ahmedabad,Net Banking
+ORD100108,C1002,2025-06-11,Mouse,Accessories,2,951.57,South,Bengaluru,Credit Card
+ORD100109,C1236,2025-08-11,Smartwatch,Electronics,1,7443.11,South,Hyderabad,UPI
+ORD100110,C1207,2025-09-17,Office Chair,Furniture,3,8226.56,North,Chandigarh,Credit Card
+ORD100111,C1120,2025-09-04,Smartphone,Electronics,1,26139.96,East,Bhubaneswar,Debit Card
+ORD100112,C1048,2025-07-14,Office Chair,Furniture,1,8374.8,East,Ranchi,Credit Card
+ORD100113,C1321,2025-06-30,Headphones,Electronics,2,3439.73,West,Surat,Credit Card
+ORD100114,C1007,2025-07-22,Mouse,Accessories,1,857.08,North,Delhi,Credit Card
+ORD100115,C1264,2025-12-18,Bookshelf,Furniture,1,6977.58,North,Lucknow,Credit Card
+ORD100116,C1319,2025-11-22,Bookshelf,Furniture,1,6318.36,East,Bhubaneswar,Credit Card
+ORD100117,C1085,2025-11-08,Bookshelf,Furniture,2,6291.36,West,Ahmedabad,UPI
+ORD100118,C1278,2025-04-02,Headphones,Electronics,1,3534.43,East,Kolkata,Debit Card
+ORD100119,C1286,2025-04-04,Running Shoes,Fashion,5,4625.71,North,Jaipur,Net Banking
+ORD100120,C1229,2025-06-05,Keyboard,Accessories,2,1685.35,South,Vijayawada,Cash on Delivery
+ORD100121,C1037,2025-09-27,Coffee Maker,Home Appliances,1,6978.17,North,Lucknow,UPI
+ORD100122,C1110,2025-10-16,Laptop,Electronics,1,55141.57,South,Bengaluru,UPI
+ORD100123,C1073,2025-06-13,Mixer Grinder,Home Appliances,1,5364.89,North,Delhi,UPI
+ORD100124,C1302,2025-06-01,Desk,Furniture,1,11255.18,North,Jaipur,UPI
+ORD100125,C1274,2025-07-21,Smartphone,Electronics,1,27692.35,North,Lucknow,Net Banking
+ORD100126,C1240,2025-11-12,Desk,Furniture,1,11961.34,South,Chennai,UPI
+ORD100127,C1250,2025-11-12,Coffee Maker,Home Appliances,1,6459.2,East,Bhubaneswar,UPI
+ORD100128,C1066,2025-12-07,Running Shoes,Fashion,4,4146.67,South,Bengaluru,UPI
+ORD100129,C1207,2025-03-26,Headphones,Electronics,1,3538.76,West,Mumbai,Net Banking
+ORD100130,C1271,2025-11-24,Desk,Furniture,2,11352.47,East,Kolkata,Net Banking
+ORD100131,C1345,2025-11-28,Keyboard,Accessories,1,1829.79,East,Bhubaneswar,UPI
+ORD100132,C1076,2025-04-19,Coffee Maker,Home Appliances,3,6604.76,South,Vijayawada,Credit Card
+ORD100133,C1007,2025-05-20,Running Shoes,Fashion,1,4389.46,South,Chennai,UPI
+ORD100134,C1312,2025-02-15,Running Shoes,Fashion,2,4368.35,West,Ahmedabad,Credit Card
+ORD100135,,2025-10-17,Smartwatch,Electronics,2,6633.7,South,Bengaluru,Cash on Delivery
+ORD100136,C1045,2025-05-22,Smartwatch,Electronics,5,7094.8,South,Bengaluru,Net Banking
+ORD100137,C1018,2025-09-21,Smartphone,Electronics,2,26983.88,North,Chandigarh,Credit Card
+ORD100138,C1209,2025-01-19,Smartphone,Electronics,3,25841.36,West,Pune,UPI
+ORD100139,C1139,2025-07-11,Mixer Grinder,Home Appliances,2,5244.55,South,Vijayawada,Debit Card
+ORD100140,C1147,2025-02-24,Desk,Furniture,2,12928.16,West,Ahmedabad,Credit Card
+ORD100141,C1033,2025-12-09,Bookshelf,Furniture,2,6404.28,West,Mumbai,Net Banking
+ORD100142,C1063,2025-04-07,Running Shoes,Fashion,1,4832.32,West,Pune,UPI
+ORD100143,C1257,2025-11-18,Air Fryer,Home Appliances,1,7762.31,East,Ranchi,Net Banking
+ORD100144,C1275,2025-07-14,Running Shoes,Fashion,2,4666.42,North,Jaipur,Credit Card
+ORD100145,C1035,2025-07-03,Office Chair,Furniture,3,8905.41,East,Kolkata,UPI
+ORD100146,C1252,2025-10-21,Office Chair,Furniture,5,8332.92,South,Hyderabad,Net Banking
+ORD100147,C1144,2025-05-21,Running Shoes,Fashion,2,4558.31,South,Chennai,Credit Card
+ORD100148,C1138,2025-05-13,Backpack,Fashion,1,2156.78,North,Chandigarh,UPI
+ORD100149,C1086,2025-09-23,Keyboard,Accessories,1,1931.01,West,Mumbai,UPI
+ORD100150,C1066,2025-12-23,Desk,Furniture,1,11428.01,East,Ranchi,Credit Card
+ORD100151,C1336,2025-02-02,Laptop,Electronics,1,54837.12,South,Chennai,Debit Card
+ORD100152,C1268,2025-04-25,T-Shirt,Fashion,1,1160.6,South,Chennai,Net Banking
+ORD100153,C1026,2025-08-03,Coffee Maker,Home Appliances,5,6971.12,East,Ranchi,UPI
+ORD100154,C1216,2025-09-29,Bookshelf,Furniture,1,6859.63,North,Jaipur,Credit Card
+ORD100155,C1205,2025-05-17,Desk,Furniture,1,12675.71,South,Bengaluru,Debit Card
+ORD100156,C1271,2025-01-12,Coffee Maker,Home Appliances,1,6770.42,North,Jaipur,UPI
+ORD100157,C1093,2025-05-21,Running Shoes,Fashion,3,4212.28,South,Vijayawada,Net Banking
+ORD100158,C1249,2025-11-17,Running Shoes,Fashion,1,4316.59,North,Delhi,Net Banking
+ORD100159,C1086,2025-05-02,Backpack,Fashion,2,2111.44,South,Vijayawada,UPI
+ORD100160,C1172,2025-04-14,Laptop,Electronics,2,55155.42,East,Ranchi,Credit Card
+ORD100161,C1334,2025-03-08,Mouse,Accessories,1,846.1,North,Lucknow,Credit Card
+ORD100162,C1089,2025-03-02,Mixer Grinder,Home Appliances,2,4956.82,South,Vijayawada,UPI
+ORD100163,C1163,2025-01-27,Mouse,Accessories,1,915.57,East,Kolkata,Credit Card
+ORD100164,C1260,2025-10-26,Desk,Furniture,5,12611.15,South,Hyderabad,Credit Card
+ORD100165,C1120,2025-12-07,Mixer Grinder,Home Appliances,1,4825.69,East,Kolkata,Debit Card
+ORD100166,C1324,2025-03-18,Running Shoes,Fashion,3,4292.61,West,Ahmedabad,Credit Card
+ORD100167,C1022,2025-11-17,Keyboard,Accessories,5,1736.9,South,Hyderabad,Credit Card
+ORD100168,C1323,2025-02-25,Coffee Maker,Home Appliances,2,6388.64,South,Bengaluru,UPI
+ORD100169,C1166,2025-01-27,Office Chair,Furniture,2,8635.59,North,Lucknow,Cash on Delivery
+ORD100170,C1015,2025-08-02,Desk,Furniture,2,12664.33,South,Chennai,Credit Card
+ORD100171,C1231,2025-10-02,Keyboard,Accessories,5,1809.05,West,Surat,UPI
+ORD100172,C1197,2025-11-23,Mouse,Accessories,2,886.05,North,Chandigarh,Debit Card
+ORD100173,C1120,2025-05-27,Backpack,Fashion,1,2251.77,East,Patna,Credit Card
+ORD100174,C1230,2025-02-17,Office Chair,Furniture,1,8727.79,South,Chennai,Debit Card
+ORD100175,C1302,2025-12-10,Keyboard,Accessories,1,1880.11,South,Bengaluru,UPI
+ORD100176,C1100,2025-04-13,Air Fryer,Home Appliances,1,7349.04,South,Hyderabad,Debit Card
+ORD100177,C1334,2025-10-08,Air Fryer,Home Appliances,2,8051.34,South,Vijayawada,Credit Card
+ORD100178,C1140,2025-07-09,Coffee Maker,Home Appliances,1,6995.17,West,Pune,Debit Card
+ORD100179,C1156,2025-05-13,Backpack,Fashion,3,2238.8,North,Delhi,Cash on Delivery
+ORD100180,C1222,2025-06-11,Mixer Grinder,Home Appliances,2,5191.53,South,Vijayawada,UPI
+ORD100181,C1343,2025-12-08,Mixer Grinder,Home Appliances,4,5485.64,East,Kolkata,Debit Card
+ORD100182,C1085,2025-09-13,Bookshelf,Furniture,1,6454.71,West,Surat,Debit Card
+ORD100183,C1077,2025-04-15,Running Shoes,Fashion,2,4435.19,South,Chennai,Net Banking
+ORD100184,C1280,2025-06-15,Keyboard,Accessories,1,1752.81,South,Vijayawada,Net Banking
+ORD100185,C1350,2025-06-14,Smartwatch,Electronics,1,6876.87,West,Mumbai,UPI
+ORD100186,C1344,2025-04-16,Bookshelf,Furniture,2,6950.22,North,Delhi,UPI
+ORD100187,C1233,2025-03-23,Bookshelf,Furniture,1,6900.24,West,Mumbai,UPI
+ORD100188,C1176,2025-03-30,T-Shirt,Fashion,1,1210.02,South,Vijayawada,Debit Card
+ORD100189,C1034,2025-02-08,Coffee Maker,Home Appliances,5,6517.12,East,Patna,Debit Card
+ORD100190,C1018,2025-03-18,Smartphone,Electronics,1,27663.0,South,Vijayawada,Debit Card
+ORD100191,C1146,2025-12-08,Coffee Maker,Home Appliances,3,6834.08,West,Pune,UPI
+ORD100192,C1051,2025-04-08,Smartwatch,Electronics,1,7440.19,East,Patna,Net Banking
+ORD100193,C1019,2025-07-06,Air Fryer,Home Appliances,2,7260.26,South,Bengaluru,UPI
+ORD100194,C1289,2025-09-30,Smartphone,Electronics,1,28682.11,West,Pune,UPI
+ORD100195,C1287,2025-06-15,Laptop,Electronics,3,55342.69,East,Kolkata,UPI
+ORD100196,C1177,2025-03-15,Office Chair,Furniture,1,8843.17,West,Pune,Debit Card
+ORD100197,C1264,2025-08-25,T-Shirt,Fashion,1,1144.01,North,Jaipur,UPI
+ORD100198,C1140,2025-01-23,Coffee Maker,Home Appliances,1,6836.03,South,Bengaluru,Cash on Delivery
+ORD100199,C1307,2025-03-09,Mixer Grinder,Home Appliances,1,5110.91,West,Mumbai,Cash on Delivery
+ORD100200,C1102,2025-12-12,Bookshelf,Furniture,1,6662.32,South,Vijayawada,Debit Card
+ORD100201,C1010,2025-06-19,Laptop,Electronics,3,56852.69,North,Lucknow,UPI
+ORD100202,C1266,2025-04-05,Air Fryer,Home Appliances,1,7698.48,North,Lucknow,Net Banking
+ORD100203,C1111,2025-03-01,Mouse,Accessories,1,903.16,North,Lucknow,Credit Card
+ORD100204,C1314,2025-08-07,Running Shoes,Fashion,1,4292.84,South,Hyderabad,Debit Card
+ORD100205,C1328,2025-11-03,Coffee Maker,Home Appliances,1,6475.14,East,Kolkata,UPI
+ORD100206,C1075,2025-01-10,Mouse,Accessories,1,925.85,West,Mumbai,UPI
+ORD100207,C1302,2025-08-26,Office Chair,Furniture,1,8003.18,North,Delhi,UPI
+ORD100208,C1214,2025-12-06,Mouse,Accessories,1,866.13,South,Chennai,UPI
+ORD100209,C1041,2025-01-19,Mixer Grinder,Home Appliances,1,4873.36,East,Ranchi,Credit Card
+ORD100210,C1185,2025-09-10,Office Chair,Furniture,2,8934.94,East,Kolkata,Cash on Delivery
+ORD100211,C1202,2025-02-01,Office Chair,Furniture,1,9110.16,North,Delhi,Net Banking
+ORD100212,C1340,2025-04-16,Air Fryer,Home Appliances,1,7792.1,East,Kolkata,Credit Card
+ORD100213,C1068,2025-03-21,Mixer Grinder,Home Appliances,1,5051.14,West,Pune,UPI
+ORD100214,C1152,2025-06-10,Coffee Maker,Home Appliances,1,6405.02,West,Surat,Debit Card
+ORD100215,C1158,2025-04-09,Mouse,Accessories,1,875.41,East,Ranchi,Credit Card
+ORD100216,C1122,2025-12-21,Mouse,Accessories,2,874.18,West,Pune,UPI
+ORD100217,C1076,2025-11-12,Desk,Furniture,2,11787.07,South,Bengaluru,Credit Card
+ORD100218,C1210,2025-03-08,Coffee Maker,Home Appliances,3,6944.61,South,Vijayawada,Debit Card
+ORD100219,C1203,2025-12-03,Bookshelf,Furniture,1,6940.86,East,Kolkata,UPI
+ORD100220,C1261,2025-05-03,Running Shoes,Fashion,2,4159.1,West,Mumbai,Net Banking
+ORD100221,C1116,2025-12-08,Smartwatch,Electronics,1,7321.05,North,Jaipur,Net Banking
+ORD100222,C1272,2025-06-08,Bookshelf,Furniture,1,6147.01,West,Pune,Credit Card
+ORD100223,C1066,2025-11-07,Smartwatch,Electronics,4,7398.32,East,Patna,Credit Card
+ORD100224,C1169,2025-07-04,Bookshelf,Furniture,1,6823.4,North,Chandigarh,Credit Card
+ORD100225,C1147,2025-02-16,Running Shoes,Fashion,1,4406.39,West,Surat,UPI
+ORD100226,C1307,2025-09-24,Air Fryer,Home Appliances,1,7555.14,East,Ranchi,UPI
+ORD100227,C1234,2025-08-17,Bookshelf,Furniture,2,6149.93,North,Lucknow,UPI
+ORD100228,C1076,2025-12-06,Coffee Maker,Home Appliances,1,6523.14,South,Hyderabad,UPI
+ORD100229,C1142,2025-03-14,Backpack,Fashion,1,2357.46,North,Delhi,Net Banking
+ORD100230,C1222,2025-11-19,Office Chair,Furniture,2,9005.12,South,Vijayawada,Credit Card
+ORD100231,C1336,2025-06-24,Headphones,Electronics,2,3776.38,South,Chennai,UPI
+ORD100232,C1328,2025-04-24,Smartwatch,Electronics,3,6490.53,South,Hyderabad,Net Banking
+ORD100233,C1188,2025-09-21,Air Fryer,Home Appliances,3,7370.39,South,Bengaluru,Net Banking
+ORD100234,C1340,2025-03-04,Air Fryer,Home Appliances,1,7254.77,North,Lucknow,UPI
+ORD100235,C1304,2025-09-03,Coffee Maker,Home Appliances,4,6078.06,South,Bengaluru,Debit Card
+ORD100236,C1045,2025-08-17,Backpack,Fashion,3,2356.07,East,Ranchi,Debit Card
+ORD100237,C1247,2025-06-09,Keyboard,Accessories,3,1935.88,North,Lucknow,Credit Card
+ORD100238,C1032,2025-02-11,Office Chair,Furniture,1,8352.45,North,Jaipur,UPI
+ORD100239,C1013,2025-02-01,Backpack,Fashion,4,2239.5,North,Chandigarh,UPI
+ORD100240,C1328,2025-08-31,Mixer Grinder,Home Appliances,1,5213.11,East,Kolkata,Cash on Delivery
+ORD100241,C1069,2025-02-24,Laptop,Electronics,1,51157.29,South,Bengaluru,Credit Card
+ORD100242,C1281,2025-07-05,Mouse,Accessories,2,857.07,North,Chandigarh,Credit Card
+ORD100243,C1080,2025-06-22,Running Shoes,Fashion,1,4205.22,East,Ranchi,Credit Card
+ORD100244,C1064,2025-06-04,Running Shoes,Fashion,2,4529.14,North,Chandigarh,UPI
+ORD100245,C1253,2025-10-08,Headphones,Electronics,0,3348.04,West,Ahmedabad,UPI
+ORD100246,C1182,2025-07-13,T-Shirt,Fashion,1,1199.55,South,Vijayawada,Credit Card
+ORD100247,C1148,2025-12-03,Bookshelf,Furniture,1,6477.06,East,Bhubaneswar,UPI
+ORD100248,C1344,2025-08-07,Coffee Maker,Home Appliances,2,6032.87,South,Hyderabad,Credit Card
+ORD100249,C1227,2025-09-20,Desk,Furniture,1,12618.65,North,Chandigarh,Debit Card
+ORD100250,C1122,2025-04-21,Air Fryer,Home Appliances,3,7963.57,West,Pune,Debit Card
+ORD100251,C1285,2025-08-18,Coffee Maker,Home Appliances,1,6422.09,East,Patna,Credit Card
+ORD100252,C1046,2025-05-08,Laptop,Electronics,1,57157.79,North,Lucknow,UPI
+ORD100253,C1039,2025-07-25,Mouse,Accessories,3,867.25,West,Ahmedabad,Cash on Delivery
+ORD100254,C1309,2025-03-11,Mixer Grinder,Home Appliances,1,-100.0,South,Bengaluru,Debit Card
+ORD100255,C1052,2025-10-20,Headphones,Electronics,1,3487.91,South,Hyderabad,UPI
+ORD100256,C1025,2025-02-24,Smartwatch,Electronics,2,7229.63,South,Chennai,Credit Card
+ORD100257,C1288,2025-06-10,Smartwatch,Electronics,3,6942.03,West,Surat,UPI
+ORD100258,C1085,2025-09-20,Mouse,Accessories,1,884.46,South,Chennai,Debit Card
+ORD100259,C1107,2025-09-13,Headphones,Electronics,1,3465.74,South,Chennai,UPI
+ORD100260,C1226,2025-08-18,Air Fryer,Home Appliances,4,7797.42,West,Mumbai,Net Banking
+ORD100261,C1278,2025-07-04,Running Shoes,Fashion,3,4794.2,West,Surat,Credit Card
+ORD100262,C1143,2025-06-29,Coffee Maker,Home Appliances,1,6494.09,South,Bengaluru,Credit Card
+ORD100263,C1278,2025-03-13,Coffee Maker,Home Appliances,1,6214.18,East,Patna,Net Banking
+ORD100264,C1141,2025-02-16,Coffee Maker,Home Appliances,3,6306.92,East,Ranchi,UPI
+ORD100265,C1104,2025-08-13,Mixer Grinder,Home Appliances,1,5247.43,East,Patna,UPI
+ORD100266,C1292,2025-01-22,Smartwatch,Electronics,4,6891.23,South,Bengaluru,Debit Card
+ORD100267,C1320,2025-12-03,T-Shirt,Fashion,3,1154.82,South,Bengaluru,UPI
+ORD100268,C1338,2025-05-05,Keyboard,Accessories,1,1735.55,East,Patna,UPI
+ORD100269,C1271,2025-08-11,Laptop,Electronics,1,57426.96,North,Jaipur,UPI
+ORD100270,C1348,2025-05-13,Coffee Maker,Home Appliances,1,6574.01,South,Vijayawada,UPI
+ORD100271,C1139,2025-02-21,Smartwatch,Electronics,3,6539.73,North,Delhi,Debit Card
+ORD100272,C1168,2025-06-08,Headphones,Electronics,1,3449.63,South,Chennai,Net Banking
+ORD100273,C1142,2025-08-27,Desk,Furniture,5,11830.74,West,Ahmedabad,Cash on Delivery
+ORD100274,C1164,2025-06-01,Smartphone,Electronics,2,26198.09,West,Mumbai,UPI
+ORD100275,C1318,2025-03-19,Headphones,Electronics,1,3665.79,North,Delhi,Net Banking
+ORD100276,C1331,2025-01-09,Running Shoes,Fashion,1,4237.23,South,Chennai,Credit Card
+ORD100277,C1057,2025-02-01,Air Fryer,Home Appliances,1,7219.83,East,Kolkata,Debit Card
+ORD100278,C1297,2025-04-01,Office Chair,Furniture,4,8977.36,South,Vijayawada,UPI
+ORD100279,C1266,2025-07-16,Desk,Furniture,1,12228.32,East,Kolkata,UPI
+ORD100280,C1307,2025-01-21,Smartphone,Electronics,2,27736.68,East,Ranchi,Credit Card
+ORD100281,C1042,2025-06-04,Bookshelf,Furniture,2,6279.37,East,Patna,UPI
+ORD100282,C1276,2025-10-31,Keyboard,Accessories,2,1769.79,North,Lucknow,Net Banking
+ORD100283,C1066,2025-10-18,Coffee Maker,Home Appliances,2,6524.01,West,Mumbai,Debit Card
+ORD100284,C1124,2025-05-24,Office Chair,Furniture,4,9158.49,West,Surat,Debit Card
+ORD100285,C1307,2025-08-13,Running Shoes,Fashion,1,4436.91,East,Bhubaneswar,UPI
+ORD100286,C1106,2025-10-12,Desk,Furniture,5,12736.38,North,Chandigarh,Debit Card
+ORD100287,C1009,2025-12-13,Smartwatch,Electronics,2,7369.15,West,Pune,UPI
+ORD100288,C1122,2025-06-15,Air Fryer,Home Appliances,1,7244.9,West,Ahmedabad,Net Banking
+ORD100289,C1263,2025-05-12,Coffee Maker,Home Appliances,4,6032.92,North,Delhi,UPI
+ORD100290,C1186,2025-07-19,Desk,Furniture,3,11454.58,West,Surat,Debit Card
+ORD100291,C1249,2025-06-11,Coffee Maker,Home Appliances,1,0.0,South,Bengaluru,Debit Card
+ORD100292,C1225,2025-01-23,Mouse,Accessories,1,892.73,North,Lucknow,UPI
+ORD100293,C1050,2025-02-16,Laptop,Electronics,1,55691.76,East,Ranchi,Cash on Delivery
+ORD100294,C1075,2025-04-17,Headphones,Electronics,1,3314.72,East,Ranchi,UPI
+ORD100295,C1047,2025-01-11,Headphones,Electronics,5,3261.47,South,Bengaluru,Net Banking
+ORD100296,C1224,2025-04-23,Coffee Maker,Home Appliances,2,6897.46,West,Ahmedabad,Credit Card
+ORD100297,C1060,2025-01-25,Bookshelf,Furniture,1,6466.36,North,Lucknow,Debit Card
+ORD100298,C1116,2025-09-09,Coffee Maker,Home Appliances,1,6855.75,South,Chennai,Debit Card
+ORD100299,C1076,2025-10-02,Running Shoes,Fashion,2,4361.52,South,Vijayawada,Debit Card
+ORD100300,C1194,2025-05-04,Running Shoes,Fashion,2,4348.68,South,Vijayawada,Debit Card
+ORD100301,C1237,2025-08-14,Office Chair,Furniture,1,8763.22,West,Ahmedabad,Debit Card
+ORD100302,C1078,2025-12-30,Running Shoes,Fashion,1,4202.43,North,Delhi,Credit Card
+ORD100303,C1267,2025-01-14,Mixer Grinder,Home Appliances,3,5238.1,South,Hyderabad,Credit Card
+ORD100304,C1186,2025-12-17,Backpack,Fashion,4,2197.12,West,Pune,Credit Card
+ORD100305,C1323,2025-07-07,Bookshelf,Furniture,2,6480.86,South,Hyderabad,Credit Card
+ORD100306,C1076,2025-06-05,Backpack,Fashion,1,2087.67,East,Bhubaneswar,UPI
+ORD100307,C1012,2025-09-16,Backpack,Fashion,2,2282.18,North,Delhi,Credit Card
+ORD100308,C1115,2025-03-13,Bookshelf,Furniture,1,6631.7,East,Kolkata,Debit Card
+ORD100309,C1176,2025-12-11,Keyboard,Accessories,1,1916.87,West,Pune,Debit Card
+ORD100310,C1088,2025-05-08,Desk,Furniture,1,11590.83,East,Ranchi,UPI
+ORD100311,C1224,2025-05-05,Running Shoes,Fashion,5,4519.28,East,Patna,Net Banking
+ORD100312,C1107,2025-03-24,Office Chair,Furniture,2,8952.66,South,Vijayawada,Credit Card
+ORD100313,C1095,2025-12-17,Smartwatch,Electronics,3,7334.26,East,Ranchi,UPI
+ORD100314,C1143,2025-05-31,Running Shoes,Fashion,2,4598.4,West,Ahmedabad,Debit Card
+ORD100315,C1298,2025-07-14,Mixer Grinder,Home Appliances,1,4941.01,South,Chennai,Credit Card
+ORD100316,C1111,2025-12-23,Laptop,Electronics,2,50786.17,West,Mumbai,UPI
+ORD100317,C1204,2025-12-03,Smartwatch,Electronics,1,6501.53,South,Hyderabad,UPI
+ORD100318,C1155,2025-09-04,Laptop,Electronics,2,54513.25,South,Vijayawada,
+ORD100319,C1317,2025-08-05,Office Chair,Furniture,1,8062.9,East,Ranchi,Credit Card
+ORD100320,C1210,2025-03-13,T-Shirt,Fashion,2,1243.16,South,Bengaluru,Cash on Delivery
+ORD100321,C1079,2025-09-28,Air Fryer,Home Appliances,1,7624.86,South,Chennai,UPI
+ORD100322,C1226,2025-07-18,Smartphone,Electronics,1,27727.52,West,Pune,Credit Card
+ORD100323,C1167,2025-11-12,Running Shoes,Fashion,2,4214.01,East,Ranchi,Credit Card
+ORD100324,C1145,2025-03-01,T-Shirt,Fashion,1,1191.34,South,Bengaluru,UPI
+ORD100325,C1007,2025-07-14,Headphones,Electronics,1,3740.56,East,Ranchi,Cash on Delivery
+ORD100326,C1318,2025-03-13,Desk,Furniture,2,12902.79,South,Vijayawada,Cash on Delivery
+ORD100327,C1216,2025-12-09,Headphones,Electronics,3,3563.74,South,Hyderabad,Credit Card
+ORD100328,C1256,2025-09-14,Running Shoes,Fashion,2,4194.01,South,Hyderabad,Net Banking
+ORD100329,C1257,2025-02-17,Desk,Furniture,1,12901.36,North,Jaipur,UPI
+ORD100330,C1257,2025-07-10,Bookshelf,Furniture,1,6960.27,South,Bengaluru,UPI
+ORD100331,C1217,2025-08-04,Bookshelf,Furniture,3,6231.37,North,Chandigarh,Cash on Delivery
+ORD100332,C1031,2025-06-14,Smartphone,Electronics,5,26434.68,West,Pune,Debit Card
+ORD100333,C1100,2025-02-21,Mixer Grinder,Home Appliances,1,5411.14,South,Chennai,UPI
+ORD100334,C1334,2025-10-20,Laptop,Electronics,3,54528.23,North,Chandigarh,Debit Card
+ORD100335,C1054,2025-04-09,Headphones,Electronics,1,3299.32,East,Kolkata,Debit Card
+ORD100336,C1146,2025-09-09,Smartphone,Electronics,1,27736.03,South,Bengaluru,Credit Card
+ORD100337,C1228,2025-04-30,Keyboard,Accessories,2,1763.63,South,Chennai,UPI
+ORD100338,C1284,2025-10-07,Office Chair,Furniture,1,8355.94,South,Bengaluru,UPI
+ORD100339,C1121,2025-10-04,Mixer Grinder,Home Appliances,1,5212.59,West,Ahmedabad,Credit Card
+ORD100340,C1211,2025-12-24,Coffee Maker,Home Appliances,4,6003.16,West,Mumbai,Debit Card
+ORD100341,C1344,2025-12-25,Air Fryer,Home Appliances,2,8335.59,West,Pune,UPI
+ORD100342,C1346,2025-02-03,Mouse,Accessories,1,876.43,North,Jaipur,UPI
+ORD100343,C1343,2025-02-25,Smartphone,Electronics,1,27909.5,East,Bhubaneswar,Credit Card
+ORD100344,C1177,2025-10-15,Laptop,Electronics,4,52939.12,South,Bengaluru,UPI
+ORD100345,C1091,2025-12-22,Backpack,Fashion,2,2365.84,East,Bhubaneswar,Credit Card
+ORD100346,C1137,2025-11-11,T-Shirt,Fashion,1,1268.25,North,Chandigarh,Credit Card
+ORD100347,C1138,2025-05-28,Air Fryer,Home Appliances,1,7214.77,South,Vijayawada,UPI
+ORD100348,C1125,2025-07-04,T-Shirt,Fashion,2,1154.59,South,Hyderabad,UPI
+ORD100349,C1201,2025-01-21,Keyboard,Accessories,1,1901.56,North,Lucknow,UPI
+ORD100350,C1044,2025-07-22,Laptop,Electronics,1,54952.48,North,Chandigarh,UPI
+ORD100351,C1213,2025-03-24,T-Shirt,Fashion,3,1283.89,South,Hyderabad,Debit Card
+ORD100352,C1182,2025-02-10,Office Chair,Furniture,1,8041.48,East,Patna,Credit Card
+ORD100353,C1093,2025-08-09,Coffee Maker,Home Appliances,1,6944.78,West,Mumbai,UPI
+ORD100354,C1098,2025-05-09,Bookshelf,Furniture,1,6014.12,South,Bengaluru,UPI
+ORD100355,C1032,2025-04-30,Air Fryer,Home Appliances,1,7585.25,North,Jaipur,UPI
+ORD100356,C1177,2025-01-17,Smartwatch,Electronics,5,7479.95,West,Mumbai,Credit Card
+ORD100357,C1314,2025-06-24,Air Fryer,Home Appliances,2,8229.65,West,Pune,Credit Card
+ORD100358,C1034,2025-06-29,Smartphone,Electronics,1,29923.01,East,Ranchi,Cash on Delivery
+ORD100359,C1270,2025-09-02,Office Chair,Furniture,2,7866.48,South,Vijayawada,Debit Card
+ORD100360,C1145,2025-12-24,Mixer Grinder,Home Appliances,1,5013.57,East,Patna,UPI
+ORD100361,C1308,2025-01-18,Running Shoes,Fashion,1,4446.07,South,Chennai,UPI
+ORD100362,C1147,2025-01-19,Mixer Grinder,Home Appliances,1,5202.09,North,Chandigarh,UPI
+ORD100363,C1145,2025-07-21,Mouse,Accessories,1,909.47,South,Hyderabad,Net Banking
+ORD100364,C1294,2025-07-31,Bookshelf,Furniture,3,6986.3,East,Bhubaneswar,UPI
+ORD100365,C1093,2025-04-26,Air Fryer,Home Appliances,3,7905.03,South,Hyderabad,Cash on Delivery
+ORD100366,C1210,2025-05-03,Bookshelf,Furniture,2,6041.2,West,Mumbai,Net Banking
+ORD100367,C1042,2025-05-19,Laptop,Electronics,1,56433.74,North,Delhi,Cash on Delivery
+ORD100368,C1252,2025-05-02,Smartwatch,Electronics,1,7098.15,South,Vijayawada,Credit Card
+ORD100369,C1306,2025-04-25,Desk,Furniture,5,11914.28,South,Bengaluru,Credit Card
+ORD100370,C1332,2025-08-28,Coffee Maker,Home Appliances,1,6946.82,South,Vijayawada,UPI
+ORD100371,C1315,2025-07-21,Keyboard,Accessories,1,1710.73,North,Jaipur,UPI
+ORD100372,C1119,2025-02-07,Desk,Furniture,1,12295.16,South,Hyderabad,Debit Card
+ORD100373,C1048,2025-06-28,Office Chair,Furniture,2,9011.72,East,Kolkata,UPI
+ORD100374,C1130,2025-06-21,Bookshelf,Furniture,1,6043.06,North,Jaipur,UPI
+ORD100375,C1136,2025-05-01,Running Shoes,Fashion,1,4591.41,South,Chennai,UPI
+ORD100376,C1339,2025-04-07,T-Shirt,Fashion,1,1216.8,West,Ahmedabad,Credit Card
+ORD100377,C1245,2025-12-28,Smartphone,Electronics,1,27682.36,West,Surat,Cash on Delivery
+ORD100378,C1264,2025-09-15,Mixer Grinder,Home Appliances,2,4889.3,South,Chennai,Credit Card
+ORD100379,C1265,2025-06-12,Smartphone,Electronics,2,28503.73,East,Patna,Net Banking
+ORD100380,C1302,2025-02-26,Desk,Furniture,2,11455.24,South,Vijayawada,Debit Card
+ORD100381,C1072,2025-04-23,Desk,Furniture,1,12391.25,South,Chennai,UPI
+ORD100382,C1341,2025-03-12,Desk,Furniture,1,11601.24,West,Surat,Debit Card
+ORD100383,C1255,2025-01-27,Backpack,Fashion,1,2037.91,South,Hyderabad,UPI
+ORD100384,C1166,2025-03-18,Air Fryer,Home Appliances,4,8120.12,West,Mumbai,Credit Card
+ORD100385,C1210,2025-04-17,Air Fryer,Home Appliances,2,7714.08,South,Chennai,Net Banking
+ORD100386,C1124,2025-10-06,Running Shoes,Fashion,1,4270.11,South,Vijayawada,UPI
+ORD100387,C1012,2025-11-04,Keyboard,Accessories,1,1920.74,West,Mumbai,UPI
+ORD100388,C1074,2025-05-01,Laptop,Electronics,1,59277.06,South,Chennai,UPI
+ORD100389,,2025-04-25,Smartphone,Electronics,2,27447.77,North,Lucknow,UPI
+ORD100390,C1199,2025-07-22,Coffee Maker,Home Appliances,3,6364.35,West,Pune,UPI
+ORD100391,C1254,2025-01-03,Keyboard,Accessories,2,1738.96,South,Bengaluru,UPI
+ORD100392,C1020,2025-11-21,Bookshelf,Furniture,1,6004.71,East,Ranchi,Net Banking
+ORD100393,C1172,2025-11-20,Coffee Maker,Home Appliances,1,6807.35,North,Delhi,Credit Card
+ORD100394,C1168,2025-04-17,Air Fryer,Home Appliances,3,7240.58,South,Vijayawada,Net Banking
+ORD100395,C1129,2025-01-23,Smartphone,Electronics,1,27635.22,West,Ahmedabad,Credit Card
+ORD100396,C1128,2025-11-12,Smartwatch,Electronics,1,6720.96,South,Chennai,UPI
+ORD100397,C1297,2025-12-20,Mixer Grinder,Home Appliances,1,5361.29,West,Surat,UPI
+ORD100398,C1346,2025-03-06,Office Chair,Furniture,1,8856.66,South,Bengaluru,UPI
+ORD100399,C1126,2025-11-05,Mouse,Accessories,2,936.87,South,Hyderabad,UPI
+ORD100400,C1044,2025-07-03,Keyboard,Accessories,1,1710.57,East,Patna,Credit Card
+ORD100401,C1283,2025-05-23,Running Shoes,Fashion,2,4782.63,West,Ahmedabad,UPI
+ORD100402,C1239,2025-07-16,Desk,Furniture,1,12829.33,South,Hyderabad,Cash on Delivery
+ORD100403,C1083,2025-05-23,Desk,Furniture,1,11245.99,North,Jaipur,Credit Card
+ORD100404,C1268,2025-10-02,Headphones,Electronics,1,3330.87,East,Kolkata,UPI
+ORD100405,C1222,2025-11-05,Headphones,Electronics,1,3607.43,West,Surat,Debit Card
+ORD100406,C1245,2025-12-03,Laptop,Electronics,2,53437.68,West,Surat,Cash on Delivery
+ORD100407,C1350,2025-05-19,Laptop,Electronics,1,57253.86,West,Ahmedabad,UPI
+ORD100408,C1018,2025-01-22,Laptop,Electronics,1,55629.81,North,Delhi,Credit Card
+ORD100409,C1225,2025-03-11,Mixer Grinder,Home Appliances,2,5383.22,West,Ahmedabad,Debit Card
+ORD100410,C1096,2025-02-08,Coffee Maker,Home Appliances,2,6085.24,North,Lucknow,Credit Card
+ORD100411,C1078,2025-03-08,Bookshelf,Furniture,1,6595.97,West,Surat,Debit Card
+ORD100412,C1157,2025-09-23,Air Fryer,Home Appliances,2,7598.56,West,Surat,Net Banking
+ORD100413,,2025-10-13,Laptop,Electronics,1,51043.34,North,Lucknow,UPI
+ORD100414,C1038,2025-12-11,Headphones,Electronics,2,3351.51,East,Bhubaneswar,UPI
+ORD100415,C1039,2025-07-29,Laptop,Electronics,2,57663.8,North,Chandigarh,Credit Card
+ORD100416,C1310,2025-12-07,Air Fryer,Home Appliances,1,8328.28,North,Chandigarh,Credit Card
+ORD100417,C1012,2025-03-14,Bookshelf,Furniture,3,6498.54,South,Hyderabad,Debit Card
+ORD100418,C1330,2025-08-07,Coffee Maker,Home Appliances,1,6035.46,East,Ranchi,Cash on Delivery
+ORD100419,C1042,2025-11-15,Laptop,Electronics,1,54293.94,West,Ahmedabad,UPI
+ORD100420,C1193,2025-11-30,T-Shirt,Fashion,1,1147.53,East,Kolkata,UPI
+ORD100421,C1320,2025-04-17,Mouse,Accessories,1,918.17,West,Mumbai,UPI
+ORD100422,C1218,2025-07-16,Bookshelf,Furniture,3,6636.54,East,Ranchi,Debit Card
+ORD100423,C1274,2025-03-05,Desk,Furniture,4,12164.36,South,Hyderabad,UPI
+ORD100424,C1119,2025-07-09,Keyboard,Accessories,2,1781.85,North,Delhi,UPI
+ORD100425,C1112,2025-08-13,Headphones,Electronics,4,3316.84,North,Lucknow,UPI
+ORD100426,C1100,2025-04-29,Backpack,Fashion,2,2358.4,North,Lucknow,Debit Card
+ORD100427,C1217,2025-10-25,Bookshelf,Furniture,1,6012.23,South,Bengaluru,Debit Card
+ORD100428,C1015,2025-06-23,Smartphone,Electronics,2,27534.37,North,Lucknow,UPI
+ORD100429,C1263,2025-08-22,Office Chair,Furniture,1,8578.31,East,Patna,Net Banking
+ORD100430,C1043,2025-12-06,Mouse,Accessories,2,951.69,West,Ahmedabad,Cash on Delivery
+ORD100431,C1002,2025-05-09,Mouse,Accessories,1,856.03,East,Kolkata,Credit Card
+ORD100432,C1269,2025-11-08,Air Fryer,Home Appliances,1,7678.16,South,Chennai,Net Banking
+ORD100433,C1032,2025-07-01,Coffee Maker,Home Appliances,1,6929.85,South,Hyderabad,Credit Card
+ORD100434,C1160,2025-07-10,Bookshelf,Furniture,1,6674.09,East,Ranchi,Debit Card
+ORD100435,C1234,2025-10-15,Desk,Furniture,2,11486.5,South,Bengaluru,UPI
+ORD100436,C1095,2025-02-01,Keyboard,Accessories,1,1878.59,East,Ranchi,Credit Card
+ORD100437,C1308,2025-05-09,Keyboard,Accessories,3,1915.82,East,Kolkata,Cash on Delivery
+ORD100438,C1197,2025-09-18,Mouse,Accessories,2,888.84,East,Kolkata,UPI
+ORD100439,C1311,2025-11-01,Laptop,Electronics,1,54969.77,South,Chennai,Debit Card
+ORD100440,C1289,2025-04-02,T-Shirt,Fashion,1,1144.18,North,Lucknow,UPI
+ORD100441,C1102,2025-04-07,T-Shirt,Fashion,2,1269.68,West,Ahmedabad,Net Banking
+ORD100442,C1348,2025-01-25,Mouse,Accessories,2,949.87,West,Ahmedabad,Credit Card
+ORD100443,C1139,2025-03-18,Smartwatch,Electronics,1,7478.18,West,Surat,Credit Card
+ORD100444,C1138,2025-11-30,Backpack,Fashion,3,2163.59,South,Bengaluru,UPI
+ORD100445,C1202,2025-09-27,Headphones,Electronics,3,3259.26,East,Bhubaneswar,Credit Card
+ORD100446,C1204,2025-04-23,Keyboard,Accessories,1,1791.9,North,Lucknow,Credit Card
+ORD100447,C1281,2025-08-27,Smartphone,Electronics,2,27289.38,East,Bhubaneswar,Net Banking
+ORD100448,C1084,2025-05-12,Keyboard,Accessories,1,1868.88,West,Mumbai,Debit Card
+ORD100449,C1307,2025-01-23,Headphones,Electronics,4,3433.53,North,Jaipur,Cash on Delivery
+ORD100450,C1138,2025-12-11,Desk,Furniture,3,11101.73,South,Vijayawada,Net Banking
+ORD100451,C1249,2025-07-24,Mixer Grinder,Home Appliances,1,5459.83,North,Lucknow,Credit Card
+ORD100452,C1341,2025-10-20,Desk,Furniture,1,12274.18,South,Vijayawada,UPI
+ORD100453,C1177,2025-05-02,Keyboard,Accessories,3,1721.2,South,Bengaluru,Cash on Delivery
+ORD100454,C1125,2025-04-02,Office Chair,Furniture,2,8918.13,North,Delhi,Credit Card
+ORD100455,C1138,2025-02-28,Office Chair,Furniture,3,8005.86,West,Mumbai,Net Banking
+ORD100456,C1096,2025-07-21,Air Fryer,Home Appliances,2,7592.95,South,Bengaluru,Credit Card
+ORD100457,C1033,2025-12-28,Coffee Maker,Home Appliances,-2,6578.31,North,Delhi,Net Banking
+ORD100458,C1073,2025-03-06,Backpack,Fashion,1,2299.53,West,Mumbai,UPI
+ORD100459,C1294,2025-07-14,Coffee Maker,Home Appliances,1,6732.97,South,Chennai,UPI
+ORD100460,C1236,2025-07-11,Backpack,Fashion,3,2269.85,West,Surat,Credit Card
+ORD100461,C1026,2025-01-10,Office Chair,Furniture,1,8249.44,East,Patna,Cash on Delivery
+ORD100462,C1057,2025-04-14,Desk,Furniture,3,12942.72,West,Pune,Debit Card
+ORD100463,C1228,2025-08-28,Smartwatch,Electronics,2,6837.29,South,Vijayawada,Credit Card
+ORD100464,C1224,2025-02-03,Smartphone,Electronics,1,26222.89,South,Chennai,UPI
+ORD100465,C1328,2025-07-31,Keyboard,Accessories,2,1811.28,West,Mumbai,Credit Card
+ORD100466,C1297,2025-10-22,Backpack,Fashion,2,2371.93,South,Vijayawada,Credit Card
+ORD100467,C1350,2025-05-03,Desk,Furniture,2,12519.16,North,Lucknow,Credit Card
+ORD100468,C1116,2025-08-22,Running Shoes,Fashion,1,4316.23,West,Mumbai,Debit Card
+ORD100469,C1243,2025-03-17,Coffee Maker,Home Appliances,1,6888.17,South,Bengaluru,UPI
+ORD100470,C1153,2025-04-03,Office Chair,Furniture,1,8631.55,North,Delhi,Cash on Delivery
+ORD100471,C1344,2025-12-22,Coffee Maker,Home Appliances,1,6974.09,West,Pune,Debit Card
+ORD100472,C1078,2025-02-17,Laptop,Electronics,3,57079.92,South,Chennai,Credit Card
+ORD100473,C1228,2025-12-14,Backpack,Fashion,2,2250.39,East,Bhubaneswar,UPI
+ORD100474,C1154,2025-07-18,Desk,Furniture,3,11871.36,South,Chennai,UPI
+ORD100475,C1269,2025-01-28,Coffee Maker,Home Appliances,1,6046.78,West,Mumbai,UPI
+ORD100476,,2025-07-15,Running Shoes,Fashion,3,4371.0,North,Jaipur,Cash on Delivery
+ORD100477,C1146,2025-12-24,Office Chair,Furniture,2,8442.74,North,Lucknow,Credit Card
+ORD100478,C1144,2025-11-04,Smartwatch,Electronics,1,6578.72,South,Chennai,Credit Card
+ORD100479,C1008,2025-01-07,Keyboard,Accessories,2,1787.83,South,Vijayawada,UPI
+ORD100480,C1186,2025-05-01,Air Fryer,Home Appliances,1,7676.83,South,Bengaluru,UPI
+ORD100481,C1192,2025-06-21,Smartphone,Electronics,2,27234.26,South,Bengaluru,UPI
+ORD100482,C1052,2025-03-12,Office Chair,Furniture,1,7992.53,East,Kolkata,Cash on Delivery
+ORD100483,C1342,2025-05-24,Backpack,Fashion,5,2055.13,West,Ahmedabad,UPI
+ORD100484,C1053,2025-04-23,Air Fryer,Home Appliances,1,8338.19,North,Lucknow,Cash on Delivery
+ORD100485,C1324,2025-05-29,Desk,Furniture,4,11150.59,West,Pune,Credit Card
+ORD100486,C1160,2025-02-13,Running Shoes,Fashion,2,4624.93,South,Hyderabad,UPI
+ORD100487,C1350,2025-10-12,Mixer Grinder,Home Appliances,1,5373.77,East,Kolkata,UPI
+ORD100488,C1240,2025-04-04,Air Fryer,Home Appliances,1,7912.06,West,Mumbai,Credit Card
+ORD100489,C1198,2025-11-30,Desk,Furniture,2,11438.66,West,Pune,Net Banking
+ORD100490,C1086,2025-11-30,Air Fryer,Home Appliances,1,7283.19,North,Lucknow,UPI
+ORD100491,C1100,2025-08-31,Headphones,Electronics,3,3314.44,South,Vijayawada,Credit Card
+ORD100492,C1054,2025-12-06,Smartphone,Electronics,4,29681.32,West,Pune,Debit Card
+ORD100493,C1055,2025-09-09,Headphones,Electronics,2,3408.37,East,Kolkata,UPI
+ORD100494,C1036,2025-11-29,Keyboard,Accessories,3,1935.3,East,Kolkata,Credit Card
+ORD100495,C1201,2025-02-27,Smartphone,Electronics,1,27029.93,North,Jaipur,UPI
+ORD100496,C1178,2025-12-08,Smartwatch,Electronics,1,7482.27,West,Pune,Net Banking
+ORD100497,C1215,2025-03-05,Headphones,Electronics,2,3710.06,West,Ahmedabad,UPI
+ORD100498,C1022,2025-07-01,Coffee Maker,Home Appliances,1,6230.95,West,Mumbai,Credit Card
+ORD100499,C1109,2025-02-21,Air Fryer,Home Appliances,3,8201.71,West,Mumbai,Credit Card
+ORD100500,C1343,2025-11-08,Air Fryer,Home Appliances,2,7438.19,North,Lucknow,UPI
+ORD100501,C1030,2025-01-26,Running Shoes,Fashion,1,4676.89,West,Surat,Debit Card
+ORD100502,C1103,2025-04-05,Running Shoes,Fashion,1,4680.6,South,Hyderabad,Net Banking
+ORD100503,C1332,2025-10-08,Desk,Furniture,1,12401.17,West,Surat,UPI
+ORD100504,C1166,2025-08-05,Backpack,Fashion,1,2285.3,South,Chennai,Credit Card
+ORD100505,C1211,2025-01-02,Headphones,Electronics,1,3701.42,South,Chennai,UPI
+ORD100506,C1345,2025-02-24,Desk,Furniture,1,11481.8,South,Vijayawada,Debit Card
+ORD100507,C1133,2025-11-24,T-Shirt,Fashion,1,1226.02,South,Hyderabad,Cash on Delivery
+ORD100508,C1162,2025-03-06,T-Shirt,Fashion,2,1291.28,North,Chandigarh,Debit Card
+ORD100509,C1227,2025-10-29,T-Shirt,Fashion,3,1122.73,South,Vijayawada,Debit Card
+ORD100510,C1076,2025-11-04,Running Shoes,Fashion,2,4249.2,North,Lucknow,UPI
+ORD100511,C1131,2025-04-27,Smartwatch,Electronics,1,7428.75,North,Lucknow,Credit Card
+ORD100512,C1006,2025-04-26,Air Fryer,Home Appliances,2,7735.68,South,Chennai,Cash on Delivery
+ORD100513,C1119,2025-08-29,Smartphone,Electronics,3,29822.5,West,Surat,Credit Card
+ORD100514,C1231,2025-04-02,Smartphone,Electronics,1,26270.3,South,Hyderabad,Debit Card
+ORD100515,C1192,2025-09-30,Mixer Grinder,Home Appliances,1,5161.41,South,Vijayawada,Net Banking
+ORD100516,C1163,2025-02-17,Mouse,Accessories,3,966.9,East,Ranchi,UPI
+ORD100517,C1334,2025-12-09,Smartwatch,Electronics,1,6630.33,North,Delhi,UPI
+ORD100518,C1117,2025-07-31,Laptop,Electronics,2,56548.97,West,Surat,Debit Card
+ORD100519,C1249,2025-05-18,Office Chair,Furniture,1,8167.05,East,Kolkata,Debit Card
+ORD100520,C1095,2025-10-24,Laptop,Electronics,1,56525.29,West,Pune,UPI
+ORD100521,C1067,2025-01-23,Running Shoes,Fashion,1,4467.01,South,Bengaluru,UPI
+ORD100522,C1150,2025-02-15,Keyboard,Accessories,2,1927.86,South,Hyderabad,Net Banking
+ORD100523,C1296,2025-07-28,Backpack,Fashion,2,2291.88,South,Bengaluru,UPI
+ORD100524,C1349,2025-06-20,Smartphone,Electronics,1,26535.15,North,Chandigarh,UPI
+ORD100525,C1301,2025-02-23,Keyboard,Accessories,2,1860.97,West,Surat,UPI
+ORD100526,C1066,2025-05-25,Mouse,Accessories,1,845.83,West,Mumbai,UPI
+ORD100527,C1344,2025-10-11,Laptop,Electronics,4,53346.5,South,Bengaluru,Cash on Delivery
+ORD100528,C1034,2025-03-26,Bookshelf,Furniture,2,6698.27,West,Mumbai,UPI
+ORD100529,C1249,2025-03-05,Backpack,Fashion,5,2260.54,West,Mumbai,Cash on Delivery
+ORD100530,C1002,2025-09-12,Desk,Furniture,3,11740.18,South,Hyderabad,Credit Card
+ORD100531,C1021,2025-01-10,Running Shoes,Fashion,1,4265.12,South,Vijayawada,UPI
+ORD100532,C1069,2025-04-17,Bookshelf,Furniture,1,6279.85,East,Patna,UPI
+ORD100533,C1195,2025-04-04,Smartwatch,Electronics,2,6874.62,West,Ahmedabad,UPI
+ORD100534,C1321,2025-10-24,Backpack,Fashion,2,2348.8,East,Kolkata,Debit Card
+ORD100535,C1039,2025-03-19,Desk,Furniture,1,11160.14,North,Chandigarh,UPI
+ORD100536,C1052,2025-09-03,Running Shoes,Fashion,3,4564.95,West,Pune,Debit Card
+ORD100537,C1096,2025-11-02,Smartwatch,Electronics,1,6810.27,South,Chennai,Net Banking
+ORD100538,C1238,2025-12-25,Laptop,Electronics,1,57708.94,West,Surat,UPI
+ORD100539,C1182,2025-02-18,Keyboard,Accessories,1,1688.29,North,Lucknow,UPI
+ORD100540,C1125,2025-03-30,Desk,Furniture,4,11586.94,South,Bengaluru,UPI
+ORD100541,C1041,2025-02-18,Running Shoes,Fashion,4,4355.95,West,Surat,Credit Card
+ORD100542,C1340,2025-02-14,Keyboard,Accessories,3,1792.1,East,Bhubaneswar,Credit Card
+ORD100543,C1036,2025-02-02,Office Chair,Furniture,1,8913.44,North,Jaipur,UPI
+ORD100544,C1026,2025-04-19,Keyboard,Accessories,1,1856.48,South,Hyderabad,Credit Card
+ORD100545,C1334,2025-05-06,Mixer Grinder,Home Appliances,1,5419.16,South,Chennai,UPI
+ORD100546,C1247,2025-07-27,Bookshelf,Furniture,2,6718.32,West,Surat,Net Banking
+ORD100547,C1233,2025-08-20,Headphones,Electronics,1,3278.94,North,Jaipur,UPI
+ORD100548,C1220,2025-01-12,Laptop,Electronics,1,56220.83,South,Chennai,Credit Card
+ORD100549,C1203,2025-09-23,Laptop,Electronics,1,56940.04,North,Delhi,Credit Card
+ORD100550,C1168,2025-11-11,Smartwatch,Electronics,2,6996.62,East,Bhubaneswar,UPI
+ORD100551,C1252,2025-01-31,Headphones,Electronics,1,3779.67,South,Vijayawada,UPI
+ORD100552,C1327,2025-02-12,Air Fryer,Home Appliances,2,7265.31,South,Bengaluru,Cash on Delivery
+ORD100553,C1259,2025-03-12,Desk,Furniture,1,11162.83,West,Ahmedabad,UPI
+ORD100554,C1248,2025-10-19,Smartphone,Electronics,1,27704.48,South,Bengaluru,Net Banking
+ORD100555,C1178,2025-11-20,Backpack,Fashion,1,2322.77,East,Patna,UPI
+ORD100556,C1129,2025-06-14,Smartphone,Electronics,1,26847.18,South,Vijayawada,UPI
+ORD100557,C1120,2025-03-10,Mouse,Accessories,1,902.99,East,Patna,Net Banking
+ORD100558,C1279,2025-10-30,Mouse,Accessories,2,924.75,South,Bengaluru,Credit Card
+ORD100559,C1014,2025-11-23,Air Fryer,Home Appliances,1,7320.89,North,Chandigarh,UPI
+ORD100560,C1238,2025-07-25,Smartwatch,Electronics,2,6978.28,North,Jaipur,Debit Card
+ORD100561,C1111,2025-02-15,Mixer Grinder,Home Appliances,2,5280.23,North,Jaipur,UPI
+ORD100562,C1313,2025-01-01,Backpack,Fashion,1,2179.25,West,Ahmedabad,UPI
+ORD100563,C1004,2025-08-12,Air Fryer,Home Appliances,2,7705.57,South,Vijayawada,Net Banking
+ORD100564,C1323,2025-06-26,Desk,Furniture,1,12703.25,East,,Credit Card
+ORD100565,C1154,2025-07-10,Desk,Furniture,2,12853.5,West,Mumbai,UPI
+ORD100566,C1260,2025-04-01,Air Fryer,Home Appliances,5,7211.37,West,Mumbai,Cash on Delivery
+ORD100567,C1025,2025-11-07,Mixer Grinder,Home Appliances,2,5323.11,South,Bengaluru,Net Banking
+ORD100568,C1181,2025-05-31,Office Chair,Furniture,3,8925.01,East,Patna,UPI
+ORD100569,C1179,2025-07-17,Air Fryer,Home Appliances,2,7343.2,South,Hyderabad,UPI
+ORD100570,C1021,2025-09-19,Desk,Furniture,2,12550.63,South,Chennai,Net Banking
+ORD100571,C1054,2025-05-07,Keyboard,Accessories,2,1771.95,North,Chandigarh,Credit Card
+ORD100572,C1197,2025-09-23,T-Shirt,Fashion,4,1261.75,East,Kolkata,Credit Card
+ORD100573,C1116,2025-12-28,Air Fryer,Home Appliances,1,7877.3,South,Vijayawada,UPI
+ORD100574,C1015,2025-01-18,Office Chair,Furniture,1,8075.49,West,Mumbai,UPI
+ORD100575,C1115,2025-04-07,Smartphone,Electronics,2,29149.33,South,Vijayawada,Net Banking
+ORD100576,C1347,2025-02-28,Laptop,Electronics,1,50908.8,North,Lucknow,Debit Card
+ORD100577,C1158,2025-04-04,Keyboard,Accessories,1,1884.05,East,Ranchi,Debit Card
+ORD100578,C1217,2025-01-26,Mouse,Accessories,2,942.19,South,Bengaluru,UPI
+ORD100579,C1194,2025-10-17,Desk,Furniture,1,11898.48,East,Bhubaneswar,Credit Card
+ORD100580,C1327,2025-03-05,Mouse,Accessories,3,958.9,North,Lucknow,Credit Card
+ORD100581,C1245,2025-07-19,Keyboard,Accessories,3,1818.14,West,Pune,Debit Card
+ORD100582,C1206,2025-04-18,Smartwatch,Electronics,1,6998.18,West,Ahmedabad,UPI
+ORD100583,C1251,2025-03-26,Bookshelf,Furniture,1,6829.01,West,Surat,Debit Card
+ORD100584,C1001,2025-05-21,Mouse,Accessories,1,910.15,East,Bhubaneswar,Debit Card
+ORD100585,C1239,2025-08-12,Bookshelf,Furniture,1,6822.33,West,Ahmedabad,UPI
+ORD100586,C1322,2025-06-12,Desk,Furniture,5,12904.82,West,Surat,Debit Card
+ORD100587,C1183,2025-07-12,Air Fryer,Home Appliances,2,8131.19,South,Hyderabad,Net Banking
+ORD100588,C1039,2025-09-05,Mixer Grinder,Home Appliances,2,5143.69,North,Delhi,UPI
+ORD100589,C1166,2025-01-10,Mouse,Accessories,1,830.37,North,Chandigarh,UPI
+ORD100590,C1055,2025-10-24,Running Shoes,Fashion,1,4566.37,West,Ahmedabad,UPI
+ORD100591,C1116,2025-02-19,Mouse,Accessories,3,860.44,North,Chandigarh,Credit Card
+ORD100592,C1303,2025-06-17,Office Chair,Furniture,1,8978.67,East,Bhubaneswar,Credit Card
+ORD100593,C1175,2025-12-09,Keyboard,Accessories,1,1886.14,North,Jaipur,Cash on Delivery
+ORD100594,C1317,2025-01-28,Desk,Furniture,2,12007.55,North,Lucknow,UPI
+ORD100595,C1294,2025-07-26,Keyboard,Accessories,3,1795.08,East,Ranchi,UPI
+ORD100596,C1113,2025-04-13,Headphones,Electronics,1,3469.61,South,Vijayawada,Credit Card
+ORD100597,C1269,2025-01-17,Headphones,Electronics,2,3261.28,South,Vijayawada,Debit Card
+ORD100598,C1137,2025-12-29,Running Shoes,Fashion,4,4716.51,West,Pune,Credit Card
+ORD100599,C1283,2025-03-25,Coffee Maker,Home Appliances,3,6321.19,South,Vijayawada,UPI
+ORD100600,C1333,2025-04-24,Smartwatch,Electronics,3,7428.79,East,Kolkata,Credit Card
+ORD100601,C1328,2025-06-10,T-Shirt,Fashion,2,1146.25,South,Chennai,UPI
+ORD100602,C1230,2025-05-11,Desk,Furniture,1,11473.49,South,Bengaluru,UPI
+ORD100603,C1128,2025-06-10,Desk,Furniture,2,12373.5,East,Patna,UPI
+ORD100604,C1158,2025-09-23,Mixer Grinder,Home Appliances,2,5014.89,East,Bhubaneswar,Net Banking
+ORD100605,C1225,2025-11-30,Office Chair,Furniture,3,8734.52,West,Ahmedabad,UPI
+ORD100606,C1207,2025-06-22,Smartwatch,Electronics,2,6905.57,East,Kolkata,UPI
+ORD100607,C1097,2025-08-24,Backpack,Fashion,3,2212.1,South,Vijayawada,UPI
+ORD100608,C1123,2025-04-12,Smartphone,Electronics,1,29146.33,South,Vijayawada,Credit Card
+ORD100609,C1109,2025-11-29,Keyboard,Accessories,1,1716.54,East,Kolkata,UPI
+ORD100610,C1308,2025-09-04,Coffee Maker,Home Appliances,1,6413.73,South,Chennai,UPI
+ORD100611,C1085,2025-05-24,Smartwatch,Electronics,3,7200.98,East,Kolkata,Credit Card
+ORD100612,C1126,2025-11-19,Mouse,Accessories,1,910.92,South,Bengaluru,Credit Card
+ORD100613,C1113,2025-05-17,Coffee Maker,Home Appliances,3,6893.45,North,Jaipur,Credit Card
+ORD100614,C1149,2025-12-28,Keyboard,Accessories,2,1705.25,South,Chennai,Credit Card
+ORD100615,C1216,2025-08-10,Smartphone,Electronics,1,30026.24,South,Bengaluru,Credit Card
+ORD100616,C1264,2025-03-28,T-Shirt,Fashion,1,1208.17,West,Mumbai,Credit Card
+ORD100617,C1310,2025-09-30,Keyboard,Accessories,1,1779.85,South,Chennai,UPI
+ORD100618,C1116,2025-08-30,Office Chair,Furniture,1,8028.22,West,Ahmedabad,Debit Card
+ORD100619,C1348,2025-12-16,Mixer Grinder,Home Appliances,3,5414.97,West,Pune,Debit Card
+ORD100620,C1328,2025-10-23,Air Fryer,Home Appliances,2,8176.65,East,Ranchi,Credit Card
+ORD100621,C1287,2025-09-21,Headphones,Electronics,3,3461.56,North,Lucknow,Debit Card
+ORD100622,C1328,2025-07-18,Mixer Grinder,Home Appliances,2,5413.76,South,Vijayawada,Net Banking
+ORD100623,C1090,2025-03-22,Office Chair,Furniture,1,9145.95,West,Ahmedabad,Debit Card
+ORD100624,C1300,2025-01-10,Bookshelf,Furniture,1,6176.52,North,Chandigarh,Credit Card
+ORD100625,C1109,2025-10-06,Laptop,Electronics,1,58312.27,West,Mumbai,UPI
+ORD100626,C1163,2025-08-19,Mixer Grinder,Home Appliances,1,5409.09,North,Delhi,UPI
+ORD100627,C1346,2025-02-25,Desk,Furniture,4,11356.95,South,Chennai,UPI
+ORD100628,C1180,2025-11-01,Office Chair,Furniture,1,8894.44,South,Bengaluru,UPI
+ORD100629,C1239,2025-05-27,Smartwatch,Electronics,4,7516.61,West,Ahmedabad,Net Banking
+ORD100630,C1266,2025-10-23,Desk,Furniture,2,11190.26,North,Chandigarh,Cash on Delivery
+ORD100631,C1184,2025-05-11,Running Shoes,Fashion,4,4302.86,East,Kolkata,Cash on Delivery
+ORD100632,C1078,2025-01-05,Headphones,Electronics,1,3610.96,South,Vijayawada,UPI
+ORD100633,C1228,2025-07-18,Laptop,Electronics,2,56347.19,South,Bengaluru,Debit Card
+ORD100634,C1110,2025-01-29,Running Shoes,Fashion,1,4288.77,South,Chennai,UPI
+ORD100635,C1328,2025-08-14,Keyboard,Accessories,2,1837.32,South,Bengaluru,Debit Card
+ORD100636,C1151,2025-09-20,Bookshelf,Furniture,2,6044.06,South,Hyderabad,Credit Card
+ORD100637,C1269,2025-08-20,Bookshelf,Furniture,2,6854.58,South,Chennai,Debit Card
+ORD100638,C1095,2025-04-15,Smartphone,Electronics,2,28201.52,South,Hyderabad,UPI
+ORD100639,C1145,2025-10-14,Mixer Grinder,Home Appliances,1,5300.61,West,Surat,Credit Card
+ORD100640,C1279,2025-10-05,Keyboard,Accessories,2,1667.5,North,Jaipur,UPI
+ORD100641,C1336,2025-01-16,Mouse,Accessories,2,915.57,West,Ahmedabad,Credit Card
+ORD100642,C1149,2025-07-13,Mouse,Accessories,1,868.8,West,Ahmedabad,UPI
+ORD100643,C1282,2025-05-19,Bookshelf,Furniture,2,6208.69,North,Jaipur,Credit Card
+ORD100644,C1237,2025-11-20,T-Shirt,Fashion,1,1109.42,South,Hyderabad,UPI
+ORD100645,C1218,2025-03-02,Smartwatch,Electronics,2,6728.27,South,Vijayawada,Credit Card
+ORD100646,C1350,2025-08-01,Headphones,Electronics,1,3287.13,South,Chennai,Credit Card
+ORD100647,C1252,2025-05-11,Smartwatch,Electronics,1,6908.82,East,Kolkata,Net Banking
+ORD100648,C1346,2025-07-31,Desk,Furniture,5,11115.49,North,Lucknow,Net Banking
+ORD100649,C1181,2025-06-26,Mixer Grinder,Home Appliances,1,5335.88,South,Vijayawada,Credit Card
+ORD100650,C1047,2025-11-15,Mixer Grinder,Home Appliances,1,5116.86,West,Surat,UPI
+ORD100651,C1132,2025-02-08,Office Chair,Furniture,2,8541.27,East,Kolkata,Debit Card
+ORD100652,C1179,2025-02-27,Smartphone,Electronics,2,29433.09,East,Ranchi,Credit Card
+ORD100653,C1182,2025-05-28,Mixer Grinder,Home Appliances,1,5037.69,North,Chandigarh,Credit Card
+ORD100654,C1122,2025-03-05,Mouse,Accessories,1,952.83,North,Lucknow,Cash on Delivery
+ORD100655,C1049,2025-02-06,Laptop,Electronics,2,57892.1,West,Mumbai,Net Banking
+ORD100656,C1174,2025-08-10,Running Shoes,Fashion,2,4165.94,West,Ahmedabad,UPI
+ORD100657,C1026,2025-05-12,Office Chair,Furniture,1,7946.78,West,Pune,UPI
+ORD100658,C1074,2025-04-28,Mixer Grinder,Home Appliances,1,5517.59,West,Mumbai,UPI
+ORD100659,C1331,2025-08-19,Air Fryer,Home Appliances,1,8372.86,South,Vijayawada,Debit Card
+ORD100660,C1038,2025-09-01,Smartphone,Electronics,5,30002.18,West,Mumbai,Credit Card
+ORD100661,C1121,2025-12-07,Mouse,Accessories,2,867.43,South,Chennai,UPI
+ORD100662,C1334,2025-08-18,Office Chair,Furniture,1,8014.95,South,Chennai,UPI
+ORD100663,C1020,2025-11-28,Bookshelf,Furniture,1,6190.4,South,Hyderabad,UPI
+ORD100664,C1204,2025-01-20,T-Shirt,Fashion,1,1188.68,West,Pune,UPI
+ORD100665,C1347,2025-01-24,Laptop,Electronics,1,54707.43,South,Chennai,Cash on Delivery
+ORD100666,C1084,2025-01-03,Air Fryer,Home Appliances,1,7579.82,North,Chandigarh,UPI
+ORD100667,C1251,2025-08-24,T-Shirt,Fashion,1,1138.63,North,Delhi,UPI
+ORD100668,C1174,2025-01-25,Bookshelf,Furniture,2,6171.5,South,Vijayawada,UPI
+ORD100669,C1326,2025-03-11,Office Chair,Furniture,1,8054.42,West,Mumbai,UPI
+ORD100670,C1031,2025-12-18,Office Chair,Furniture,1,8435.77,North,Lucknow,Debit Card
+ORD100671,C1279,2025-09-25,Air Fryer,Home Appliances,1,8302.16,South,Bengaluru,Cash on Delivery
+ORD100672,C1179,2025-05-23,Office Chair,Furniture,1,9051.05,West,Ahmedabad,UPI
+ORD100673,C1110,2025-08-28,Coffee Maker,Home Appliances,1,6388.43,North,Lucknow,Net Banking
+ORD100674,C1048,2025-09-11,Desk,Furniture,1,12486.72,East,Bhubaneswar,Cash on Delivery
+ORD100675,C1129,2025-05-03,Coffee Maker,Home Appliances,1,6255.68,South,Chennai,Debit Card
+ORD100676,C1290,2025-08-27,Office Chair,Furniture,2,8430.09,West,Surat,Net Banking
+ORD100677,C1339,2025-06-27,Headphones,Electronics,1,3668.04,East,Bhubaneswar,Debit Card
+ORD100678,C1099,2025-08-28,Coffee Maker,Home Appliances,1,6800.71,West,Mumbai,Debit Card
+ORD100679,C1147,2025-08-08,Mixer Grinder,Home Appliances,1,5322.4,South,Vijayawada,UPI
+ORD100680,C1055,2025-01-22,Smartphone,Electronics,2,28331.45,North,Delhi,Credit Card
+ORD100681,C1190,2025-06-20,Headphones,Electronics,2,3393.41,South,Chennai,Cash on Delivery
+ORD100682,C1036,2025-06-24,Keyboard,Accessories,1,1707.3,West,Ahmedabad,Debit Card
+ORD100683,C1207,2025-03-20,Backpack,Fashion,1,2137.77,South,Vijayawada,Debit Card
+ORD100684,C1196,2025-06-10,Mouse,Accessories,1,922.86,East,Patna,UPI
+ORD100685,C1321,2025-08-04,Keyboard,Accessories,2,1865.63,South,Vijayawada,Credit Card
+ORD100686,C1269,2025-05-04,Keyboard,Accessories,2,1800.09,East,Bhubaneswar,UPI
+ORD100687,C1333,2025-09-14,Air Fryer,Home Appliances,1,7779.47,East,Patna,Debit Card
+ORD100688,C1182,2025-01-15,Backpack,Fashion,5,2077.7,North,Chandigarh,Credit Card
+ORD100689,C1150,2025-01-19,Backpack,Fashion,2,2244.64,East,Ranchi,Credit Card
+ORD100690,C1249,2025-10-04,Headphones,Electronics,2,3699.34,South,Hyderabad,Debit Card
+ORD100691,C1167,2025-07-06,Running Shoes,Fashion,1,4415.76,North,Jaipur,UPI
+ORD100692,C1088,2025-12-26,Laptop,Electronics,1,54257.97,West,Mumbai,Credit Card
+ORD100693,C1318,2025-05-30,Keyboard,Accessories,2,1657.82,North,Jaipur,UPI
+ORD100694,C1302,2025-07-12,T-Shirt,Fashion,2,1157.8,South,Chennai,Credit Card
+ORD100695,C1188,2025-05-26,Headphones,Electronics,1,3446.33,South,Hyderabad,Credit Card
+ORD100696,C1277,2025-09-18,Air Fryer,Home Appliances,5,7544.23,West,Surat,Credit Card
+ORD100697,C1255,2025-03-08,Mouse,Accessories,2,957.43,East,Patna,UPI
+ORD100698,C1037,2025-08-27,Air Fryer,Home Appliances,4,8182.93,North,Lucknow,UPI
+ORD100699,C1194,2025-12-30,Headphones,Electronics,1,3625.26,North,Delhi,Net Banking
+ORD100700,C1062,2025-09-03,Air Fryer,Home Appliances,1,8279.99,North,Jaipur,UPI
+ORD100701,C1262,2025-01-11,T-Shirt,Fashion,1,1221.97,East,Kolkata,Debit Card
+ORD100702,C1245,2025-10-06,Smartwatch,Electronics,1,6666.78,South,Bengaluru,UPI
+ORD100703,C1238,2025-01-31,Laptop,Electronics,2,52232.61,South,Chennai,UPI
+ORD100704,C1118,2025-09-30,Headphones,Electronics,1,3227.89,West,Surat,UPI
+ORD100705,C1195,2025-12-18,Mixer Grinder,Home Appliances,2,4930.81,East,Kolkata,UPI
+ORD100706,C1024,2025-09-16,Coffee Maker,Home Appliances,2,6783.92,South,Vijayawada,UPI
+ORD100707,C1275,2025-08-20,Desk,Furniture,2,12298.19,East,Bhubaneswar,Net Banking
+ORD100708,C1300,2025-06-17,Headphones,Electronics,2,3367.47,North,Jaipur,UPI
+ORD100709,C1066,2025-02-25,Bookshelf,Furniture,1,6135.83,East,Kolkata,Credit Card
+ORD100710,C1335,2025-07-03,Laptop,Electronics,1,54693.48,South,Vijayawada,UPI
+ORD100711,C1241,2025-12-06,Backpack,Fashion,1,2311.57,East,Ranchi,Credit Card
+ORD100712,C1350,2025-07-05,Keyboard,Accessories,3,1874.0,East,Bhubaneswar,Credit Card
+ORD100713,C1142,2025-07-05,Smartphone,Electronics,1,25948.46,East,Ranchi,Net Banking
+ORD100714,C1216,2025-02-16,Air Fryer,Home Appliances,1,7619.49,West,Pune,UPI
+ORD100715,C1348,2025-07-31,Laptop,Electronics,3,52504.23,South,Vijayawada,Credit Card
+ORD100716,C1284,2025-07-09,Headphones,Electronics,1,3550.34,South,Bengaluru,Credit Card
+ORD100717,C1166,2025-10-27,Smartwatch,Electronics,2,7210.63,West,Pune,Debit Card
+ORD100718,C1194,2025-05-23,Headphones,Electronics,1,3290.35,North,Chandigarh,UPI
+ORD100719,C1091,2025-03-26,Coffee Maker,Home Appliances,2,6809.96,West,Surat,Net Banking
+ORD100720,C1299,2025-01-08,Keyboard,Accessories,4,1882.9,West,Mumbai,Credit Card
+ORD100721,C1071,2025-10-26,Backpack,Fashion,2,2044.74,North,Chandigarh,Credit Card
+ORD100722,C1036,2025-12-10,Keyboard,Accessories,3,1921.06,West,Mumbai,Cash on Delivery
+ORD100723,C1007,2025-04-05,Keyboard,Accessories,3,1676.25,North,Delhi,UPI
+ORD100724,C1199,2025-09-07,Coffee Maker,Home Appliances,1,6109.59,East,Patna,UPI
+ORD100725,C1182,2025-09-23,Backpack,Fashion,2,2332.77,East,Patna,Net Banking
+ORD100726,C1313,2025-06-29,Backpack,Fashion,2,2042.29,South,Bengaluru,Debit Card
+ORD100727,C1085,2025-09-17,Mixer Grinder,Home Appliances,1,5401.09,South,Vijayawada,Credit Card
+ORD100728,C1167,2025-05-21,Air Fryer,Home Appliances,2,7323.43,East,Patna,Credit Card
+ORD100729,,2025-05-29,Office Chair,Furniture,1,7981.61,North,Delhi,UPI
+ORD100730,C1314,2025-09-22,Bookshelf,Furniture,2,6183.05,South,Hyderabad,UPI
+ORD100731,C1295,2025-02-08,Bookshelf,Furniture,1,6470.47,South,Hyderabad,Net Banking
+ORD100732,C1071,2025-07-16,Desk,Furniture,2,12157.44,South,Chennai,Debit Card
+ORD100733,C1064,2025-08-12,Smartwatch,Electronics,1,6931.79,West,Ahmedabad,Debit Card
+ORD100734,C1007,2025-07-05,Mouse,Accessories,3,935.51,West,Mumbai,UPI
+ORD100735,C1307,2025-05-16,Coffee Maker,Home Appliances,4,6370.63,West,Pune,UPI
+ORD100736,C1090,2025-08-18,Desk,Furniture,2,11329.25,South,Chennai,Debit Card
+ORD100737,C1107,2025-04-15,Bookshelf,Furniture,1,6511.09,South,Hyderabad,UPI
+ORD100738,C1066,2025-07-18,Desk,Furniture,2,11768.19,South,Hyderabad,UPI
+ORD100739,C1291,2025-10-20,Headphones,Electronics,1,3725.09,South,Bengaluru,UPI
+ORD100740,C1104,2025-04-23,Coffee Maker,Home Appliances,3,6225.74,West,Ahmedabad,UPI
+ORD100741,C1039,2025-07-24,Office Chair,Furniture,3,9060.3,South,Bengaluru,Credit Card
+ORD100742,C1295,2025-02-17,T-Shirt,Fashion,2,1107.89,North,Jaipur,Cash on Delivery
+ORD100743,C1053,2025-09-06,Running Shoes,Fashion,2,4380.68,West,Ahmedabad,Credit Card
+ORD100744,C1115,2025-05-11,Keyboard,Accessories,1,1775.45,East,Kolkata,Cash on Delivery
+ORD100745,C1348,2025-12-31,Running Shoes,Fashion,1,4614.14,South,Bengaluru,UPI
+ORD100746,C1174,2025-12-09,Smartphone,Electronics,2,25941.44,South,Vijayawada,Debit Card
+ORD100747,C1161,2025-06-13,Mouse,Accessories,3,967.7,South,Hyderabad,Debit Card
+ORD100748,C1272,2025-04-30,Air Fryer,Home Appliances,3,7525.69,South,Vijayawada,UPI
+ORD100749,C1349,2025-03-19,Coffee Maker,Home Appliances,2,6864.45,North,Jaipur,UPI
+ORD100750,C1300,2025-03-21,Laptop,Electronics,1,54946.41,North,Jaipur,Debit Card
+ORD100751,C1046,2025-01-03,Office Chair,Furniture,2,8446.14,North,Delhi,Credit Card
+ORD100752,C1207,2025-10-02,Coffee Maker,Home Appliances,2,6314.26,South,Chennai,Credit Card
+ORD100753,C1151,2025-08-24,Mixer Grinder,Home Appliances,1,5033.87,South,Vijayawada,UPI
+ORD100754,C1271,2025-12-16,Running Shoes,Fashion,1,4437.94,South,Vijayawada,Net Banking
+ORD100755,C1083,2025-11-03,Office Chair,Furniture,2,8746.69,North,Lucknow,Credit Card
+ORD100756,C1177,2025-07-03,T-Shirt,Fashion,2,1196.44,South,Vijayawada,UPI
+ORD100757,C1018,2025-12-03,Laptop,Electronics,1,53821.73,East,Patna,UPI
+ORD100758,C1344,2025-09-15,Office Chair,Furniture,1,8193.83,North,Chandigarh,UPI
+ORD100759,C1001,2025-03-27,Smartphone,Electronics,1,28821.08,South,Hyderabad,Debit Card
+ORD100760,C1009,2025-05-25,Mouse,Accessories,2,932.27,West,Pune,Debit Card
+ORD100761,C1057,2025-02-06,Running Shoes,Fashion,1,4725.74,South,Vijayawada,Debit Card
+ORD100762,C1107,2025-07-02,Bookshelf,Furniture,2,6578.91,South,Vijayawada,Net Banking
+ORD100763,C1288,2025-04-23,Mixer Grinder,Home Appliances,3,4942.61,North,Delhi,UPI
+ORD100764,C1298,2025-12-12,Mixer Grinder,Home Appliances,2,5441.78,South,Chennai,Cash on Delivery
+ORD100765,C1226,2025-01-27,T-Shirt,Fashion,2,1279.25,West,Ahmedabad,Net Banking
+ORD100766,C1074,2025-05-28,Mixer Grinder,Home Appliances,2,4952.66,North,Delhi,Cash on Delivery
+ORD100767,C1219,2025-06-15,Air Fryer,Home Appliances,1,7671.93,South,Chennai,Cash on Delivery
+ORD100768,C1301,2025-12-09,Running Shoes,Fashion,2,4371.72,West,Surat,UPI
+ORD100769,C1237,2025-01-27,T-Shirt,Fashion,3,1162.3,East,,Credit Card
+ORD100770,C1157,2025-07-23,Mixer Grinder,Home Appliances,1,5241.03,South,Chennai,Credit Card
+ORD100771,C1039,2025-07-04,Keyboard,Accessories,2,1915.08,East,Kolkata,Debit Card
+ORD100772,C1096,2025-05-14,Keyboard,Accessories,1,1732.33,South,Vijayawada,Credit Card
+ORD100773,C1120,2025-11-08,Running Shoes,Fashion,2,4178.18,South,Chennai,Debit Card
+ORD100774,C1166,2025-01-06,Headphones,Electronics,1,3220.52,South,Bengaluru,UPI
+ORD100775,C1109,2025-10-02,Mouse,Accessories,4,858.97,East,Bhubaneswar,Credit Card
+ORD100776,C1146,2025-08-31,Smartwatch,Electronics,1,6579.38,East,Ranchi,Net Banking
+ORD100777,C1241,2025-04-16,Office Chair,Furniture,2,8031.72,South,Vijayawada,Net Banking
+ORD100778,C1284,2025-08-23,Office Chair,Furniture,2,8375.58,South,Chennai,UPI
+ORD100779,C1013,2025-12-29,Mouse,Accessories,1,872.13,South,Vijayawada,UPI
+ORD100780,C1028,2025-09-14,Laptop,Electronics,1,51764.99,South,Hyderabad,Net Banking
+ORD100781,C1349,2025-10-10,T-Shirt,Fashion,2,1245.53,South,Vijayawada,UPI
+ORD100782,C1166,2025-01-02,Laptop,Electronics,3,57011.62,North,Jaipur,UPI
+ORD100783,C1141,2025-06-03,Office Chair,Furniture,1,8729.28,East,Patna,Credit Card
+ORD100784,C1120,2025-10-06,Smartwatch,Electronics,5,6937.69,West,Ahmedabad,UPI
+ORD100785,C1059,2025-06-10,Smartwatch,Electronics,1,6919.24,South,Bengaluru,UPI
+ORD100786,C1199,2025-06-10,Desk,Furniture,2,12770.27,South,Vijayawada,UPI
+ORD100787,C1157,2025-06-02,Mixer Grinder,Home Appliances,2,4907.65,West,Pune,Credit Card
+ORD100788,C1282,2025-09-17,Coffee Maker,Home Appliances,1,6330.07,West,Pune,UPI
+ORD100789,C1121,2025-02-15,Laptop,Electronics,1,58661.96,North,Lucknow,UPI
+ORD100790,C1046,2025-05-07,Air Fryer,Home Appliances,2,7237.82,West,Surat,Debit Card
+ORD100791,C1026,2025-07-21,Backpack,Fashion,2,2124.65,South,Bengaluru,UPI
+ORD100792,C1069,2025-12-02,Desk,Furniture,3,11252.74,West,Pune,Credit Card
+ORD100793,C1146,2025-06-23,Laptop,Electronics,4,55395.05,North,Jaipur,Cash on Delivery
+ORD100794,C1323,2025-06-25,Office Chair,Furniture,2,8505.11,East,Kolkata,Credit Card
+ORD100795,C1076,2025-09-27,Headphones,Electronics,2,3539.0,South,Chennai,Debit Card
+ORD100796,C1003,2025-12-13,Laptop,Electronics,1,54529.91,North,Lucknow,UPI
+ORD100797,C1109,2025-07-21,Desk,Furniture,1,12298.54,South,Chennai,Cash on Delivery
+ORD100798,C1112,2025-03-01,Air Fryer,Home Appliances,4,8259.29,West,Surat,Debit Card
+ORD100799,C1096,2025-10-03,Mouse,Accessories,1,830.42,West,Mumbai,Cash on Delivery
+ORD100800,C1295,2025-09-05,Desk,Furniture,1,11960.09,South,Chennai,Debit Card
+ORD100801,C1286,2025-06-22,Backpack,Fashion,1,2186.85,South,Chennai,Debit Card
+ORD100802,C1182,2025-03-07,Smartphone,Electronics,1,28353.99,West,Pune,Debit Card
+ORD100803,C1083,2025-03-22,Mixer Grinder,Home Appliances,1,4797.24,East,Patna,Credit Card
+ORD100804,C1233,2025-06-22,Bookshelf,Furniture,2,6265.63,North,Lucknow,Debit Card
+ORD100805,C1276,2025-11-04,Bookshelf,Furniture,1,6410.55,North,Jaipur,Net Banking
+ORD100806,C1117,2025-03-06,Headphones,Electronics,2,3634.48,South,Hyderabad,Net Banking
+ORD100807,C1308,2025-01-06,Air Fryer,Home Appliances,1,7370.7,South,Bengaluru,Credit Card
+ORD100808,C1049,2025-08-04,Running Shoes,Fashion,1,4357.05,North,Jaipur,Debit Card
+ORD100809,C1282,2025-01-28,Office Chair,Furniture,1,8814.66,West,Mumbai,UPI
+ORD100810,C1009,2025-08-12,Mixer Grinder,Home Appliances,1,5308.36,East,Kolkata,UPI
+ORD100811,C1232,2025-11-10,Mixer Grinder,Home Appliances,1,5428.96,East,Patna,UPI
+ORD100812,C1152,2025-05-08,Backpack,Fashion,1,2247.64,South,Chennai,UPI
+ORD100813,C1078,2025-10-17,Desk,Furniture,2,12104.49,West,Ahmedabad,Debit Card
+ORD100814,C1211,2025-10-05,Keyboard,Accessories,1,1827.89,North,Jaipur,UPI
+ORD100815,C1138,2025-11-04,T-Shirt,Fashion,1,1237.45,East,Ranchi,Cash on Delivery
+ORD100816,C1243,2025-09-05,Keyboard,Accessories,1,1733.39,South,Bengaluru,Credit Card
+ORD100817,C1175,2025-09-17,Laptop,Electronics,3,57573.08,North,Delhi,UPI
+ORD100818,C1308,2025-05-05,Air Fryer,Home Appliances,2,7890.06,East,Kolkata,UPI
+ORD100819,C1136,2025-01-15,Smartwatch,Electronics,1,6961.48,South,Hyderabad,Cash on Delivery
+ORD100820,C1323,2025-08-03,Air Fryer,Home Appliances,2,8009.57,East,Bhubaneswar,Credit Card
+ORD100821,C1167,2025-08-30,Bookshelf,Furniture,1,6894.97,South,Chennai,UPI
+ORD100822,C1266,2025-07-13,Mixer Grinder,Home Appliances,2,5022.53,North,Delhi,Debit Card
+ORD100823,C1128,2025-10-12,Running Shoes,Fashion,2,4250.69,South,Vijayawada,Debit Card
+ORD100824,C1209,2025-03-31,Bookshelf,Furniture,3,6035.49,South,Hyderabad,Cash on Delivery
+ORD100825,C1230,2025-10-20,Bookshelf,Furniture,2,6794.41,East,Patna,Debit Card
+ORD100826,C1080,2025-08-17,Backpack,Fashion,1,2369.19,West,Mumbai,UPI
+ORD100827,C1056,2025-03-23,Office Chair,Furniture,1,8791.91,South,Vijayawada,UPI
+ORD100828,C1130,2025-01-05,Laptop,Electronics,1,50681.3,South,Chennai,UPI
+ORD100829,C1111,2025-03-03,Backpack,Fashion,2,2048.92,West,Mumbai,Net Banking
+ORD100830,C1285,2025-10-08,Air Fryer,Home Appliances,1,7435.93,North,Lucknow,Net Banking
+ORD100831,C1108,2025-03-31,Smartphone,Electronics,1,26479.59,South,Vijayawada,UPI
+ORD100832,C1003,2025-06-15,Running Shoes,Fashion,4,4214.23,South,Hyderabad,Net Banking
+ORD100833,C1059,2025-12-01,Keyboard,Accessories,2,1720.38,North,Lucknow,Credit Card
+ORD100834,C1269,2025-04-06,Bookshelf,Furniture,1,6669.44,West,Pune,UPI
+ORD100835,C1246,2025-11-03,Bookshelf,Furniture,2,6656.81,North,Delhi,Credit Card
+ORD100836,C1069,2025-10-03,Smartwatch,Electronics,1,7253.38,North,Delhi,UPI
+ORD100837,C1322,2025-08-06,Mixer Grinder,Home Appliances,2,5147.95,North,Lucknow,Net Banking
+ORD100838,C1153,2025-10-15,Backpack,Fashion,2,2238.44,West,Surat,UPI
+ORD100839,C1017,2025-01-25,T-Shirt,Fashion,1,1267.52,South,Hyderabad,Credit Card
+ORD100840,C1310,2025-07-25,Keyboard,Accessories,3,1710.75,South,Hyderabad,Debit Card
+ORD100841,C1087,2025-06-03,Smartphone,Electronics,1,27542.82,South,Bengaluru,Cash on Delivery
+ORD100842,C1079,2025-10-22,Backpack,Fashion,1,2369.05,East,Kolkata,Credit Card
+ORD100843,C1193,2025-01-21,Desk,Furniture,3,11567.4,South,Hyderabad,Credit Card
+ORD100844,C1106,2025-11-27,Bookshelf,Furniture,1,6147.64,South,Hyderabad,UPI
+ORD100845,C1097,2025-05-22,Smartwatch,Electronics,2,6840.39,North,Chandigarh,Credit Card
+ORD100846,C1345,2025-08-07,Mouse,Accessories,1,900.83,North,Jaipur,UPI
+ORD100847,C1062,2025-11-04,Mouse,Accessories,1,931.29,South,Chennai,Credit Card
+ORD100848,C1275,2025-07-09,Office Chair,Furniture,4,8382.5,South,Chennai,Credit Card
+ORD100849,C1121,2025-11-01,Coffee Maker,Home Appliances,1,-100.0,South,Vijayawada,UPI
+ORD100850,C1290,2025-08-10,Smartphone,Electronics,2,28642.71,North,Chandigarh,Net Banking
+ORD100851,C1289,2025-09-29,Smartwatch,Electronics,1,7128.13,South,Hyderabad,Credit Card
+ORD100852,C1061,2025-05-08,Mixer Grinder,Home Appliances,2,5480.12,South,Bengaluru,Credit Card
+ORD100853,C1211,2025-03-07,Coffee Maker,Home Appliances,1,6943.45,East,Ranchi,Debit Card
+ORD100854,C1152,2025-02-08,Bookshelf,Furniture,2,6299.11,North,Delhi,
+ORD100855,C1321,2025-10-12,Coffee Maker,Home Appliances,1,6202.37,South,,Cash on Delivery
+ORD100856,C1307,2025-05-12,Headphones,Electronics,1,3487.54,South,Chennai,Credit Card
+ORD100857,C1218,2025-09-18,Desk,Furniture,1,12658.12,South,Bengaluru,Credit Card
+ORD100858,C1314,2025-01-29,Backpack,Fashion,1,2317.9,East,Bhubaneswar,Credit Card
+ORD100859,C1166,2025-12-25,Backpack,Fashion,2,2054.96,South,Vijayawada,UPI
+ORD100860,C1160,2025-04-23,Smartphone,Electronics,1,28401.1,South,Bengaluru,UPI
+ORD100861,C1228,2025-08-12,Bookshelf,Furniture,1,6411.71,East,Ranchi,Debit Card
+ORD100862,C1251,2025-08-22,Desk,Furniture,1,11677.08,West,Pune,Debit Card
+ORD100863,C1068,2025-04-01,T-Shirt,Fashion,1,1113.31,South,Vijayawada,UPI
+ORD100864,C1002,2025-08-03,Laptop,Electronics,2,53987.23,North,Lucknow,Debit Card
+ORD100865,C1314,2025-06-14,Mouse,Accessories,1,904.39,East,Kolkata,Credit Card
+ORD100866,C1309,2025-02-13,Coffee Maker,Home Appliances,1,6681.92,West,Ahmedabad,Cash on Delivery
+ORD100867,C1091,2025-12-29,T-Shirt,Fashion,2,1208.23,North,Jaipur,UPI
+ORD100868,C1019,2025-12-25,Mixer Grinder,Home Appliances,1,4800.41,North,Delhi,Cash on Delivery
+ORD100869,C1337,2025-02-21,Headphones,Electronics,1,3357.26,South,Bengaluru,Net Banking
+ORD100870,C1103,2025-05-03,Keyboard,Accessories,1,1666.91,North,Jaipur,UPI
+ORD100871,C1169,2025-06-06,Desk,Furniture,1,11237.63,West,Mumbai,Credit Card
+ORD100872,C1281,2025-12-22,Bookshelf,Furniture,1,6225.33,South,Bengaluru,Net Banking
+ORD100873,C1065,2025-09-23,Smartwatch,Electronics,2,7142.15,North,Jaipur,UPI
+ORD100874,C1108,2025-02-09,T-Shirt,Fashion,1,1160.31,West,Pune,UPI
+ORD100875,C1037,2025-07-20,Bookshelf,Furniture,2,6189.51,West,Pune,Net Banking
+ORD100876,C1264,2025-06-12,Smartphone,Electronics,1,29362.07,South,Chennai,Net Banking
+ORD100877,C1228,2025-12-28,Bookshelf,Furniture,1,6181.76,North,Lucknow,Credit Card
+ORD100878,C1115,2025-09-25,Office Chair,Furniture,1,7887.64,East,Kolkata,Net Banking
+ORD100879,C1289,2025-08-06,Smartphone,Electronics,4,29681.08,North,Chandigarh,Net Banking
+ORD100880,C1063,2025-09-29,Office Chair,Furniture,2,8798.77,West,Pune,Debit Card
+ORD100881,C1070,2025-12-13,Coffee Maker,Home Appliances,5,6373.51,South,Vijayawada,UPI
+ORD100882,C1117,2025-09-28,Headphones,Electronics,1,3560.73,North,Chandigarh,Credit Card
+ORD100883,C1347,2025-04-13,Backpack,Fashion,2,2229.39,West,Surat,UPI
+ORD100884,C1255,2025-10-02,Keyboard,Accessories,2,1832.65,South,Chennai,UPI
+ORD100885,C1065,2025-12-18,Headphones,Electronics,5,3384.95,West,Mumbai,UPI
+ORD100886,C1121,2025-09-11,Mouse,Accessories,1,919.9,South,Chennai,Credit Card
+ORD100887,C1031,2025-06-30,Backpack,Fashion,1,2139.51,East,Kolkata,Debit Card
+ORD100888,C1211,2025-12-03,Mixer Grinder,Home Appliances,1,4905.8,South,Vijayawada,Cash on Delivery
+ORD100889,C1087,2025-04-14,Coffee Maker,Home Appliances,2,6752.27,North,Jaipur,UPI
+ORD100890,C1291,2025-04-09,Office Chair,Furniture,2,8725.56,West,Pune,UPI
+ORD100891,C1105,2025-11-06,Air Fryer,Home Appliances,3,7902.87,South,Chennai,UPI
+ORD100892,C1320,2025-06-23,T-Shirt,Fashion,2,1143.13,West,Ahmedabad,Debit Card
+ORD100893,C1209,2025-08-18,Desk,Furniture,3,12822.35,West,Ahmedabad,Credit Card
+ORD100894,C1050,2025-11-06,Running Shoes,Fashion,2,4195.63,East,Bhubaneswar,Net Banking
+ORD100895,C1290,2025-01-16,Desk,Furniture,1,12545.4,East,Ranchi,UPI
+ORD100896,C1228,2025-01-25,Backpack,Fashion,1,2234.26,East,Kolkata,Debit Card
+ORD100897,C1077,2025-03-15,Keyboard,Accessories,1,1894.76,West,Pune,Debit Card
+ORD100898,C1031,2025-08-30,Air Fryer,Home Appliances,1,8148.32,South,,UPI
+ORD100899,C1343,2025-10-29,Office Chair,Furniture,2,8347.24,East,Bhubaneswar,Credit Card
+ORD100900,C1241,2025-05-17,Smartphone,Electronics,1,27219.11,North,Jaipur,UPI
+ORD100901,C1194,2025-02-14,Desk,Furniture,1,11321.35,South,Hyderabad,Debit Card
+ORD100902,C1094,2025-11-24,Desk,Furniture,1,12610.78,South,Chennai,Debit Card
+ORD100903,C1011,2025-05-02,T-Shirt,Fashion,2,1193.96,South,Chennai,Cash on Delivery
+ORD100904,C1275,2025-10-06,Office Chair,Furniture,1,8485.62,North,Delhi,UPI
+ORD100905,C1325,2025-08-24,Air Fryer,Home Appliances,4,8196.1,West,Surat,Credit Card
+ORD100906,C1257,2025-05-15,Laptop,Electronics,2,54357.0,North,Jaipur,UPI
+ORD100907,C1046,2025-01-27,Desk,Furniture,4,11338.65,South,Vijayawada,Net Banking
+ORD100908,C1290,2025-03-30,Headphones,Electronics,4,3371.5,West,Surat,UPI
+ORD100909,C1262,2025-07-07,Coffee Maker,Home Appliances,1,6577.44,North,Lucknow,UPI
+ORD100910,C1068,2025-06-08,Bookshelf,Furniture,1,6651.79,North,Chandigarh,UPI
+ORD100911,C1020,2025-04-18,Running Shoes,Fashion,1,4672.76,South,Hyderabad,Net Banking
+ORD100912,C1222,2025-05-16,Headphones,Electronics,2,3274.11,South,Vijayawada,UPI
+ORD100913,C1074,2025-12-03,Running Shoes,Fashion,2,4232.37,South,Vijayawada,Credit Card
+ORD100914,C1123,2025-05-25,Desk,Furniture,1,11040.6,East,Patna,UPI
+ORD100915,C1145,2025-08-17,Laptop,Electronics,3,51859.97,East,Ranchi,Debit Card
+ORD100916,C1302,2025-06-18,Desk,Furniture,1,11660.96,West,,UPI
+ORD100917,C1060,2025-11-06,Air Fryer,Home Appliances,1,7494.12,South,Vijayawada,Credit Card
+ORD100918,C1059,2025-01-12,Running Shoes,Fashion,3,4401.01,West,Mumbai,Credit Card
+ORD100919,C1164,2025-02-01,Air Fryer,Home Appliances,1,7846.41,West,Surat,UPI
+ORD100920,C1051,2025-06-11,Mouse,Accessories,1,855.75,East,Kolkata,Credit Card
+ORD100921,C1099,2025-01-20,Running Shoes,Fashion,1,4624.94,South,Chennai,Net Banking
+ORD100922,C1121,2025-09-24,Air Fryer,Home Appliances,4,8187.58,South,Chennai,Net Banking
+ORD100923,C1105,2025-06-15,Mixer Grinder,Home Appliances,3,5409.8,North,Lucknow,Credit Card
+ORD100924,C1210,2025-01-06,Desk,Furniture,4,12095.29,South,Chennai,Credit Card
+ORD100925,C1235,2025-10-07,Laptop,Electronics,5,56070.68,South,Hyderabad,Credit Card
+ORD100926,C1232,2025-03-25,Air Fryer,Home Appliances,1,7395.77,South,Chennai,Net Banking
+ORD100927,C1326,2025-04-05,Air Fryer,Home Appliances,2,7362.29,South,Chennai,UPI
+ORD100928,C1232,2025-08-13,Running Shoes,Fashion,4,4317.93,South,Bengaluru,UPI
+ORD100929,C1176,2025-09-08,Coffee Maker,Home Appliances,1,5999.5,East,Kolkata,Net Banking
+ORD100930,C1298,2025-03-26,Mixer Grinder,Home Appliances,5,5347.05,South,Chennai,Debit Card
+ORD100931,C1251,2025-09-27,Desk,Furniture,1,12416.56,North,Lucknow,Cash on Delivery
+ORD100932,C1150,2025-05-31,Smartwatch,Electronics,1,7127.36,South,Hyderabad,Debit Card
+ORD100933,C1321,2025-09-05,Keyboard,Accessories,2,1838.48,South,Hyderabad,Credit Card
+ORD100934,C1315,2025-04-16,Headphones,Electronics,2,3257.69,North,Lucknow,Net Banking
+ORD100935,C1151,2025-07-21,Desk,Furniture,1,12188.06,North,Lucknow,Debit Card
+ORD100936,C1220,2025-06-09,Running Shoes,Fashion,1,4609.23,West,Mumbai,UPI
+ORD100937,C1156,2025-08-19,Headphones,Electronics,2,3258.49,East,Bhubaneswar,UPI
+ORD100938,C1258,2025-05-05,Backpack,Fashion,1,2237.91,West,Ahmedabad,Debit Card
+ORD100939,C1148,2025-12-22,Smartphone,Electronics,1,26565.38,South,Bengaluru,UPI
+ORD100940,C1017,2025-06-28,Mixer Grinder,Home Appliances,1,5375.89,West,Mumbai,Credit Card
+ORD100941,C1218,2025-04-08,Headphones,Electronics,3,3430.31,West,Pune,UPI
+ORD100942,C1310,2025-12-26,Coffee Maker,Home Appliances,1,6170.04,South,Hyderabad,Credit Card
+ORD100943,C1320,2025-09-15,Coffee Maker,Home Appliances,1,6191.04,North,Lucknow,Debit Card
+ORD100944,C1185,2025-04-17,Headphones,Electronics,1,3228.62,West,Mumbai,UPI
+ORD100945,C1231,2025-05-09,Laptop,Electronics,1,58448.62,West,Mumbai,Net Banking
+ORD100946,C1181,2025-03-25,Bookshelf,Furniture,1,6551.11,East,Patna,Net Banking
+ORD100947,C1304,2025-11-03,Backpack,Fashion,2,2154.26,West,Mumbai,UPI
+ORD100948,C1025,2025-10-04,Mixer Grinder,Home Appliances,1,4796.64,West,Mumbai,UPI
+ORD100949,C1188,2025-03-30,Bookshelf,Furniture,2,6089.79,East,Ranchi,Net Banking
+ORD100950,C1299,2025-09-01,Headphones,Electronics,1,3724.38,South,Hyderabad,UPI
+ORD100951,C1188,2025-08-31,Mouse,Accessories,1,937.24,South,Vijayawada,Credit Card
+ORD100952,C1271,2025-07-18,Mixer Grinder,Home Appliances,1,5296.58,East,Ranchi,Credit Card
+ORD100953,C1290,2025-07-07,Keyboard,Accessories,1,1713.11,West,Surat,Cash on Delivery
+ORD100954,C1024,2025-04-23,Smartphone,Electronics,2,26048.31,South,Bengaluru,Net Banking
+ORD100955,C1318,2025-05-31,Bookshelf,Furniture,2,6315.44,East,Ranchi,UPI
+ORD100956,C1055,2025-10-01,Headphones,Electronics,2,3721.58,East,Bhubaneswar,Cash on Delivery
+ORD100957,C1252,2025-03-28,Air Fryer,Home Appliances,4,7651.18,West,Ahmedabad,Debit Card
+ORD100958,C1065,2025-01-02,Mixer Grinder,Home Appliances,2,4840.28,East,Ranchi,Cash on Delivery
+ORD100959,C1266,2025-04-17,Office Chair,Furniture,1,8340.13,East,Ranchi,Debit Card
+ORD100960,C1084,2025-06-07,Headphones,Electronics,1,3496.2,West,Mumbai,UPI
+ORD100961,C1165,2025-10-27,T-Shirt,Fashion,2,1282.91,East,Kolkata,Credit Card
+ORD100962,C1281,2025-10-25,Bookshelf,Furniture,1,6756.12,West,Pune,Net Banking
+ORD100963,C1248,2025-09-10,Mixer Grinder,Home Appliances,1,4815.25,North,Delhi,Credit Card
+ORD100964,C1163,2025-03-08,Mouse,Accessories,5,971.19,South,Hyderabad,Net Banking
+ORD100965,C1285,2025-10-15,Desk,Furniture,3,12604.16,West,Mumbai,Credit Card
+ORD100966,C1271,2025-11-24,Coffee Maker,Home Appliances,1,6098.75,West,Surat,Debit Card
+ORD100967,C1145,2025-11-22,Running Shoes,Fashion,2,4425.23,East,Patna,Credit Card
+ORD100968,C1247,2025-11-17,T-Shirt,Fashion,2,1243.56,West,Surat,Net Banking
+ORD100969,C1238,2025-08-24,Mouse,Accessories,2,838.76,West,Mumbai,Debit Card
+ORD100970,C1123,2025-05-02,Desk,Furniture,1,11427.66,West,Ahmedabad,Credit Card
+ORD100971,C1129,2025-06-15,Desk,Furniture,2,11374.06,East,Patna,UPI
+ORD100972,C1235,2025-05-23,Desk,Furniture,2,12560.31,South,Hyderabad,UPI
+ORD100973,C1306,2025-11-28,Mixer Grinder,Home Appliances,2,4864.2,West,Pune,Credit Card
+ORD100974,C1095,2025-08-12,Air Fryer,Home Appliances,1,7591.37,South,Chennai,Credit Card
+ORD100975,C1036,2025-09-16,Headphones,Electronics,4,3342.91,East,Bhubaneswar,Debit Card
+ORD100976,C1016,2025-06-05,T-Shirt,Fashion,1,1152.24,East,Ranchi,Net Banking
+ORD100977,C1211,2025-06-21,Mixer Grinder,Home Appliances,2,4994.04,North,Lucknow,UPI
+ORD100978,C1290,2025-05-16,Keyboard,Accessories,2,1751.65,West,Ahmedabad,Debit Card
+ORD100979,C1042,2025-07-30,Smartphone,Electronics,2,27056.58,South,Bengaluru,UPI
+ORD100980,C1250,2025-01-08,Smartphone,Electronics,2,26550.28,North,Delhi,UPI
+ORD100981,C1173,2025-05-11,Smartwatch,Electronics,3,7514.99,South,Chennai,UPI
+ORD100982,C1339,2025-02-12,Mouse,Accessories,3,840.22,South,Chennai,Credit Card
+ORD100983,C1041,2025-04-19,Keyboard,Accessories,1,1879.82,East,Patna,Net Banking
+ORD100984,C1049,2025-09-14,Office Chair,Furniture,3,7857.15,South,Hyderabad,Debit Card
+ORD100985,C1103,2025-07-31,Mixer Grinder,Home Appliances,2,5302.78,East,Bhubaneswar,UPI
+ORD100986,C1093,2025-08-17,T-Shirt,Fashion,2,1156.33,South,Vijayawada,Credit Card
+ORD100987,C1164,2025-07-14,Running Shoes,Fashion,3,4350.89,West,Surat,UPI
+ORD100988,C1287,2025-07-02,Headphones,Electronics,2,3314.81,South,Hyderabad,Net Banking
+ORD100989,C1109,2025-11-08,Running Shoes,Fashion,5,4318.4,South,Vijayawada,UPI
+ORD100990,C1230,2025-08-21,Smartphone,Electronics,1,27524.1,North,Jaipur,Net Banking
+ORD100991,C1014,2025-11-22,Smartwatch,Electronics,1,7354.05,West,Ahmedabad,UPI
+ORD100992,C1122,2025-11-28,Headphones,Electronics,1,3585.15,West,Mumbai,Credit Card
+ORD100993,C1192,2025-10-20,Desk,Furniture,1,12270.84,South,Chennai,UPI
+ORD100994,C1175,2025-12-26,Office Chair,Furniture,1,8031.61,South,Hyderabad,UPI
+ORD100995,C1218,2025-05-08,Bookshelf,Furniture,2,6277.94,South,Hyderabad,Debit Card
+ORD100996,C1340,2025-03-07,Keyboard,Accessories,2,1942.68,South,Chennai,UPI
+ORD100997,C1176,2025-11-27,T-Shirt,Fashion,1,1231.86,North,Chandigarh,Credit Card
+ORD100998,C1015,2025-07-28,Smartwatch,Electronics,2,6850.13,South,Vijayawada,UPI
+ORD100999,C1338,2025-09-07,Backpack,Fashion,1,2266.12,North,Chandigarh,Net Banking
+ORD101000,C1302,2025-01-24,Bookshelf,Furniture,2,6828.57,North,Lucknow,Net Banking
+ORD101001,C1022,2025-07-06,Desk,Furniture,2,11340.34,South,Chennai,Credit Card
+ORD101002,C1267,2025-05-22,Running Shoes,Fashion,3,4757.21,East,Patna,Debit Card
+ORD101003,C1055,2025-12-28,Air Fryer,Home Appliances,1,7249.22,West,Mumbai,Net Banking
+ORD101004,C1047,2025-09-25,Desk,Furniture,5,12755.11,East,Patna,Net Banking
+ORD101005,C1324,2025-07-27,Smartphone,Electronics,1,26283.23,East,Ranchi,UPI
+ORD101006,C1348,2025-11-30,Office Chair,Furniture,1,7848.06,North,Jaipur,Net Banking
+ORD101007,C1159,2025-05-28,Office Chair,Furniture,1,8399.18,South,Vijayawada,UPI
+ORD101008,C1138,2025-10-29,Coffee Maker,Home Appliances,2,6383.79,East,Ranchi,UPI
+ORD101009,C1298,2025-01-20,Keyboard,Accessories,1,1812.97,North,Jaipur,UPI
+ORD101010,C1283,2025-03-28,Smartwatch,Electronics,1,7078.94,South,Bengaluru,Net Banking
+ORD101011,C1117,2025-10-30,Coffee Maker,Home Appliances,1,6397.48,North,Lucknow,Net Banking
+ORD101012,C1322,2025-05-02,Keyboard,Accessories,1,1695.3,South,Chennai,UPI
+ORD101013,C1220,2025-09-15,Office Chair,Furniture,3,8531.91,South,Bengaluru,UPI
+ORD101014,C1201,2025-02-12,Air Fryer,Home Appliances,1,7217.26,East,Kolkata,UPI
+ORD101015,C1123,2025-11-07,Bookshelf,Furniture,1,6231.17,East,Kolkata,Debit Card
+ORD101016,C1341,2025-03-06,T-Shirt,Fashion,2,1220.54,South,Bengaluru,UPI
+ORD101017,C1194,2025-07-15,Office Chair,Furniture,2,8009.86,North,Delhi,UPI
+ORD101018,C1343,2025-03-28,Backpack,Fashion,1,2364.29,East,Ranchi,UPI
+ORD101019,C1092,2025-06-24,Laptop,Electronics,1,53967.37,West,Pune,Cash on Delivery
+ORD101020,C1303,2025-07-14,Backpack,Fashion,1,2070.4,West,Pune,UPI
+ORD101021,C1024,2025-12-27,Smartwatch,Electronics,2,6822.71,North,Delhi,UPI
+ORD101022,C1101,2025-02-07,Desk,Furniture,2,11263.96,South,Bengaluru,Debit Card
+ORD101023,C1335,2025-04-10,Keyboard,Accessories,1,1727.11,South,Hyderabad,UPI
+ORD101024,C1034,2025-10-13,Air Fryer,Home Appliances,1,7371.57,North,Delhi,Debit Card
+ORD101025,C1322,2025-09-25,Smartwatch,Electronics,2,6805.52,West,Ahmedabad,Debit Card
+ORD101026,C1148,2025-11-04,Coffee Maker,Home Appliances,1,6274.35,West,Surat,UPI
+ORD101027,C1242,2025-02-25,Backpack,Fashion,1,2351.89,South,Chennai,Credit Card
+ORD101028,C1211,2025-08-22,Air Fryer,Home Appliances,3,7990.17,West,Pune,Credit Card
+ORD101029,C1138,2025-07-25,Bookshelf,Furniture,5,6421.75,West,Pune,Credit Card
+ORD101030,C1131,2025-12-21,Coffee Maker,Home Appliances,2,6353.55,East,Bhubaneswar,Credit Card
+ORD101031,C1070,2025-09-08,Laptop,Electronics,3,56413.0,North,Delhi,Debit Card
+ORD101032,C1294,2025-01-18,Laptop,Electronics,2,55976.35,South,Hyderabad,UPI
+ORD101033,C1276,2025-06-22,Air Fryer,Home Appliances,1,7694.66,North,Delhi,UPI
+ORD101034,C1196,2025-04-24,Bookshelf,Furniture,2,6498.26,East,Bhubaneswar,UPI
+ORD101035,C1011,2025-12-04,Keyboard,Accessories,1,1739.49,West,Mumbai,Net Banking
+ORD101036,C1087,2025-11-26,Desk,Furniture,1,12189.48,West,Mumbai,UPI
+ORD101037,C1156,2025-05-28,Running Shoes,Fashion,1,4454.18,West,Ahmedabad,UPI
+ORD101038,C1170,2025-11-08,Keyboard,Accessories,2,1688.67,South,Hyderabad,UPI
+ORD101039,C1287,2025-12-18,Smartwatch,Electronics,3,6988.73,North,Jaipur,UPI
+ORD101040,C1294,2025-02-01,Office Chair,Furniture,1,8729.43,South,Chennai,Credit Card
+ORD101041,C1059,2025-02-22,Bookshelf,Furniture,1,6803.36,South,Hyderabad,UPI
+ORD101042,C1292,2025-03-05,Smartwatch,Electronics,2,6864.07,East,Ranchi,UPI
+ORD101043,C1228,2025-12-27,Office Chair,Furniture,4,9070.9,North,Jaipur,UPI
+ORD101044,C1020,2025-08-29,Bookshelf,Furniture,3,6123.94,South,Chennai,Debit Card
+ORD101045,C1014,2025-06-21,T-Shirt,Fashion,1,1257.81,East,Bhubaneswar,UPI
+ORD101046,C1013,2025-01-26,Mixer Grinder,Home Appliances,2,4805.48,South,Chennai,Debit Card
+ORD101047,C1270,2025-05-23,Running Shoes,Fashion,2,4182.72,West,Mumbai,UPI
+ORD101048,C1177,2025-10-12,Coffee Maker,Home Appliances,3,6563.16,South,Chennai,Cash on Delivery
+ORD101049,C1318,2025-11-09,Keyboard,Accessories,2,1923.42,East,Bhubaneswar,Cash on Delivery
+ORD101050,C1098,2025-10-06,Running Shoes,Fashion,3,4603.95,West,Mumbai,Cash on Delivery
+ORD101051,C1253,2025-05-04,Mixer Grinder,Home Appliances,2,4918.64,North,Delhi,UPI
+ORD101052,C1055,2025-11-10,Smartphone,Electronics,1,28938.21,East,Patna,Net Banking
+ORD101053,C1187,2025-01-25,Laptop,Electronics,2,55051.31,South,Vijayawada,Debit Card
+ORD101054,C1303,2025-09-26,Air Fryer,Home Appliances,1,7648.38,West,Pune,UPI
+ORD101055,C1142,2025-04-06,Running Shoes,Fashion,3,4556.91,South,Hyderabad,UPI
+ORD101056,C1262,2025-11-05,Office Chair,Furniture,2,8458.51,East,Bhubaneswar,UPI
+ORD101057,C1306,2025-07-12,Smartwatch,Electronics,1,7239.47,South,Chennai,Net Banking
+ORD101058,C1335,2025-12-19,Smartphone,Electronics,1,28617.9,North,Chandigarh,Debit Card
+ORD101059,C1268,2025-02-07,Desk,Furniture,2,12805.0,West,Pune,Credit Card
+ORD101060,C1178,2025-02-07,Coffee Maker,Home Appliances,1,6960.48,North,Jaipur,Credit Card
+ORD101061,C1305,2025-12-11,Backpack,Fashion,2,2069.43,West,Pune,UPI
+ORD101062,C1309,2025-06-17,Running Shoes,Fashion,2,4645.48,South,Chennai,UPI
+ORD101063,C1104,2025-05-13,Keyboard,Accessories,1,1714.89,West,Surat,Net Banking
+ORD101064,C1231,2025-05-14,Smartwatch,Electronics,2,7416.63,North,Jaipur,Debit Card
+ORD101065,C1342,2025-12-02,Running Shoes,Fashion,1,4232.43,East,Kolkata,UPI
+ORD101066,C1211,2025-05-18,Office Chair,Furniture,1,8001.35,West,Mumbai,Debit Card
+ORD101067,C1057,2025-11-17,Office Chair,Furniture,2,8926.6,South,Vijayawada,UPI
+ORD101068,C1337,2025-08-21,Smartphone,Electronics,1,29004.61,North,Delhi,UPI
+ORD101069,C1152,2025-07-12,Office Chair,Furniture,1,8851.63,South,Hyderabad,Cash on Delivery
+ORD101070,C1308,2025-02-13,Desk,Furniture,1,11429.55,South,Hyderabad,Debit Card
+ORD101071,C1029,2025-04-05,Smartphone,Electronics,2,29267.2,North,Jaipur,UPI
+ORD101072,C1144,2025-12-05,Keyboard,Accessories,1,1695.3,North,Delhi,Credit Card
+ORD101073,C1178,2025-02-14,Keyboard,Accessories,2,1767.9,East,Kolkata,UPI
+ORD101074,C1294,2025-08-17,Air Fryer,Home Appliances,1,8312.78,West,Surat,Net Banking
+ORD101075,C1240,2025-01-04,Mixer Grinder,Home Appliances,2,5173.91,South,Bengaluru,Debit Card
+ORD101076,C1234,2025-04-07,Smartphone,Electronics,1,26985.5,South,Chennai,Debit Card
+ORD101077,C1079,2025-12-03,Coffee Maker,Home Appliances,2,6721.39,West,Pune,Debit Card
+ORD101078,C1088,2025-05-11,Keyboard,Accessories,2,1902.33,South,Hyderabad,Debit Card
+ORD101079,C1348,2025-10-07,Running Shoes,Fashion,1,4577.19,East,Ranchi,Credit Card
+ORD101080,C1087,2025-06-26,Backpack,Fashion,3,2173.12,South,Bengaluru,UPI
+ORD101081,C1341,2025-01-02,T-Shirt,Fashion,3,1245.11,North,Chandigarh,Net Banking
+ORD101082,C1092,2025-05-13,Air Fryer,Home Appliances,1,8412.9,West,Pune,
+ORD101083,C1155,2025-08-28,Keyboard,Accessories,3,1659.53,South,Vijayawada,Credit Card
+ORD101084,C1203,2025-04-07,Headphones,Electronics,4,3403.11,West,Pune,Net Banking
+ORD101085,C1207,2025-09-06,Air Fryer,Home Appliances,4,7234.22,South,Vijayawada,Credit Card
+ORD101086,C1053,2025-03-16,Coffee Maker,Home Appliances,1,6762.19,South,Vijayawada,Credit Card
+ORD101087,C1340,2025-01-24,Running Shoes,Fashion,1,4358.85,West,Ahmedabad,Credit Card
+ORD101088,C1106,2025-03-10,Mouse,Accessories,1,971.93,South,Bengaluru,UPI
+ORD101089,C1247,2025-04-23,Laptop,Electronics,1,59332.97,South,Hyderabad,UPI
+ORD101090,C1177,2025-01-13,Desk,Furniture,1,12167.17,South,Chennai,Debit Card
+ORD101091,C1091,2025-09-01,Keyboard,Accessories,4,1805.18,South,Vijayawada,Net Banking
+ORD101092,C1303,2025-04-18,Bookshelf,Furniture,2,6271.18,North,Delhi,UPI
+ORD101093,C1299,2025-06-09,Smartphone,Electronics,1,27466.81,South,Vijayawada,UPI
+ORD101094,C1042,2025-02-09,Backpack,Fashion,1,2148.16,South,Vijayawada,Cash on Delivery
+ORD101095,C1216,2025-08-16,Backpack,Fashion,2,2200.6,West,Pune,Net Banking
+ORD101096,C1152,2025-05-11,Keyboard,Accessories,2,1830.64,North,Lucknow,Debit Card
+ORD101097,C1288,2025-05-09,Headphones,Electronics,4,3757.52,West,Pune,Credit Card
+ORD101098,C1002,2025-07-26,Running Shoes,Fashion,1,4325.26,South,Hyderabad,Cash on Delivery
+ORD101099,C1153,2025-05-29,Mixer Grinder,Home Appliances,1,5360.56,North,Chandigarh,Net Banking
+ORD101100,C1033,2025-05-28,Bookshelf,Furniture,1,6258.08,North,Chandigarh,Credit Card
+ORD101101,C1257,2025-10-28,Backpack,Fashion,1,2080.27,South,Bengaluru,UPI
+ORD101102,C1251,2025-07-02,Running Shoes,Fashion,1,4147.28,South,Vijayawada,UPI
+ORD101103,C1145,2025-04-20,Office Chair,Furniture,5,7990.52,South,Hyderabad,Net Banking
+ORD101104,C1002,2025-04-01,Bookshelf,Furniture,3,6264.27,South,Bengaluru,Credit Card
+ORD101105,C1071,2025-05-16,Running Shoes,Fashion,2,4559.77,East,Kolkata,Debit Card
+ORD101106,C1278,2025-03-23,Running Shoes,Fashion,3,4557.18,South,Hyderabad,UPI
+ORD101107,C1009,2025-08-26,Desk,Furniture,3,11781.18,West,Mumbai,Net Banking
+ORD101108,C1026,2025-01-06,Backpack,Fashion,2,2059.18,South,Bengaluru,UPI
+ORD101109,C1235,2025-08-18,Bookshelf,Furniture,2,7008.8,South,Vijayawada,Credit Card
+ORD101110,C1276,2025-07-17,Keyboard,Accessories,2,1932.13,North,Lucknow,Credit Card
+ORD101111,C1090,2025-12-08,Office Chair,Furniture,1,8975.44,East,Bhubaneswar,Debit Card
+ORD101112,C1129,2025-01-05,Coffee Maker,Home Appliances,1,6858.56,North,Chandigarh,UPI
+ORD101113,C1153,2025-05-05,Running Shoes,Fashion,2,4238.78,North,Lucknow,Net Banking
+ORD101114,C1208,2025-06-30,Running Shoes,Fashion,2,4779.15,North,Delhi,Net Banking
+ORD101115,C1196,2025-05-10,Backpack,Fashion,4,2335.86,North,Delhi,Credit Card
+ORD101116,C1160,2025-05-15,Backpack,Fashion,3,2311.99,South,Chennai,UPI
+ORD101117,C1082,2025-11-30,T-Shirt,Fashion,2,1210.88,South,Chennai,Debit Card
+ORD101118,C1059,2025-06-09,Desk,Furniture,1,11988.78,South,Vijayawada,Credit Card
+ORD101119,C1109,2025-11-19,Backpack,Fashion,1,2325.43,South,Hyderabad,Debit Card
+ORD101120,C1219,2025-07-11,Laptop,Electronics,2,57997.07,East,Patna,Credit Card
+ORD101121,C1149,2025-04-29,Mixer Grinder,Home Appliances,1,4891.59,North,Jaipur,Credit Card
+ORD101122,C1283,2025-08-31,Keyboard,Accessories,2,1822.45,South,Bengaluru,Credit Card
+ORD101123,C1006,2025-02-21,Coffee Maker,Home Appliances,1,6996.09,West,Surat,Credit Card
+ORD101124,C1022,2025-04-22,Smartwatch,Electronics,2,6845.58,South,Vijayawada,UPI
+ORD101125,C1160,2025-10-09,Bookshelf,Furniture,2,6526.9,South,Bengaluru,Debit Card
+ORD101126,C1154,2025-06-25,Headphones,Electronics,2,3729.59,South,Bengaluru,UPI
+ORD101127,C1016,2025-12-20,Mouse,Accessories,1,863.04,East,Ranchi,Credit Card
+ORD101128,C1292,2025-01-09,Backpack,Fashion,1,2250.3,West,Surat,Credit Card
+ORD101129,C1163,2025-11-23,Desk,Furniture,1,12159.34,North,Chandigarh,Cash on Delivery
+ORD101130,C1125,2025-03-15,Laptop,Electronics,1,55421.87,North,Lucknow,Debit Card
+ORD101131,C1230,2025-07-30,Keyboard,Accessories,2,1673.52,North,Jaipur,Credit Card
+ORD101132,C1132,2025-05-08,Smartphone,Electronics,2,29551.25,West,Pune,UPI
+ORD101133,C1271,2025-07-05,Smartphone,Electronics,2,28248.74,West,Ahmedabad,UPI
+ORD101134,C1173,2025-04-18,Smartphone,Electronics,1,28734.69,South,Hyderabad,UPI
+ORD101135,C1149,2025-09-06,Laptop,Electronics,2,58960.47,West,Surat,Debit Card
+ORD101136,C1176,2025-09-23,Coffee Maker,Home Appliances,1,6090.05,South,Bengaluru,UPI
+ORD101137,C1231,2025-05-15,Coffee Maker,Home Appliances,1,6987.85,South,Hyderabad,Cash on Delivery
+ORD101138,C1006,2025-09-26,Keyboard,Accessories,2,1816.8,South,Chennai,Net Banking
+ORD101139,C1091,2025-02-14,T-Shirt,Fashion,1,1222.73,West,Ahmedabad,Cash on Delivery
+ORD101140,C1345,2025-05-08,Keyboard,Accessories,1,1839.22,South,Chennai,Net Banking
+ORD101141,C1211,2025-04-04,T-Shirt,Fashion,2,1169.14,East,Patna,UPI
+ORD101142,C1349,2025-05-07,Running Shoes,Fashion,1,4826.52,North,Delhi,UPI
+ORD101143,C1082,2025-10-18,Backpack,Fashion,1,2142.6,North,Lucknow,UPI
+ORD101144,C1030,2025-05-16,Backpack,Fashion,1,2342.83,South,Bengaluru,UPI
+ORD101145,C1227,2025-06-24,Office Chair,Furniture,2,7879.05,North,Lucknow,Credit Card
+ORD101146,C1080,2025-02-21,Desk,Furniture,1,11712.27,West,Ahmedabad,Credit Card
+ORD101147,C1023,2025-12-20,Bookshelf,Furniture,2,6093.07,South,Bengaluru,Debit Card
+ORD101148,,2025-11-20,Desk,Furniture,4,12877.52,East,Bhubaneswar,UPI
+ORD101149,C1023,2025-12-23,Coffee Maker,Home Appliances,2,6314.65,West,Ahmedabad,UPI
+ORD101150,C1211,2025-11-12,Smartwatch,Electronics,4,6455.51,South,Bengaluru,Cash on Delivery
+ORD101151,C1168,2025-01-27,Office Chair,Furniture,2,8251.35,North,Jaipur,Net Banking
+ORD101152,C1262,2025-06-09,Keyboard,Accessories,5,1762.65,East,Patna,Credit Card
+ORD101153,C1123,2025-12-03,Backpack,Fashion,2,2335.78,West,Ahmedabad,Debit Card
+ORD101154,C1148,2025-08-03,Smartphone,Electronics,2,29303.68,West,Pune,Credit Card
+ORD101155,C1109,2025-02-09,Backpack,Fashion,1,2345.07,South,Chennai,Cash on Delivery
+ORD101156,C1226,2025-09-08,T-Shirt,Fashion,2,1237.8,West,Mumbai,Debit Card
+ORD101157,C1248,2025-04-06,Laptop,Electronics,1,52983.26,West,Surat,Credit Card
+ORD101158,C1254,2025-11-07,Desk,Furniture,1,12525.88,West,Ahmedabad,Debit Card
+ORD101159,,2025-05-19,Bookshelf,Furniture,2,6985.76,East,Patna,Debit Card
+ORD101160,C1128,2025-02-21,Office Chair,Furniture,1,8568.05,North,Lucknow,Net Banking
+ORD101161,C1034,2025-09-01,Keyboard,Accessories,2,1770.05,South,Chennai,Credit Card
+ORD101162,C1271,2025-09-26,Smartwatch,Electronics,2,7075.44,South,Hyderabad,UPI
+ORD101163,C1288,2025-09-15,T-Shirt,Fashion,2,1109.21,East,Kolkata,UPI
+ORD101164,C1097,2025-07-28,Coffee Maker,Home Appliances,4,6984.2,West,Surat,Debit Card
+ORD101165,C1002,2025-01-29,Bookshelf,Furniture,2,6036.73,West,Pune,UPI
+ORD101166,C1279,2025-10-10,Air Fryer,Home Appliances,3,7823.25,South,Bengaluru,Net Banking
+ORD101167,C1261,2025-05-26,Air Fryer,Home Appliances,3,8102.08,North,Lucknow,Net Banking
+ORD101168,C1285,2025-11-02,Desk,Furniture,3,11912.57,North,Lucknow,UPI
+ORD101169,C1002,2025-08-04,Smartwatch,Electronics,1,7533.73,North,Delhi,Debit Card
+ORD101170,C1010,2025-07-11,Coffee Maker,Home Appliances,1,6008.37,East,Kolkata,Credit Card
+ORD101171,C1036,2025-08-06,Desk,Furniture,1,11966.79,East,Ranchi,Credit Card
+ORD101172,C1001,2025-10-23,Keyboard,Accessories,2,1915.11,South,Hyderabad,
+ORD101173,C1036,2025-03-07,Keyboard,Accessories,1,1836.26,South,Bengaluru,Debit Card
+ORD101174,C1030,2025-05-28,Smartwatch,Electronics,2,6661.08,East,Ranchi,UPI
+ORD101175,C1179,2025-06-02,Smartphone,Electronics,1,27219.55,East,Ranchi,UPI
+ORD101176,C1044,2025-01-15,Bookshelf,Furniture,1,6426.55,South,Vijayawada,Credit Card
+ORD101177,C1060,2025-06-11,Keyboard,Accessories,2,1773.11,South,Vijayawada,UPI
+ORD101178,C1252,2025-11-19,Smartphone,Electronics,1,29389.74,South,Chennai,Cash on Delivery
+ORD101179,C1107,2025-08-12,Mouse,Accessories,2,859.25,West,Pune,Credit Card
+ORD101180,C1041,2025-05-26,Smartwatch,Electronics,1,7552.68,North,Chandigarh,Cash on Delivery
+ORD101181,C1222,2025-12-09,Coffee Maker,Home Appliances,3,6196.5,East,Ranchi,Debit Card
+ORD101182,C1168,2025-05-22,Headphones,Electronics,1,3403.75,South,Hyderabad,Credit Card
+ORD101183,C1168,2025-08-14,Backpack,Fashion,2,2116.75,West,Surat,UPI
+ORD101184,C1201,2025-10-30,Smartphone,Electronics,1,26907.4,South,Bengaluru,UPI
+ORD101185,C1119,2025-02-27,Coffee Maker,Home Appliances,2,6570.92,South,Chennai,UPI
+ORD101186,C1283,2025-10-11,Air Fryer,Home Appliances,2,7839.12,West,Surat,Net Banking
+ORD101187,C1140,2025-10-06,Backpack,Fashion,1,2253.45,West,Pune,UPI
+ORD101188,C1111,2025-11-17,Keyboard,Accessories,1,1943.35,East,Ranchi,Credit Card
+ORD101189,C1046,2025-12-08,Mixer Grinder,Home Appliances,1,5337.77,South,Vijayawada,Credit Card
+ORD101190,C1249,2025-04-09,Laptop,Electronics,1,52648.04,West,Pune,UPI
+ORD101191,C1299,2025-10-17,Running Shoes,Fashion,2,4208.31,West,Pune,Debit Card
+ORD101192,C1196,2025-03-18,Headphones,Electronics,2,3556.5,West,Pune,Debit Card
+ORD101193,C1300,2025-05-18,Laptop,Electronics,3,57149.61,West,Surat,Cash on Delivery
+ORD101194,C1200,2025-03-05,Office Chair,Furniture,2,8431.04,South,Bengaluru,Debit Card
+ORD101195,C1188,2025-06-29,Laptop,Electronics,2,52331.83,North,Chandigarh,UPI
+ORD101196,C1126,2025-11-02,Headphones,Electronics,2,3583.71,North,Lucknow,UPI
+ORD101197,C1091,2025-06-12,Mouse,Accessories,4,874.81,East,Kolkata,Credit Card
+ORD101198,C1092,2025-12-30,Mouse,Accessories,1,886.0,North,Lucknow,UPI
+ORD101199,C1194,2025-09-10,Keyboard,Accessories,2,1734.01,West,Mumbai,Credit Card
+ORD101200,C1247,2025-04-03,Mouse,Accessories,1,955.28,East,Ranchi,Debit Card
+ORD101201,C1213,2025-11-16,Smartphone,Electronics,1,30160.28,North,Jaipur,Credit Card
+ORD101202,C1180,2025-07-30,Running Shoes,Fashion,1,4588.82,South,Hyderabad,Debit Card
+ORD101203,C1242,2025-11-29,Bookshelf,Furniture,3,6050.99,West,Ahmedabad,Debit Card
+ORD101204,C1184,2025-02-27,Air Fryer,Home Appliances,1,7423.28,South,Chennai,UPI
+ORD101205,C1068,2025-11-08,Desk,Furniture,1,11653.04,South,Hyderabad,Cash on Delivery
+ORD101206,C1213,2025-10-07,Bookshelf,Furniture,1,6368.81,South,Chennai,Debit Card
+ORD101207,C1200,2025-12-14,Bookshelf,Furniture,1,6860.36,West,Pune,UPI
+ORD101208,C1308,2025-02-21,Office Chair,Furniture,1,9162.59,East,Patna,UPI
+ORD101209,C1299,2025-04-17,Mixer Grinder,Home Appliances,2,5211.6,West,Surat,Credit Card
+ORD101210,C1250,2025-11-24,T-Shirt,Fashion,1,1278.34,South,Hyderabad,UPI
+ORD101211,C1197,2025-10-04,Coffee Maker,Home Appliances,2,6003.3,East,Ranchi,UPI
+ORD101212,C1302,2025-04-08,Bookshelf,Furniture,4,6352.11,West,Pune,Net Banking
+ORD101213,C1138,2025-01-30,Mouse,Accessories,2,936.99,South,Bengaluru,Debit Card
+ORD101214,C1056,2025-09-22,Backpack,Fashion,2,2054.23,West,Ahmedabad,UPI
+ORD101215,C1201,2025-05-01,Headphones,Electronics,3,3285.36,East,Ranchi,UPI
+ORD101216,C1227,2025-07-15,Headphones,Electronics,3,3300.89,South,Chennai,Cash on Delivery
+ORD101217,C1160,2025-03-18,Running Shoes,Fashion,3,4603.02,South,Hyderabad,Debit Card
+ORD101218,C1026,2025-01-11,Smartphone,Electronics,2,27786.96,North,Chandigarh,Debit Card
+ORD101219,C1141,2025-02-15,Coffee Maker,Home Appliances,1,6271.24,North,Delhi,Credit Card
+ORD101220,C1161,2025-01-09,Keyboard,Accessories,3,1935.6,South,Chennai,UPI
+ORD101221,C1256,2025-10-26,Smartwatch,Electronics,1,7481.87,South,Bengaluru,UPI
+ORD101222,C1075,2025-08-02,Headphones,Electronics,1,3458.76,North,Chandigarh,Net Banking
+ORD101223,C1225,2025-03-14,Office Chair,Furniture,1,9046.35,West,,Credit Card
+ORD101224,C1308,2025-08-19,Laptop,Electronics,2,53108.47,East,Kolkata,UPI
+ORD101225,C1093,2025-07-25,Mouse,Accessories,1,896.65,North,Jaipur,UPI
+ORD101226,C1172,2025-02-12,Smartphone,Electronics,4,28337.81,South,Bengaluru,Credit Card
+ORD101227,C1168,2025-07-28,Mixer Grinder,Home Appliances,1,5329.71,South,Hyderabad,Debit Card
+ORD101228,C1060,2025-12-15,T-Shirt,Fashion,1,1121.56,East,Ranchi,Debit Card
+ORD101229,C1188,2025-11-15,Office Chair,Furniture,1,8962.86,East,Ranchi,Net Banking
+ORD101230,C1150,2025-06-05,Keyboard,Accessories,1,1931.68,South,Hyderabad,UPI
+ORD101231,C1042,2025-07-12,Backpack,Fashion,4,2046.07,North,Jaipur,Debit Card
+ORD101232,C1092,2025-11-29,Office Chair,Furniture,1,8124.96,South,Hyderabad,UPI
+ORD101233,C1137,2025-06-16,Smartphone,Electronics,3,29784.1,West,Mumbai,UPI
+ORD101234,C1113,2025-03-03,Running Shoes,Fashion,2,4323.44,West,Surat,Credit Card
+ORD101235,C1207,2025-11-27,Smartwatch,Electronics,4,7084.68,South,Hyderabad,UPI
+ORD101236,C1231,2025-08-16,Mixer Grinder,Home Appliances,1,5279.04,West,Surat,Net Banking
+ORD101237,C1037,2025-02-25,Office Chair,Furniture,1,7951.27,East,Kolkata,UPI
+ORD101238,C1348,2025-09-10,Smartphone,Electronics,2,26596.53,North,Jaipur,UPI
+ORD101239,C1251,2025-09-25,Keyboard,Accessories,3,1842.59,East,Patna,UPI
+ORD101240,C1079,2025-02-05,Air Fryer,Home Appliances,1,7622.48,North,Delhi,Net Banking
+ORD101241,C1017,2025-09-19,Mouse,Accessories,2,850.19,East,Ranchi,Debit Card
+ORD101242,C1084,2025-07-15,Coffee Maker,Home Appliances,1,6488.72,North,Lucknow,UPI
+ORD101243,C1256,2025-07-03,Keyboard,Accessories,4,1811.08,West,Pune,Net Banking
+ORD101244,C1014,2025-09-28,Mixer Grinder,Home Appliances,1,5260.26,West,Mumbai,Net Banking
+ORD101245,C1274,2025-12-07,Backpack,Fashion,1,2087.43,South,Vijayawada,Credit Card
+ORD101246,C1136,2025-05-18,Mouse,Accessories,1,894.36,East,Kolkata,Credit Card
+ORD101247,C1177,2025-07-12,Laptop,Electronics,1,58593.37,South,Chennai,Net Banking
+ORD101248,C1093,2025-05-25,Laptop,Electronics,1,57555.64,West,Ahmedabad,UPI
+ORD101249,C1267,2025-04-08,Desk,Furniture,4,12959.96,South,Bengaluru,UPI
+ORD101250,C1232,2025-07-18,Laptop,Electronics,1,55020.05,West,Surat,UPI
+ORD101251,C1187,2025-12-26,Smartphone,Electronics,1,27748.18,West,Ahmedabad,Debit Card
+ORD101252,C1212,2025-02-17,Mouse,Accessories,2,912.04,East,Ranchi,Credit Card
+ORD101253,C1305,2025-01-18,Keyboard,Accessories,2,1803.59,West,Mumbai,Debit Card
+ORD101254,C1162,2025-01-14,Air Fryer,Home Appliances,1,7615.04,South,Chennai,UPI
+ORD101255,C1135,2025-09-19,Keyboard,Accessories,3,1878.13,South,Bengaluru,UPI
+ORD101256,C1117,2025-04-04,T-Shirt,Fashion,1,1112.74,South,Bengaluru,Cash on Delivery
+ORD101257,C1332,2025-06-18,Running Shoes,Fashion,1,4333.02,East,Patna,Credit Card
+ORD101258,C1187,2025-06-22,Smartwatch,Electronics,2,6781.99,East,Patna,UPI
+ORD101259,C1105,2025-09-02,Keyboard,Accessories,3,1849.33,South,Bengaluru,UPI
+ORD101260,C1299,2025-08-14,Running Shoes,Fashion,1,4371.52,East,Patna,Net Banking
+ORD101261,C1104,2025-02-01,Air Fryer,Home Appliances,1,7725.12,South,Vijayawada,Net Banking
+ORD101262,C1228,2025-02-11,Bookshelf,Furniture,3,6995.74,West,Mumbai,Cash on Delivery
+ORD101263,C1316,2025-07-15,Running Shoes,Fashion,1,4846.45,North,Delhi,UPI
+ORD101264,C1057,2025-07-28,T-Shirt,Fashion,1,1266.61,North,Delhi,Debit Card
+ORD101265,C1217,2025-09-28,Office Chair,Furniture,1,9176.86,North,Lucknow,Credit Card
+ORD101266,C1216,2025-03-21,Laptop,Electronics,3,57738.43,East,Bhubaneswar,Net Banking
+ORD101267,C1350,2025-01-14,Running Shoes,Fashion,1,4572.0,West,Pune,Cash on Delivery
+ORD101268,C1273,2025-09-09,Laptop,Electronics,3,59273.59,West,Ahmedabad,UPI
+ORD101269,C1234,2025-02-06,Mouse,Accessories,2,934.88,East,Bhubaneswar,Credit Card
+ORD101270,C1255,2025-03-08,Keyboard,Accessories,1,1853.23,East,Bhubaneswar,Net Banking
+ORD101271,C1147,2025-12-27,Backpack,Fashion,1,2072.6,West,Pune,UPI
+ORD101272,C1179,2025-06-30,Headphones,Electronics,1,3689.45,East,Ranchi,Debit Card
+ORD101273,C1174,2025-09-12,Bookshelf,Furniture,1,5982.68,West,Surat,Cash on Delivery
+ORD101274,C1115,2025-01-20,Backpack,Fashion,1,2346.07,North,Lucknow,Debit Card
+ORD101275,C1111,2025-12-24,Coffee Maker,Home Appliances,1,6380.4,South,Hyderabad,Debit Card
+ORD101276,C1075,2025-06-24,T-Shirt,Fashion,2,1111.8,South,Vijayawada,Debit Card
+ORD101277,C1148,2025-10-12,Smartwatch,Electronics,1,7057.16,West,Surat,Cash on Delivery
+ORD101278,C1271,2025-10-19,Air Fryer,Home Appliances,1,7738.69,East,Patna,UPI
+ORD101279,C1328,2025-10-19,Office Chair,Furniture,5,8056.47,North,Lucknow,Credit Card
+ORD101280,C1320,2025-03-17,Mouse,Accessories,1,966.77,North,Jaipur,Cash on Delivery
+ORD101281,C1009,2025-10-17,Mouse,Accessories,1,950.51,West,Surat,Net Banking
+ORD101282,C1012,2025-01-17,Coffee Maker,Home Appliances,1,6363.37,West,Pune,Credit Card
+ORD101283,C1112,2025-04-24,Desk,Furniture,1,12161.55,South,Chennai,Net Banking
+ORD101284,C1194,2025-12-28,Smartwatch,Electronics,1,7031.63,West,Mumbai,Debit Card
+ORD101285,C1131,2025-07-29,Laptop,Electronics,1,54674.54,North,Jaipur,Debit Card
+ORD101286,C1096,2025-03-19,Laptop,Electronics,1,52674.79,West,Pune,UPI
+ORD101287,C1069,2025-06-05,Laptop,Electronics,2,54452.55,East,Patna,Net Banking
+ORD101288,C1042,2025-11-26,Smartwatch,Electronics,3,6880.36,North,Delhi,UPI
+ORD101289,C1118,2025-02-24,Air Fryer,Home Appliances,2,7722.83,South,Hyderabad,UPI
+ORD101290,C1033,2025-04-03,Smartphone,Electronics,2,27732.79,North,Chandigarh,Credit Card
+ORD101291,C1276,2025-03-22,Backpack,Fashion,3,2344.62,North,Lucknow,Credit Card
+ORD101292,C1300,2025-06-12,Laptop,Electronics,1,57744.25,West,Ahmedabad,UPI
+ORD101293,C1043,2025-08-02,Headphones,Electronics,1,3729.04,East,Ranchi,UPI
+ORD101294,C1090,2025-10-01,Keyboard,Accessories,1,1927.32,West,Pune,UPI
+ORD101295,C1343,2025-04-06,Desk,Furniture,2,11764.74,South,Hyderabad,Debit Card
+ORD101296,C1240,2025-04-23,Office Chair,Furniture,1,9115.57,South,Bengaluru,Credit Card
+ORD101297,C1268,2025-01-29,Office Chair,Furniture,1,8781.08,East,Kolkata,UPI
+ORD101298,C1243,2025-06-15,Office Chair,Furniture,1,9132.58,South,Hyderabad,Net Banking
+ORD101299,C1062,2025-11-08,T-Shirt,Fashion,2,1200.11,South,Hyderabad,Credit Card
+ORD101300,C1133,2025-01-17,Mixer Grinder,Home Appliances,1,5512.83,West,Ahmedabad,UPI
+ORD101301,C1078,2025-02-09,Bookshelf,Furniture,1,6482.73,East,Kolkata,Debit Card
+ORD101302,C1047,2025-10-16,Desk,Furniture,4,11098.77,South,Vijayawada,Credit Card
+ORD101303,C1194,2025-01-04,T-Shirt,Fashion,2,1165.13,South,Hyderabad,Debit Card
+ORD101304,C1112,2025-12-07,Mouse,Accessories,2,911.24,North,Chandigarh,UPI
+ORD101305,C1282,2025-05-27,Backpack,Fashion,3,2075.6,South,Vijayawada,UPI
+ORD101306,C1212,2025-05-02,Headphones,Electronics,1,3608.18,West,Surat,UPI
+ORD101307,C1307,2025-12-04,Smartwatch,Electronics,2,6806.47,West,Pune,UPI
+ORD101308,C1178,2025-02-13,T-Shirt,Fashion,1,1157.12,West,Mumbai,UPI
+ORD101309,C1204,2025-03-09,Office Chair,Furniture,2,8962.08,West,Mumbai,Credit Card
+ORD101310,C1295,2025-09-28,Laptop,Electronics,1,52731.61,West,Pune,Debit Card
+ORD101311,C1262,2025-02-03,Coffee Maker,Home Appliances,1,6499.96,South,Hyderabad,Credit Card
+ORD101312,C1012,2025-11-10,Keyboard,Accessories,2,1855.93,South,Bengaluru,UPI
+ORD101313,C1227,2025-01-14,Bookshelf,Furniture,2,6108.65,South,Chennai,Debit Card
+ORD101314,C1116,2025-02-07,Laptop,Electronics,1,50858.8,East,Ranchi,Debit Card
+ORD101315,C1248,2025-04-08,Smartphone,Electronics,1,26742.67,North,Delhi,Debit Card
+ORD101316,C1135,2025-11-28,Smartphone,Electronics,1,26430.61,East,Patna,Debit Card
+ORD101317,C1126,2025-05-11,Office Chair,Furniture,4,8234.89,South,Hyderabad,Debit Card
+ORD101318,C1217,2025-05-19,Coffee Maker,Home Appliances,4,6175.09,West,Surat,Net Banking
+ORD101319,C1144,2025-09-12,Laptop,Electronics,5,51840.69,North,Lucknow,Net Banking
+ORD101320,C1326,2025-10-26,Air Fryer,Home Appliances,3,7239.59,East,Ranchi,Credit Card
+ORD101321,C1296,2025-01-29,Backpack,Fashion,3,2226.72,North,Lucknow,UPI
+ORD101322,C1104,2025-10-17,Keyboard,Accessories,1,1855.54,North,Delhi,Credit Card
+ORD101323,C1076,2025-02-20,Coffee Maker,Home Appliances,2,6297.89,South,Bengaluru,UPI
+ORD101324,C1241,2025-01-27,Laptop,Electronics,1,53791.82,West,Mumbai,Credit Card
+ORD101325,C1101,2025-11-18,Desk,Furniture,4,11834.65,South,Hyderabad,Net Banking
+ORD101326,C1294,2025-08-08,Bookshelf,Furniture,3,6040.88,West,Ahmedabad,Debit Card
+ORD101327,C1050,2025-09-16,Mouse,Accessories,1,963.51,South,Chennai,UPI
+ORD101328,C1179,2025-09-05,Keyboard,Accessories,1,1890.47,West,Ahmedabad,Net Banking
+ORD101329,C1184,2025-06-29,Mixer Grinder,Home Appliances,2,4908.82,South,Bengaluru,UPI
+ORD101330,C1317,2025-06-01,Smartwatch,Electronics,3,7513.36,East,Ranchi,Credit Card
+ORD101331,C1269,2025-08-09,T-Shirt,Fashion,4,1290.78,East,Bhubaneswar,UPI
+ORD101332,C1197,2025-03-09,Mixer Grinder,Home Appliances,2,5497.26,East,Ranchi,Cash on Delivery
+ORD101333,C1048,2025-05-06,Keyboard,Accessories,1,1753.66,East,Kolkata,Credit Card
+ORD101334,C1098,2025-12-13,Headphones,Electronics,2,3722.73,East,Kolkata,UPI
+ORD101335,C1295,2025-05-28,Mixer Grinder,Home Appliances,2,5462.37,West,Surat,Credit Card
+ORD101336,C1001,2025-03-23,Keyboard,Accessories,2,1760.09,West,Surat,UPI
+ORD101337,C1069,2025-08-28,Desk,Furniture,1,12241.12,West,Surat,UPI
+ORD101338,C1136,2025-09-20,Keyboard,Accessories,1,1796.29,North,Chandigarh,Debit Card
+ORD101339,C1198,2025-02-22,Keyboard,Accessories,2,1761.07,West,Surat,UPI
+ORD101340,C1030,2025-12-10,Office Chair,Furniture,1,8489.24,East,Kolkata,Net Banking
+ORD101341,,2025-06-04,Backpack,Fashion,3,2185.14,North,Delhi,UPI
+ORD101342,C1138,2025-11-26,T-Shirt,Fashion,2,1236.9,East,Patna,Debit Card
+ORD101343,C1202,2025-01-13,Bookshelf,Furniture,4,6592.2,West,Surat,UPI
+ORD101344,C1191,2025-03-09,Air Fryer,Home Appliances,2,7466.83,East,Patna,Debit Card
+ORD101345,C1044,2025-11-08,Office Chair,Furniture,1,8381.6,South,Vijayawada,Cash on Delivery
+ORD101346,C1345,2025-10-19,Laptop,Electronics,1,54552.31,North,Jaipur,Credit Card
+ORD101347,C1074,2025-08-09,Coffee Maker,Home Appliances,5,7008.63,South,Bengaluru,Credit Card
+ORD101348,C1329,2025-11-22,Keyboard,Accessories,1,1891.77,West,Mumbai,UPI
+ORD101349,C1093,2025-02-08,Backpack,Fashion,1,2046.91,South,Chennai,Cash on Delivery
+ORD101350,C1159,2025-05-08,Office Chair,Furniture,1,8539.44,East,Kolkata,Cash on Delivery
+ORD101351,C1245,2025-03-24,Coffee Maker,Home Appliances,2,6734.75,South,Bengaluru,UPI
+ORD101352,C1104,2025-07-23,Coffee Maker,Home Appliances,2,6606.28,East,Bhubaneswar,UPI
+ORD101353,C1204,2025-03-24,Air Fryer,Home Appliances,1,8346.26,West,Surat,UPI
+ORD101354,C1249,2025-12-06,Smartwatch,Electronics,1,7088.19,West,Pune,UPI
+ORD101355,C1214,2025-03-19,Bookshelf,Furniture,1,6706.45,North,Chandigarh,Credit Card
+ORD101356,C1091,2025-10-22,Air Fryer,Home Appliances,3,8204.68,East,Patna,Credit Card
+ORD101357,C1099,2025-03-01,Keyboard,Accessories,2,1749.16,South,Hyderabad,UPI
+ORD101358,C1090,2025-12-03,Mouse,Accessories,2,912.03,South,Chennai,UPI
+ORD101359,C1201,2025-09-08,Headphones,Electronics,2,3511.51,South,Vijayawada,Net Banking
+ORD101360,C1085,2025-10-04,Smartwatch,Electronics,3,6680.51,East,Patna,UPI
+ORD101361,C1134,2025-12-02,T-Shirt,Fashion,1,1146.69,North,Jaipur,Debit Card
+ORD101362,C1338,2025-11-01,Coffee Maker,Home Appliances,1,6388.57,East,Patna,Debit Card
+ORD101363,C1219,2025-09-08,Smartwatch,Electronics,1,7440.58,North,Lucknow,Credit Card
+ORD101364,C1179,2025-11-21,Coffee Maker,Home Appliances,1,6765.53,North,Lucknow,UPI
+ORD101365,C1219,2025-07-01,Backpack,Fashion,1,2169.46,East,Bhubaneswar,Net Banking
+ORD101366,C1317,2025-11-05,Headphones,Electronics,1,3737.77,East,Patna,Credit Card
+ORD101367,C1008,2025-04-30,T-Shirt,Fashion,1,1142.92,South,Hyderabad,Cash on Delivery
+ORD101368,C1140,2025-09-19,Mixer Grinder,Home Appliances,1,5092.36,West,Pune,UPI
+ORD101369,C1234,2025-10-03,Mixer Grinder,Home Appliances,1,5593.81,East,Patna,Credit Card
+ORD101370,C1146,2025-02-15,Smartwatch,Electronics,3,7082.86,South,Bengaluru,Net Banking
+ORD101371,C1094,2025-03-16,Bookshelf,Furniture,1,6937.72,West,Pune,UPI
+ORD101372,C1081,2025-02-24,Mixer Grinder,Home Appliances,4,5329.42,South,Hyderabad,UPI
+ORD101373,C1324,2025-12-26,Running Shoes,Fashion,3,4219.36,West,Surat,Credit Card
+ORD101374,C1349,2025-03-06,Backpack,Fashion,1,2361.21,North,Lucknow,UPI
+ORD101375,C1137,2025-07-02,Laptop,Electronics,1,51243.38,South,Vijayawada,UPI
+ORD101376,C1241,2025-01-26,Desk,Furniture,2,12640.06,South,Chennai,UPI
+ORD101377,C1129,2025-07-04,Backpack,Fashion,2,2223.72,South,Vijayawada,UPI
+ORD101378,C1327,2025-08-11,Coffee Maker,Home Appliances,2,6983.12,East,Ranchi,UPI
+ORD101379,C1342,2025-04-28,Running Shoes,Fashion,1,4253.02,North,Lucknow,Debit Card
+ORD101380,C1324,2025-10-09,Air Fryer,Home Appliances,1,8108.92,North,Jaipur,UPI
+ORD101381,C1037,2025-07-31,Desk,Furniture,1,12008.03,West,Pune,UPI
+ORD101382,C1261,2025-12-25,Headphones,Electronics,1,3359.88,East,Bhubaneswar,Cash on Delivery
+ORD101383,C1236,2025-11-12,Smartphone,Electronics,2,0.0,South,Chennai,UPI
+ORD101384,C1077,2025-12-09,Bookshelf,Furniture,2,6388.84,North,Delhi,Credit Card
+ORD101385,C1130,2025-08-21,Coffee Maker,Home Appliances,2,6674.04,South,Vijayawada,Cash on Delivery
+ORD101386,C1072,2025-12-27,Mixer Grinder,Home Appliances,1,5040.51,South,Vijayawada,Credit Card
+ORD101387,C1013,2025-12-21,Mouse,Accessories,1,889.72,East,Ranchi,Credit Card
+ORD101388,C1245,2025-11-08,Air Fryer,Home Appliances,3,7443.31,East,Kolkata,Credit Card
+ORD101389,C1029,2025-12-17,Running Shoes,Fashion,1,4600.69,North,Chandigarh,Credit Card
+ORD101390,C1141,2025-02-04,Headphones,Electronics,3,3281.33,West,Mumbai,Debit Card
+ORD101391,C1292,2025-07-21,Desk,Furniture,2,11721.2,West,Mumbai,Credit Card
+ORD101392,C1317,2025-09-15,Keyboard,Accessories,1,1670.62,South,Hyderabad,Net Banking
+ORD101393,C1237,2025-02-11,T-Shirt,Fashion,2,1256.85,South,Vijayawada,UPI
+ORD101394,C1170,2025-07-01,Office Chair,Furniture,1,9045.37,South,Vijayawada,UPI
+ORD101395,C1118,2025-07-19,Mouse,Accessories,1,937.0,East,Patna,UPI
+ORD101396,C1223,2025-04-03,Keyboard,Accessories,1,1772.72,North,Jaipur,Credit Card
+ORD101397,C1174,2025-08-31,Smartwatch,Electronics,1,6913.72,East,Patna,Credit Card
+ORD101398,C1341,2025-02-18,Keyboard,Accessories,1,1767.13,South,Bengaluru,Credit Card
+ORD101399,C1157,2025-05-14,Backpack,Fashion,2,2177.1,West,Pune,Debit Card
+ORD101400,C1344,2025-11-15,Office Chair,Furniture,2,8849.18,North,Delhi,Debit Card
+ORD101401,C1327,2025-09-08,Office Chair,Furniture,2,8954.65,South,Hyderabad,Net Banking
+ORD101402,C1241,2025-12-14,Keyboard,Accessories,3,1852.13,West,Mumbai,Credit Card
+ORD101403,C1331,2025-08-28,Mouse,Accessories,1,947.19,South,Hyderabad,Net Banking
+ORD101404,C1230,2025-07-12,Headphones,Electronics,1,3691.99,South,Chennai,Cash on Delivery
+ORD101405,C1338,2025-07-26,Headphones,Electronics,3,3351.04,North,Jaipur,Credit Card
+ORD101406,C1268,2025-11-09,Headphones,Electronics,3,3581.36,South,Bengaluru,Debit Card
+ORD101407,C1268,2025-09-19,Keyboard,Accessories,4,1705.59,West,Pune,UPI
+ORD101408,C1152,2025-02-16,Laptop,Electronics,3,50794.09,North,Jaipur,Debit Card
+ORD101409,C1054,2025-12-20,Keyboard,Accessories,4,1682.19,West,Mumbai,Cash on Delivery
+ORD101410,C1230,2025-07-18,Desk,Furniture,4,12753.84,South,Bengaluru,Credit Card
+ORD101411,C1229,2025-03-23,Laptop,Electronics,2,58024.43,West,Surat,Credit Card
+ORD101412,C1157,2025-04-22,Laptop,Electronics,2,53775.32,North,Jaipur,Net Banking
+ORD101413,C1278,2025-07-06,Mixer Grinder,Home Appliances,1,4976.81,South,Chennai,Credit Card
+ORD101414,C1290,2025-07-29,Laptop,Electronics,1,52133.41,East,Bhubaneswar,Credit Card
+ORD101415,C1280,2025-04-18,Mouse,Accessories,4,837.13,East,Ranchi,Debit Card
+ORD101416,C1212,2025-11-24,Mouse,Accessories,1,955.82,East,Kolkata,Credit Card
+ORD101417,C1007,2025-12-02,Laptop,Electronics,2,50653.61,East,Kolkata,Debit Card
+ORD101418,C1200,2025-04-16,Coffee Maker,Home Appliances,2,6270.54,West,Mumbai,UPI
+ORD101419,C1176,2025-10-12,Smartwatch,Electronics,1,7032.27,East,Ranchi,Cash on Delivery
+ORD101420,C1193,2025-12-31,Backpack,Fashion,4,2081.31,West,Pune,UPI
+ORD101421,C1048,2025-05-12,Desk,Furniture,4,11837.59,North,Lucknow,Net Banking
+ORD101422,C1225,2025-08-07,Laptop,Electronics,2,52929.49,West,Surat,UPI
+ORD101423,C1039,2025-10-24,Air Fryer,Home Appliances,2,7463.88,East,Kolkata,Cash on Delivery
+ORD101424,C1110,2025-04-15,Coffee Maker,Home Appliances,1,5987.76,South,Bengaluru,Cash on Delivery
+ORD101425,C1261,2025-12-02,Mixer Grinder,Home Appliances,2,5242.5,North,Jaipur,Debit Card
+ORD101426,C1278,2025-03-22,Mouse,Accessories,3,930.27,West,Ahmedabad,UPI
+ORD101427,C1107,2025-11-24,Mouse,Accessories,1,953.94,West,Ahmedabad,UPI
+ORD101428,C1315,2025-09-03,Bookshelf,Furniture,1,6362.64,South,Vijayawada,Credit Card
+ORD101429,C1281,2025-12-13,Mixer Grinder,Home Appliances,2,5569.15,West,Ahmedabad,Credit Card
+ORD101430,C1218,2025-04-13,Office Chair,Furniture,1,8173.62,North,Chandigarh,UPI
+ORD101431,C1297,2025-07-13,Office Chair,Furniture,2,7822.55,North,Lucknow,UPI
+ORD101432,C1184,2025-01-09,Desk,Furniture,1,12263.81,North,Delhi,UPI
+ORD101433,C1232,2025-12-25,Mouse,Accessories,1,939.29,North,Chandigarh,Debit Card
+ORD101434,C1105,2025-03-15,Running Shoes,Fashion,2,4176.43,North,Jaipur,Cash on Delivery
+ORD101435,C1092,2025-08-27,Office Chair,Furniture,1,8833.48,North,Lucknow,UPI
+ORD101436,C1041,2025-08-15,Smartwatch,Electronics,2,6518.18,West,Mumbai,Debit Card
+ORD101437,C1328,2025-02-01,Coffee Maker,Home Appliances,1,6735.65,West,Ahmedabad,Credit Card
+ORD101438,C1106,2025-11-08,Smartphone,Electronics,1,25980.81,West,Mumbai,Net Banking
+ORD101439,C1002,2025-05-19,Smartwatch,Electronics,2,7019.02,East,Bhubaneswar,Debit Card
+ORD101440,C1188,2025-01-05,Office Chair,Furniture,1,8353.64,North,Delhi,UPI
+ORD101441,C1113,2025-03-16,Smartphone,Electronics,1,27190.88,East,Bhubaneswar,UPI
+ORD101442,C1113,2025-04-20,Running Shoes,Fashion,1,4604.3,South,Hyderabad,Cash on Delivery
+ORD101443,C1066,2025-02-25,Mixer Grinder,Home Appliances,1,4957.03,South,Vijayawada,
+ORD101444,C1348,2025-12-04,Laptop,Electronics,1,53051.87,North,Lucknow,Cash on Delivery
+ORD101445,C1209,2025-04-18,Mixer Grinder,Home Appliances,1,5357.09,West,Mumbai,Net Banking
+ORD101446,C1045,2025-05-15,Smartphone,Electronics,5,26576.64,North,Delhi,Debit Card
+ORD101447,C1048,2025-03-10,Laptop,Electronics,2,56704.75,West,Surat,Credit Card
+ORD101448,C1274,2025-05-28,Running Shoes,Fashion,1,4231.75,East,Ranchi,UPI
+ORD101449,C1005,2025-03-12,Headphones,Electronics,2,3402.91,East,Kolkata,UPI
+ORD101450,C1058,2025-07-14,Smartphone,Electronics,1,27366.11,North,Chandigarh,UPI
+ORD101451,C1168,2025-05-05,Office Chair,Furniture,1,8287.39,North,Jaipur,Credit Card
+ORD101452,C1252,2025-08-13,Backpack,Fashion,1,2147.26,South,Bengaluru,UPI
+ORD101453,C1069,2025-05-15,Mouse,Accessories,1,831.85,West,Surat,UPI
+ORD101454,C1255,2025-11-03,Smartphone,Electronics,3,27968.47,South,Hyderabad,Debit Card
+ORD101455,C1045,2025-02-10,T-Shirt,Fashion,5,1172.97,East,Patna,UPI
+ORD101456,C1268,2025-12-17,Smartphone,Electronics,1,27912.41,North,Delhi,UPI
+ORD101457,C1003,2025-05-28,Coffee Maker,Home Appliances,3,6645.12,South,Hyderabad,Debit Card
+ORD101458,C1243,2025-09-12,T-Shirt,Fashion,2,1181.08,West,Mumbai,Net Banking
+ORD101459,C1277,2025-10-21,Laptop,Electronics,2,54242.45,North,Chandigarh,Net Banking
+ORD101460,C1138,2025-02-28,Keyboard,Accessories,1,1703.83,South,Bengaluru,UPI
+ORD101461,C1140,2025-11-02,Air Fryer,Home Appliances,1,8006.57,South,Hyderabad,Credit Card
+ORD101462,C1037,2025-12-14,Smartphone,Electronics,2,26114.22,East,Ranchi,Cash on Delivery
+ORD101463,C1157,2025-07-04,Backpack,Fashion,2,2087.23,West,Ahmedabad,Debit Card
+ORD101464,C1336,2025-07-28,Keyboard,Accessories,2,1701.25,South,Vijayawada,UPI
+ORD101465,C1115,2025-06-05,Desk,Furniture,2,12305.79,South,Hyderabad,Net Banking
+ORD101466,C1196,2025-07-30,Mixer Grinder,Home Appliances,1,5403.29,East,Ranchi,Credit Card
+ORD101467,C1063,2025-02-28,Desk,Furniture,1,11824.99,West,Pune,UPI
+ORD101468,C1009,2025-10-14,Coffee Maker,Home Appliances,3,6551.83,South,Bengaluru,Debit Card
+ORD101469,C1206,2025-05-07,Smartwatch,Electronics,3,7551.28,East,Ranchi,Cash on Delivery
+ORD101470,C1272,2025-03-20,Backpack,Fashion,3,2302.95,South,Vijayawada,Net Banking
+ORD101471,C1308,2025-12-29,Laptop,Electronics,2,57092.68,North,Jaipur,Net Banking
+ORD101472,C1023,2025-01-06,Laptop,Electronics,1,58962.99,East,Patna,Credit Card
+ORD101473,C1227,2025-07-26,Backpack,Fashion,1,2052.73,West,Mumbai,Debit Card
+ORD101474,C1052,2025-05-10,Bookshelf,Furniture,1,6122.89,West,Mumbai,Credit Card
+ORD101475,C1280,2025-10-08,Keyboard,Accessories,0,1826.35,West,Surat,Cash on Delivery
+ORD101476,C1192,2025-05-23,Keyboard,Accessories,1,1828.07,South,Chennai,UPI
+ORD101477,C1075,2025-07-24,Keyboard,Accessories,1,1715.58,East,Ranchi,Credit Card
+ORD101478,C1032,2025-05-26,Bookshelf,Furniture,1,6471.9,West,Surat,Credit Card
+ORD101479,C1006,2025-04-14,Desk,Furniture,2,12719.53,West,Pune,Debit Card
+ORD101480,C1061,2025-08-09,Mouse,Accessories,3,927.42,South,Bengaluru,Credit Card
+ORD101481,C1175,2025-02-23,Headphones,Electronics,2,3233.82,East,Patna,UPI
+ORD101482,C1275,2025-04-18,T-Shirt,Fashion,2,1110.92,West,Mumbai,Debit Card
+ORD101483,C1084,2025-07-27,T-Shirt,Fashion,1,1126.99,South,Vijayawada,UPI
+ORD101484,C1275,2025-03-06,Bookshelf,Furniture,1,6917.53,South,Chennai,UPI
+ORD101485,C1156,2025-11-14,Mouse,Accessories,1,945.15,South,Vijayawada,UPI
+ORD101486,C1151,2025-10-13,Mixer Grinder,Home Appliances,2,5121.46,North,Jaipur,UPI
+ORD101487,C1144,2025-06-23,T-Shirt,Fashion,3,1247.49,South,Hyderabad,Debit Card
+ORD101488,C1263,2025-04-02,Keyboard,Accessories,1,1791.3,North,Delhi,Cash on Delivery
+ORD101489,C1050,2025-01-06,Mixer Grinder,Home Appliances,2,5018.0,North,Jaipur,Cash on Delivery
+ORD101490,C1154,2025-08-05,Running Shoes,Fashion,1,4152.82,East,Ranchi,Cash on Delivery
+ORD101491,C1276,2025-11-15,Running Shoes,Fashion,1,4690.81,South,Bengaluru,Debit Card
+ORD101492,C1104,2025-03-26,Bookshelf,Furniture,1,6144.21,West,Mumbai,Credit Card
+ORD101493,C1236,2025-03-20,Desk,Furniture,1,11754.53,East,Bhubaneswar,Debit Card
+ORD101494,C1248,2025-04-10,Backpack,Fashion,1,2156.08,West,Mumbai,Credit Card
+ORD101495,C1320,2025-09-21,Running Shoes,Fashion,2,4369.94,South,Chennai,Credit Card
+ORD101496,C1105,2025-02-17,Desk,Furniture,3,11148.55,North,Chandigarh,UPI
+ORD101497,C1187,2025-10-12,Smartphone,Electronics,2,28560.49,East,Kolkata,Credit Card
+ORD101498,C1099,2025-07-03,Keyboard,Accessories,2,1871.59,East,Patna,Cash on Delivery
+ORD101499,C1050,2025-10-30,Smartphone,Electronics,3,26568.74,North,Delhi,UPI
+ORD101500,C1341,2025-02-09,Laptop,Electronics,3,54683.99,East,Bhubaneswar,Debit Card
+ORD101501,C1004,2025-08-30,T-Shirt,Fashion,1,1109.71,South,Vijayawada,Debit Card
+ORD101502,C1158,2025-09-10,Mixer Grinder,Home Appliances,2,4810.82,North,Delhi,Debit Card
+ORD101503,C1228,2025-03-23,Smartphone,Electronics,5,29543.55,South,Vijayawada,Credit Card
+ORD101504,C1319,2025-08-11,Running Shoes,Fashion,1,4854.84,East,Patna,Credit Card
+ORD101505,C1009,2025-12-06,Mixer Grinder,Home Appliances,2,5472.05,North,Lucknow,UPI
+ORD101506,C1162,2025-04-25,Mouse,Accessories,1,955.8,East,Bhubaneswar,UPI
+ORD101507,C1039,2025-11-28,Backpack,Fashion,1,2039.63,West,Surat,UPI
+ORD101508,C1093,2025-06-22,T-Shirt,Fashion,1,1116.58,West,Pune,Credit Card
+ORD101509,C1322,2025-01-08,Office Chair,Furniture,1,8610.32,North,Chandigarh,Debit Card
+ORD101510,C1012,2025-03-12,Keyboard,Accessories,2,1942.54,East,Ranchi,Net Banking
+ORD101511,C1069,2025-04-26,Air Fryer,Home Appliances,1,8159.12,East,Ranchi,Credit Card
+ORD101512,C1076,2025-08-25,Keyboard,Accessories,2,1755.96,West,Pune,UPI
+ORD101513,C1287,2025-05-08,T-Shirt,Fashion,2,1128.3,West,Ahmedabad,Debit Card
+ORD101514,C1042,2025-11-08,Coffee Maker,Home Appliances,1,6355.04,South,Bengaluru,UPI
+ORD101515,C1185,2025-01-10,Air Fryer,Home Appliances,1,8199.32,South,Bengaluru,Credit Card
+ORD101516,C1078,2025-01-31,Air Fryer,Home Appliances,1,7453.83,North,Lucknow,Credit Card
+ORD101517,C1110,2025-05-18,Mixer Grinder,Home Appliances,2,5591.14,North,Jaipur,Credit Card
+ORD101518,C1071,2025-05-05,Headphones,Electronics,2,3628.28,West,Pune,Credit Card
+ORD101519,C1175,2025-09-27,Keyboard,Accessories,5,1761.06,North,Chandigarh,Credit Card
+ORD101520,C1217,2025-12-30,Laptop,Electronics,1,55595.45,East,Bhubaneswar,Net Banking
+ORD101521,C1301,2025-02-22,Running Shoes,Fashion,3,4391.09,East,Patna,Cash on Delivery
+ORD101522,C1033,2025-01-13,T-Shirt,Fashion,1,1228.72,West,Pune,Debit Card
+ORD101523,C1174,2025-02-10,Laptop,Electronics,1,56719.88,West,Pune,Debit Card
+ORD101524,C1080,2025-09-14,Coffee Maker,Home Appliances,1,6961.74,South,Chennai,Debit Card
+ORD101525,C1129,2025-01-21,Backpack,Fashion,1,2182.93,West,Mumbai,UPI
+ORD101526,C1165,2025-09-24,Smartphone,Electronics,2,30116.13,North,Jaipur,Net Banking
+ORD101527,C1114,2025-01-18,Coffee Maker,Home Appliances,1,6403.82,South,Chennai,Net Banking
+ORD101528,C1215,2025-12-08,Laptop,Electronics,1,54095.98,West,Ahmedabad,UPI
+ORD101529,C1009,2025-06-02,Air Fryer,Home Appliances,1,8021.02,South,Bengaluru,UPI
+ORD101530,C1271,2025-07-30,Office Chair,Furniture,1,8493.7,East,Ranchi,UPI
+ORD101531,C1264,2025-03-25,Office Chair,Furniture,1,9158.0,South,Chennai,Cash on Delivery
+ORD101532,C1163,2025-08-12,Desk,Furniture,2,12305.46,West,Ahmedabad,UPI
+ORD101533,C1198,2025-05-25,Bookshelf,Furniture,1,6131.98,South,Hyderabad,UPI
+ORD101534,C1157,2025-09-30,Keyboard,Accessories,1,1933.17,North,Jaipur,UPI
+ORD101535,C1086,2025-04-03,Laptop,Electronics,2,54264.37,East,Kolkata,Debit Card
+ORD101536,C1003,2025-02-10,Laptop,Electronics,1,51560.91,North,Chandigarh,Debit Card
+ORD101537,C1343,2025-02-19,Air Fryer,Home Appliances,3,7378.41,East,Ranchi,UPI
+ORD101538,C1350,2025-11-27,Smartphone,Electronics,1,29459.45,West,Pune,Debit Card
+ORD101539,C1210,2025-10-19,Coffee Maker,Home Appliances,1,6804.37,North,Chandigarh,Net Banking
+ORD101540,C1276,2025-02-10,Coffee Maker,Home Appliances,1,6690.61,South,Bengaluru,Cash on Delivery
+ORD101541,C1131,2025-12-18,Laptop,Electronics,1,52826.29,North,Jaipur,Credit Card
+ORD101542,C1085,2025-03-25,Desk,Furniture,2,12630.94,North,Jaipur,UPI
+ORD101543,C1189,2025-05-11,Backpack,Fashion,3,2097.68,West,Ahmedabad,Net Banking
+ORD101544,C1247,2025-09-24,Keyboard,Accessories,5,1688.56,North,Jaipur,Net Banking
+ORD101545,C1318,2025-06-28,Mouse,Accessories,1,950.82,West,Mumbai,Net Banking
+ORD101546,C1211,2025-09-15,Smartwatch,Electronics,4,7135.91,West,Mumbai,UPI
+ORD101547,C1333,2025-07-23,T-Shirt,Fashion,1,1281.77,South,Vijayawada,Cash on Delivery
+ORD101548,,2025-08-09,Office Chair,Furniture,1,7959.15,South,Chennai,Credit Card
+ORD101549,C1247,2025-10-20,Bookshelf,Furniture,1,6880.84,South,Chennai,UPI
+ORD101550,C1229,2025-02-17,Smartwatch,Electronics,1,7486.13,North,Delhi,UPI
+ORD101551,C1005,2025-06-07,Keyboard,Accessories,1,1820.16,North,Chandigarh,Credit Card
+ORD101552,C1080,2025-10-05,Backpack,Fashion,1,2250.14,East,Ranchi,Credit Card
+ORD101553,C1311,2025-06-03,Smartphone,Electronics,1,29976.72,West,Pune,UPI
+ORD101554,C1048,2025-06-08,Bookshelf,Furniture,2,6273.76,South,Vijayawada,Debit Card
+ORD101555,C1018,2025-07-07,Bookshelf,Furniture,2,6041.83,North,Jaipur,Credit Card
+ORD101556,C1230,2025-05-17,Laptop,Electronics,1,55993.09,South,Hyderabad,Net Banking
+ORD101557,C1019,2025-03-07,Office Chair,Furniture,2,8244.38,North,Jaipur,UPI
+ORD101558,C1140,2025-01-01,Backpack,Fashion,2,2227.12,South,Vijayawada,Net Banking
+ORD101559,C1122,2025-09-10,Bookshelf,Furniture,2,6507.28,South,Hyderabad,Debit Card
+ORD101560,C1213,2025-07-27,Smartwatch,Electronics,5,7166.55,South,Hyderabad,UPI
+ORD101561,C1268,2025-01-12,Coffee Maker,Home Appliances,2,6513.27,North,Jaipur,UPI
+ORD101562,C1311,2025-03-17,Mouse,Accessories,2,939.0,East,Patna,UPI
+ORD101563,C1350,2025-07-22,Smartphone,Electronics,2,26733.58,East,Patna,UPI
+ORD101564,C1172,2025-12-21,Headphones,Electronics,1,3454.57,South,Chennai,Cash on Delivery
+ORD101565,C1084,2025-03-31,Laptop,Electronics,3,57796.27,North,Jaipur,UPI
+ORD101566,C1260,2025-03-05,Mouse,Accessories,2,858.41,East,Patna,Debit Card
+ORD101567,C1233,2025-03-10,Mouse,Accessories,3,924.19,East,Patna,Debit Card
+ORD101568,C1172,2025-10-04,Office Chair,Furniture,2,8650.27,North,Lucknow,UPI
+ORD101569,C1087,2025-01-20,Mouse,Accessories,1,879.31,West,Ahmedabad,Cash on Delivery
+ORD101570,C1185,2025-08-22,Desk,Furniture,1,12454.7,West,Surat,Cash on Delivery
+ORD101571,C1212,2025-04-14,Laptop,Electronics,2,52388.86,South,Bengaluru,Debit Card
+ORD101572,C1174,2025-04-09,Backpack,Fashion,2,2317.52,North,Delhi,UPI
+ORD101573,C1098,2025-11-26,Coffee Maker,Home Appliances,2,6557.8,North,Lucknow,Debit Card
+ORD101574,C1247,2025-07-11,Keyboard,Accessories,2,1929.12,South,Hyderabad,UPI
+ORD101575,C1087,2025-04-04,Desk,Furniture,2,12051.06,South,Hyderabad,UPI
+ORD101576,C1187,2025-02-04,Smartwatch,Electronics,3,7187.46,South,Vijayawada,UPI
+ORD101577,C1308,2025-05-21,Backpack,Fashion,2,2366.63,South,Bengaluru,UPI
+ORD101578,C1071,2025-12-30,Smartphone,Electronics,5,26815.53,South,Chennai,Debit Card
+ORD101579,C1007,2025-02-27,Air Fryer,Home Appliances,2,7297.06,South,Hyderabad,UPI
+ORD101580,C1113,2025-08-21,Air Fryer,Home Appliances,2,8117.9,East,Bhubaneswar,Debit Card
+ORD101581,C1263,2025-08-08,Bookshelf,Furniture,5,6643.95,North,Chandigarh,UPI
+ORD101582,C1139,2025-08-08,Bookshelf,Furniture,4,6920.86,North,Lucknow,Cash on Delivery
+ORD101583,C1027,2025-10-12,Headphones,Electronics,1,3310.04,West,Surat,UPI
+ORD101584,C1221,2025-08-01,Coffee Maker,Home Appliances,2,6641.99,South,Vijayawada,UPI
+ORD101585,C1254,2025-06-18,Air Fryer,Home Appliances,2,7408.33,West,Ahmedabad,UPI
+ORD101586,C1062,2025-06-20,Headphones,Electronics,1,3672.14,North,Lucknow,Cash on Delivery
+ORD101587,C1321,2025-11-07,Mixer Grinder,Home Appliances,1,4898.39,North,Chandigarh,Debit Card
+ORD101588,C1179,2025-02-07,Mixer Grinder,Home Appliances,1,5261.36,North,Delhi,UPI
+ORD101589,C1337,2025-07-01,Desk,Furniture,2,12266.95,South,Vijayawada,Credit Card
+ORD101590,C1248,2025-03-30,Smartphone,Electronics,3,26816.5,North,,UPI
+ORD101591,C1210,2025-01-10,Headphones,Electronics,1,3513.4,East,Ranchi,UPI
+ORD101592,C1322,2025-12-16,Keyboard,Accessories,2,1698.55,West,Ahmedabad,UPI
+ORD101593,C1128,2025-09-15,Headphones,Electronics,1,3231.5,South,Hyderabad,Debit Card
+ORD101594,C1021,2025-07-14,Headphones,Electronics,2,3298.5,West,Ahmedabad,Debit Card
+ORD101595,C1027,2025-04-28,Mixer Grinder,Home Appliances,1,5458.56,North,Lucknow,Debit Card
+ORD101596,C1019,2025-09-29,Running Shoes,Fashion,1,4657.03,West,Mumbai,Credit Card
+ORD101597,C1250,2025-03-26,Running Shoes,Fashion,1,4192.98,West,Mumbai,UPI
+ORD101598,C1115,2025-01-05,Bookshelf,Furniture,3,6868.29,East,Kolkata,
+ORD101599,C1320,2025-02-08,Air Fryer,Home Appliances,2,7297.66,South,Vijayawada,Debit Card
+ORD101600,C1255,2025-09-07,Bookshelf,Furniture,1,6339.75,North,Jaipur,Credit Card
+ORD101601,C1064,2025-10-30,Headphones,Electronics,2,3439.54,South,Hyderabad,Cash on Delivery
+ORD101602,C1331,2025-08-25,Office Chair,Furniture,5,8318.31,North,Lucknow,Debit Card
+ORD101603,C1004,2025-02-21,Air Fryer,Home Appliances,1,7722.35,South,Hyderabad,UPI
+ORD101604,C1333,2025-05-23,Headphones,Electronics,1,3630.2,West,Ahmedabad,Debit Card
+ORD101605,C1333,2025-04-09,Coffee Maker,Home Appliances,1,6355.33,West,Surat,Debit Card
+ORD101606,C1226,2025-05-01,Bookshelf,Furniture,1,6314.55,East,Ranchi,UPI
+ORD101607,C1254,2025-10-30,Bookshelf,Furniture,2,6287.21,East,Patna,UPI
+ORD101608,C1151,2025-07-05,Air Fryer,Home Appliances,3,7797.27,South,Vijayawada,Credit Card
+ORD101609,C1058,2025-04-20,Smartwatch,Electronics,3,7337.07,North,Delhi,Debit Card
+ORD101610,C1326,2025-09-16,Laptop,Electronics,1,51023.22,East,Ranchi,Credit Card
+ORD101611,C1027,2025-07-12,Running Shoes,Fashion,1,4741.02,West,Pune,Debit Card
+ORD101612,C1098,2025-07-19,Keyboard,Accessories,4,1906.78,East,Ranchi,Cash on Delivery
+ORD101613,C1207,2025-03-01,Desk,Furniture,1,11249.79,North,Chandigarh,Debit Card
+ORD101614,C1336,2025-12-08,Office Chair,Furniture,2,7857.79,North,Jaipur,UPI
+ORD101615,C1034,2025-07-01,Running Shoes,Fashion,3,4761.51,South,Bengaluru,UPI
+ORD101616,C1193,2025-11-26,Laptop,Electronics,2,51110.75,South,Chennai,Credit Card
+ORD101617,C1023,2025-05-08,Mixer Grinder,Home Appliances,1,4967.27,North,Jaipur,UPI
+ORD101618,C1265,2025-06-04,Smartwatch,Electronics,1,6582.36,South,Vijayawada,Cash on Delivery
+ORD101619,C1301,2025-01-26,T-Shirt,Fashion,3,1181.61,West,Surat,Debit Card
+ORD101620,C1297,2025-08-10,T-Shirt,Fashion,1,1120.56,North,Delhi,UPI
+ORD101621,C1213,2025-04-23,Laptop,Electronics,1,53866.92,East,Patna,Net Banking
+ORD101622,C1105,2025-09-14,Laptop,Electronics,2,58870.94,South,Bengaluru,UPI
+ORD101623,C1009,2025-08-23,Coffee Maker,Home Appliances,1,6593.35,South,Vijayawada,UPI
+ORD101624,C1202,2025-02-16,Mouse,Accessories,2,883.26,West,Ahmedabad,Debit Card
+ORD101625,C1294,2025-06-01,Coffee Maker,Home Appliances,2,6910.0,West,Surat,UPI
+ORD101626,C1212,2025-11-24,Smartwatch,Electronics,1,6462.61,East,Ranchi,Credit Card
+ORD101627,C1309,2025-07-04,Bookshelf,Furniture,1,6234.47,North,Lucknow,UPI
+ORD101628,C1088,2025-12-22,Laptop,Electronics,1,55272.85,South,Hyderabad,Debit Card
+ORD101629,C1253,2025-01-31,Mouse,Accessories,1,935.19,South,Hyderabad,Credit Card
+ORD101630,C1243,2025-10-26,Office Chair,Furniture,1,8714.19,South,Vijayawada,Net Banking
+ORD101631,C1181,2025-02-12,Office Chair,Furniture,2,8124.23,North,Delhi,Debit Card
+ORD101632,C1083,2025-08-14,Office Chair,Furniture,1,9048.0,North,Delhi,UPI
+ORD101633,C1007,2025-10-21,Keyboard,Accessories,1,1831.16,South,Bengaluru,UPI
+ORD101634,C1241,2025-03-06,Bookshelf,Furniture,1,6611.84,North,Delhi,Debit Card
+ORD101635,,2025-01-14,Smartwatch,Electronics,2,6503.45,East,Kolkata,Debit Card
+ORD101636,C1339,2025-05-04,Coffee Maker,Home Appliances,2,6037.7,North,Jaipur,UPI
+ORD101637,C1287,2025-09-28,Headphones,Electronics,1,3715.18,South,Bengaluru,Net Banking
+ORD101638,C1319,2025-11-06,T-Shirt,Fashion,1,1112.91,North,Lucknow,Credit Card
+ORD101639,C1249,2025-09-10,Mixer Grinder,Home Appliances,3,4970.76,North,Jaipur,Debit Card
+ORD101640,C1298,2025-01-28,Laptop,Electronics,1,54745.21,South,Vijayawada,Cash on Delivery
+ORD101641,C1074,2025-07-09,Office Chair,Furniture,1,8689.64,South,Hyderabad,Credit Card
+ORD101642,C1089,2025-10-02,Bookshelf,Furniture,1,6017.59,North,Chandigarh,Debit Card
+ORD101643,C1231,2025-12-10,Running Shoes,Fashion,1,4208.44,South,Chennai,Credit Card
+ORD101644,C1021,2025-04-18,Mouse,Accessories,1,900.09,North,Lucknow,Cash on Delivery
+ORD101645,C1059,2025-05-01,T-Shirt,Fashion,1,1254.94,North,Delhi,Cash on Delivery
+ORD101646,C1071,2025-09-18,Mixer Grinder,Home Appliances,2,4991.78,East,Kolkata,UPI
+ORD101647,C1084,2025-12-10,Headphones,Electronics,1,3417.93,East,Ranchi,UPI
+ORD101648,C1262,2025-03-30,Bookshelf,Furniture,1,6880.64,North,Lucknow,Debit Card
+ORD101649,C1004,2025-01-03,Coffee Maker,Home Appliances,2,6503.95,East,Kolkata,Net Banking
+ORD101650,C1243,2025-06-01,Mouse,Accessories,2,942.72,East,Patna,Cash on Delivery
+ORD101651,C1210,2025-08-15,Smartphone,Electronics,2,28006.25,South,Bengaluru,Debit Card
+ORD101652,C1038,2025-05-15,Laptop,Electronics,1,58159.12,West,Ahmedabad,Debit Card
+ORD101653,C1198,2025-05-24,Bookshelf,Furniture,1,6297.66,South,Vijayawada,Credit Card
+ORD101654,C1209,2025-07-21,Mouse,Accessories,0,904.91,East,Kolkata,UPI
+ORD101655,C1278,2025-03-19,Smartphone,Electronics,2,25910.37,East,Kolkata,Credit Card
+ORD101656,C1308,2025-03-31,Coffee Maker,Home Appliances,1,6193.12,West,Mumbai,UPI
+ORD101657,C1317,2025-08-14,Smartphone,Electronics,2,28923.41,South,Chennai,UPI
+ORD101658,C1287,2025-10-01,Backpack,Fashion,1,2036.48,West,Surat,UPI
+ORD101659,C1286,2025-05-03,Laptop,Electronics,1,59350.22,North,Lucknow,Credit Card
+ORD101660,C1157,2025-01-25,Keyboard,Accessories,2,1694.69,North,Lucknow,UPI
+ORD101661,C1006,2025-08-15,Smartwatch,Electronics,1,7533.67,North,Jaipur,UPI
+ORD101662,C1253,2025-11-14,Smartphone,Electronics,1,28148.71,West,Pune,UPI
+ORD101663,C1249,2025-07-08,Air Fryer,Home Appliances,2,7314.18,South,Vijayawada,Net Banking
+ORD101664,C1346,2025-05-11,Laptop,Electronics,1,50705.04,South,Bengaluru,Credit Card
+ORD101665,C1119,2025-08-23,Bookshelf,Furniture,3,6826.81,East,Patna,UPI
+ORD101666,C1125,2025-05-22,Mouse,Accessories,1,848.16,North,Jaipur,Credit Card
+ORD101667,C1253,2025-01-13,Laptop,Electronics,1,54831.99,South,Chennai,Debit Card
+ORD101668,C1139,2025-05-14,Backpack,Fashion,1,2079.31,South,Bengaluru,Cash on Delivery
+ORD101669,C1016,2025-01-08,Keyboard,Accessories,2,1802.64,South,Bengaluru,UPI
+ORD101670,C1093,2025-06-26,Mouse,Accessories,2,942.09,South,Vijayawada,Debit Card
+ORD101671,C1076,2025-08-03,T-Shirt,Fashion,1,1295.32,South,Bengaluru,UPI
+ORD101672,C1202,2025-07-15,Headphones,Electronics,3,3584.26,South,Vijayawada,Debit Card
+ORD101673,C1314,2025-05-08,Air Fryer,Home Appliances,5,8351.48,South,Hyderabad,Debit Card
+ORD101674,C1219,2025-05-04,T-Shirt,Fashion,1,1199.9,North,Lucknow,Debit Card
+ORD101675,C1337,2025-12-19,Smartphone,Electronics,2,27678.81,North,Jaipur,Debit Card
+ORD101676,C1294,2025-10-23,Desk,Furniture,2,11832.28,South,Bengaluru,UPI
+ORD101677,C1310,2025-10-18,Running Shoes,Fashion,2,4839.64,North,Delhi,Credit Card
+ORD101678,C1139,2025-02-03,Bookshelf,Furniture,2,6941.27,South,Vijayawada,Cash on Delivery
+ORD101679,C1109,2025-06-08,Headphones,Electronics,2,3728.06,South,Bengaluru,Net Banking
+ORD101680,C1252,2025-01-04,Desk,Furniture,2,11376.03,West,Mumbai,Debit Card
+ORD101681,C1230,2025-02-17,Mouse,Accessories,1,965.84,South,Hyderabad,Net Banking
+ORD101682,C1234,2025-08-29,Backpack,Fashion,1,2198.93,East,Patna,UPI
+ORD101683,C1013,2025-10-02,Headphones,Electronics,3,3589.83,West,Mumbai,Cash on Delivery
+ORD101684,C1328,2025-06-04,Bookshelf,Furniture,5,6781.87,South,Bengaluru,Net Banking
+ORD101685,C1302,2025-06-28,Mixer Grinder,Home Appliances,1,5572.13,South,Hyderabad,UPI
+ORD101686,C1004,2025-06-09,Mouse,Accessories,1,951.94,South,Chennai,Credit Card
+ORD101687,C1026,2025-01-07,Running Shoes,Fashion,1,4364.91,North,Chandigarh,UPI
+ORD101688,C1004,2025-04-17,Keyboard,Accessories,1,1742.98,South,Bengaluru,Cash on Delivery
+ORD101689,C1170,2025-06-29,T-Shirt,Fashion,3,1124.46,North,Delhi,Net Banking
+ORD101690,C1127,2025-09-10,Keyboard,Accessories,2,1852.23,South,Hyderabad,UPI
+ORD101691,C1182,2025-09-02,Air Fryer,Home Appliances,1,7347.94,East,Kolkata,Cash on Delivery
+ORD101692,C1167,2025-01-06,Coffee Maker,Home Appliances,1,6683.0,South,Bengaluru,Net Banking
+ORD101693,C1171,2025-04-16,Keyboard,Accessories,1,1753.96,North,Delhi,Debit Card
+ORD101694,C1132,2025-05-10,Office Chair,Furniture,1,8582.59,West,Pune,Credit Card
+ORD101695,C1313,2025-11-19,Laptop,Electronics,3,57872.29,East,Kolkata,UPI
+ORD101696,C1077,2025-03-30,Office Chair,Furniture,3,8077.64,South,Hyderabad,Debit Card
+ORD101697,C1306,2025-08-04,Office Chair,Furniture,1,8718.87,West,Mumbai,Credit Card
+ORD101698,C1203,2025-09-10,Mixer Grinder,Home Appliances,1,4857.89,South,Bengaluru,UPI
+ORD101699,C1107,2025-08-14,Mouse,Accessories,4,845.11,South,Bengaluru,Credit Card
+ORD101700,C1221,2025-12-30,Coffee Maker,Home Appliances,1,6689.77,East,Kolkata,Net Banking
+ORD101701,C1246,2025-08-22,Coffee Maker,Home Appliances,1,6488.25,West,Ahmedabad,Credit Card
+ORD101702,C1004,2025-10-04,Laptop,Electronics,1,53754.78,South,Hyderabad,Credit Card
+ORD101703,C1243,2025-01-14,Mixer Grinder,Home Appliances,2,5251.71,West,Mumbai,UPI
+ORD101704,C1233,2025-08-13,Smartwatch,Electronics,3,7243.83,West,Mumbai,Debit Card
+ORD101705,C1023,2025-06-09,Coffee Maker,Home Appliances,2,6056.98,West,Ahmedabad,UPI
+ORD101706,C1274,2025-11-19,Office Chair,Furniture,1,8194.16,West,Ahmedabad,UPI
+ORD101707,C1105,2025-12-30,Running Shoes,Fashion,1,4428.77,South,Vijayawada,UPI
+ORD101708,C1017,2025-12-24,Smartwatch,Electronics,1,7319.82,South,Bengaluru,Credit Card
+ORD101709,C1319,2025-09-29,Mixer Grinder,Home Appliances,3,5601.16,East,Kolkata,UPI
+ORD101710,C1132,2025-06-15,Office Chair,Furniture,3,8378.62,South,Hyderabad,Net Banking
+ORD101711,C1106,2025-11-02,Backpack,Fashion,1,2109.66,East,Ranchi,Credit Card
+ORD101712,C1244,2025-09-19,Smartphone,Electronics,3,26760.13,South,Chennai,Net Banking
+ORD101713,C1261,2025-02-26,Mixer Grinder,Home Appliances,1,4895.78,North,Lucknow,Credit Card
+ORD101714,C1154,2025-10-14,Office Chair,Furniture,2,8968.09,East,Kolkata,Cash on Delivery
+ORD101715,C1175,2025-04-15,Running Shoes,Fashion,3,4782.04,South,Bengaluru,UPI
+ORD101716,C1022,2025-10-26,Headphones,Electronics,3,3414.69,West,Pune,Debit Card
+ORD101717,C1086,2025-10-25,Office Chair,Furniture,2,9162.83,North,Lucknow,Credit Card
+ORD101718,C1178,2025-02-19,Office Chair,Furniture,3,8642.81,North,Lucknow,UPI
+ORD101719,C1201,2025-08-16,Smartwatch,Electronics,1,6987.15,South,Hyderabad,Cash on Delivery
+ORD101720,C1341,2025-05-26,Smartwatch,Electronics,1,7009.98,East,Patna,Credit Card
+ORD101721,C1077,2025-05-08,Air Fryer,Home Appliances,1,7900.36,North,Chandigarh,UPI
+ORD101722,C1136,2025-10-05,T-Shirt,Fashion,1,1274.61,South,Bengaluru,Net Banking
+ORD101723,C1212,2025-07-13,T-Shirt,Fashion,1,1282.81,South,Hyderabad,Cash on Delivery
+ORD101724,C1007,2025-10-07,Laptop,Electronics,2,59186.16,West,Pune,Cash on Delivery
+ORD101725,C1126,2025-09-01,Laptop,Electronics,2,55568.92,East,Bhubaneswar,Net Banking
+ORD101726,C1166,2025-03-26,Office Chair,Furniture,2,8829.83,North,Jaipur,Debit Card
+ORD101727,C1289,2025-06-08,Coffee Maker,Home Appliances,2,6717.82,West,Pune,Credit Card
+ORD101728,C1278,2025-11-23,Mixer Grinder,Home Appliances,1,4966.17,West,Mumbai,Credit Card
+ORD101729,C1039,2025-07-20,Laptop,Electronics,1,50772.06,East,Bhubaneswar,UPI
+ORD101730,C1183,2025-12-12,Keyboard,Accessories,2,1729.45,West,Ahmedabad,UPI
+ORD101731,C1268,2025-06-03,Office Chair,Furniture,1,8931.14,West,Ahmedabad,UPI
+ORD101732,C1240,2025-07-12,Smartphone,Electronics,1,26625.8,West,Ahmedabad,Cash on Delivery
+ORD101733,C1019,2025-03-13,Backpack,Fashion,2,2179.08,West,Ahmedabad,Credit Card
+ORD101734,C1178,2025-08-22,Running Shoes,Fashion,4,4250.04,East,Ranchi,Credit Card
+ORD101735,C1227,2025-12-31,Laptop,Electronics,3,56512.3,South,Bengaluru,UPI
+ORD101736,C1109,2025-04-26,Coffee Maker,Home Appliances,1,6518.98,South,Hyderabad,Cash on Delivery
+ORD101737,C1061,2025-12-20,Bookshelf,Furniture,1,6734.27,South,Chennai,UPI
+ORD101738,C1040,2025-06-19,Laptop,Electronics,2,54874.09,South,Chennai,Debit Card
+ORD101739,C1099,2025-08-17,Office Chair,Furniture,1,8671.9,West,Pune,Credit Card
+ORD101740,C1322,2025-07-12,Coffee Maker,Home Appliances,1,6929.37,East,Bhubaneswar,Credit Card
+ORD101741,C1191,2025-12-12,Laptop,Electronics,5,56045.41,North,Jaipur,UPI
+ORD101742,C1167,2025-07-13,T-Shirt,Fashion,1,1156.77,South,Vijayawada,Net Banking
+ORD101743,C1185,2025-11-06,Keyboard,Accessories,1,1880.71,South,Vijayawada,UPI
+ORD101744,C1006,2025-02-20,Air Fryer,Home Appliances,5,8001.94,West,Pune,Debit Card
+ORD101745,C1164,2025-04-26,Coffee Maker,Home Appliances,1,6187.6,East,Bhubaneswar,UPI
+ORD101746,C1140,2025-04-11,Coffee Maker,Home Appliances,2,6848.35,West,Mumbai,UPI
+ORD101747,C1341,2025-03-07,Desk,Furniture,1,12760.6,North,Jaipur,UPI
+ORD101748,C1046,2025-02-18,Mouse,Accessories,1,919.46,West,Surat,UPI
+ORD101749,C1333,2025-04-15,Keyboard,Accessories,1,1785.61,West,Surat,Credit Card
+ORD101750,C1232,2025-10-21,Mixer Grinder,Home Appliances,1,5363.08,East,Ranchi,Debit Card
+ORD101751,C1272,2025-11-06,Headphones,Electronics,1,3565.27,South,Chennai,Debit Card
+ORD101752,C1193,2025-01-15,Mouse,Accessories,1,940.63,South,Hyderabad,Debit Card
+ORD101753,C1022,2025-09-13,Smartwatch,Electronics,4,6632.19,North,Delhi,Debit Card
+ORD101754,C1007,2025-03-03,Smartwatch,Electronics,3,7279.36,East,Patna,Credit Card
+ORD101755,C1039,2025-02-10,Keyboard,Accessories,4,1843.92,North,Chandigarh,Credit Card
+ORD101756,C1055,2025-04-01,Smartphone,Electronics,1,28972.52,South,,UPI
+ORD101757,C1324,2025-07-10,Headphones,Electronics,2,3755.84,West,Ahmedabad,Credit Card
+ORD101758,C1206,2025-04-17,Mixer Grinder,Home Appliances,1,5485.23,West,Mumbai,Credit Card
+ORD101759,C1325,2025-03-20,Headphones,Electronics,4,3340.04,North,Lucknow,UPI
+ORD101760,C1282,2025-12-02,Headphones,Electronics,1,3260.92,East,Ranchi,Net Banking
+ORD101761,C1221,2025-09-05,Office Chair,Furniture,3,8081.18,North,Jaipur,Credit Card
+ORD101762,C1200,2025-06-18,Mixer Grinder,Home Appliances,1,5561.44,East,Kolkata,Credit Card
+ORD101763,C1271,2025-05-31,Running Shoes,Fashion,3,4627.8,North,Jaipur,Credit Card
+ORD101764,C1179,2025-05-29,Laptop,Electronics,2,54254.43,South,Chennai,Credit Card
+ORD101765,C1049,2025-08-22,Headphones,Electronics,2,3764.35,West,Pune,Credit Card
+ORD101766,C1281,2025-05-20,Running Shoes,Fashion,2,4448.43,East,Kolkata,
+ORD101767,C1256,2025-03-22,Mixer Grinder,Home Appliances,1,5531.02,North,Delhi,Debit Card
+ORD101768,C1131,2025-07-01,Keyboard,Accessories,1,1690.17,West,Surat,Cash on Delivery
+ORD101769,C1308,2025-03-09,Coffee Maker,Home Appliances,1,6182.23,West,Surat,UPI
+ORD101770,C1336,2025-06-22,Desk,Furniture,1,12340.57,North,Lucknow,Debit Card
+ORD101771,C1174,2025-12-27,Air Fryer,Home Appliances,3,7897.48,North,Jaipur,Debit Card
+ORD101772,C1058,2025-08-15,T-Shirt,Fashion,3,1220.59,South,Bengaluru,UPI
+ORD101773,C1340,2025-09-03,Coffee Maker,Home Appliances,2,6055.05,West,Surat,Net Banking
+ORD101774,C1276,2025-11-16,Mixer Grinder,Home Appliances,2,5477.37,South,Hyderabad,Cash on Delivery
+ORD101775,C1093,2025-04-30,Backpack,Fashion,1,2311.34,South,Hyderabad,UPI
+ORD101776,C1118,2025-08-11,Desk,Furniture,3,11315.87,North,Lucknow,UPI
+ORD101777,C1047,2025-08-11,Mixer Grinder,Home Appliances,1,5181.72,West,Ahmedabad,Debit Card
+ORD101778,C1104,2025-07-15,Backpack,Fashion,1,2243.34,West,Surat,UPI
+ORD101779,C1103,2025-11-17,Smartphone,Electronics,1,29324.31,South,Bengaluru,Debit Card
+ORD101780,C1034,2025-08-09,Office Chair,Furniture,1,8840.17,West,Surat,Credit Card
+ORD101781,C1245,2025-12-15,T-Shirt,Fashion,3,1266.87,East,Bhubaneswar,Credit Card
+ORD101782,C1307,2025-09-25,Smartwatch,Electronics,1,7543.94,East,Ranchi,Credit Card
+ORD101783,C1165,2025-07-02,Laptop,Electronics,2,51578.16,South,Bengaluru,Credit Card
+ORD101784,C1050,2025-04-13,Mouse,Accessories,2,886.71,East,Ranchi,Debit Card
+ORD101785,C1226,2025-08-05,T-Shirt,Fashion,5,1209.66,West,Mumbai,Debit Card
+ORD101786,C1216,2025-05-05,Headphones,Electronics,1,3318.54,North,Chandigarh,UPI
+ORD101787,C1061,2025-01-02,Smartphone,Electronics,1,28286.34,West,Ahmedabad,UPI
+ORD101788,C1252,2025-01-08,T-Shirt,Fashion,5,1295.72,South,Bengaluru,Credit Card
+ORD101789,C1249,2025-04-24,Keyboard,Accessories,2,1666.16,East,Ranchi,Cash on Delivery
+ORD101790,C1253,2025-01-11,Backpack,Fashion,1,2161.44,North,Jaipur,UPI
+ORD101791,C1271,2025-11-05,Running Shoes,Fashion,1,4729.36,West,Surat,Credit Card
+ORD101792,C1110,2025-01-16,Smartphone,Electronics,1,26474.39,East,Bhubaneswar,UPI
+ORD101793,C1294,2025-07-21,Bookshelf,Furniture,2,6464.61,South,Hyderabad,Credit Card
+ORD101794,C1076,2025-05-21,T-Shirt,Fashion,1,1235.74,East,Ranchi,Net Banking
+ORD101795,C1281,2025-08-01,Laptop,Electronics,1,54380.28,South,Hyderabad,
+ORD101796,C1053,2025-09-23,Smartwatch,Electronics,1,7095.85,South,Bengaluru,UPI
+ORD101797,C1163,2025-11-07,Coffee Maker,Home Appliances,2,6484.17,North,Chandigarh,Debit Card
+ORD101798,C1259,2025-09-19,Backpack,Fashion,5,2329.89,South,Chennai,UPI
+ORD101799,C1184,2025-12-17,Smartphone,Electronics,4,29416.98,South,Bengaluru,Cash on Delivery
+ORD101800,C1330,2025-04-10,Headphones,Electronics,1,3391.6,North,Delhi,Net Banking
+ORD101801,C1193,2025-05-29,Laptop,Electronics,2,51139.9,South,Bengaluru,Credit Card
+ORD101802,C1137,2025-08-30,Laptop,Electronics,1,58833.95,South,Chennai,Credit Card
+ORD101803,C1261,2025-08-23,T-Shirt,Fashion,1,1117.76,West,Pune,Debit Card
+ORD101804,C1065,2025-03-06,Smartphone,Electronics,4,26227.4,North,Jaipur,Credit Card
+ORD101805,C1214,2025-12-05,Coffee Maker,Home Appliances,2,6527.44,West,Pune,Credit Card
+ORD101806,C1116,2025-08-12,Laptop,Electronics,1,56622.98,South,Vijayawada,UPI
+ORD101807,C1272,2025-04-02,Bookshelf,Furniture,1,6733.62,West,Pune,Debit Card
+ORD101808,C1248,2025-09-04,Smartphone,Electronics,1,29818.08,East,Kolkata,UPI
+ORD101809,C1213,2025-02-18,Coffee Maker,Home Appliances,1,6417.33,North,Chandigarh,Debit Card
+ORD101810,C1237,2025-10-26,Desk,Furniture,2,12357.78,South,Vijayawada,Credit Card
+ORD101811,C1192,2025-05-27,Backpack,Fashion,1,2097.23,West,Pune,UPI
+ORD101812,C1160,2025-07-18,Smartwatch,Electronics,2,7529.92,South,Bengaluru,UPI
+ORD101813,C1082,2025-01-19,Running Shoes,Fashion,5,4545.55,South,Vijayawada,Credit Card
+ORD101814,C1269,2025-11-17,Headphones,Electronics,1,3699.92,West,Pune,Net Banking
+ORD101815,C1133,2025-02-21,Mouse,Accessories,2,950.39,South,Vijayawada,UPI
+ORD101816,C1240,2025-03-15,T-Shirt,Fashion,3,1193.06,South,Chennai,Cash on Delivery
+ORD101817,C1057,2025-12-05,Mouse,Accessories,1,842.99,West,Pune,UPI
+ORD101818,C1238,2025-09-27,T-Shirt,Fashion,1,1116.71,North,Jaipur,UPI
+ORD101819,C1230,2025-05-02,Coffee Maker,Home Appliances,2,6599.8,East,,Debit Card
+ORD101820,C1281,2025-10-15,Air Fryer,Home Appliances,1,7946.11,East,Ranchi,UPI
+ORD101821,C1104,2025-10-09,Smartwatch,Electronics,2,6853.04,West,Ahmedabad,UPI
+ORD101822,C1091,2025-02-21,Mouse,Accessories,3,879.84,East,Patna,Debit Card
+ORD101823,C1275,2025-12-24,Running Shoes,Fashion,1,4229.13,North,Lucknow,Credit Card
+ORD101824,C1167,2025-12-22,Bookshelf,Furniture,2,6946.41,East,Bhubaneswar,Credit Card
+ORD101825,C1162,2025-06-28,Office Chair,Furniture,4,8933.7,East,Ranchi,UPI
+ORD101826,C1324,2025-01-01,Laptop,Electronics,1,57259.11,East,Bhubaneswar,Cash on Delivery
+ORD101827,C1077,2025-05-04,Smartphone,Electronics,1,30184.63,North,Chandigarh,UPI
+ORD101828,C1180,2025-07-08,Air Fryer,Home Appliances,2,7340.8,West,Surat,Cash on Delivery
+ORD101829,C1320,2025-10-10,Mixer Grinder,Home Appliances,2,5521.27,North,Lucknow,Credit Card
+ORD101830,C1187,2025-06-11,Office Chair,Furniture,1,8119.04,South,Hyderabad,Credit Card
+ORD101831,C1250,2025-05-15,Smartphone,Electronics,1,26385.16,South,Chennai,UPI
+ORD101832,C1214,2025-07-19,Keyboard,Accessories,1,1914.06,East,Kolkata,Debit Card
+ORD101833,C1123,2025-07-26,Backpack,Fashion,3,2315.45,South,Hyderabad,Debit Card
+ORD101834,C1308,2025-09-20,Laptop,Electronics,3,50960.76,East,Patna,Cash on Delivery
+ORD101835,C1119,2025-10-13,Coffee Maker,Home Appliances,3,6653.39,South,Hyderabad,Net Banking
+ORD101836,C1342,2025-09-17,Running Shoes,Fashion,2,4347.73,East,Patna,Credit Card
+ORD101837,C1151,2025-07-30,T-Shirt,Fashion,1,1235.75,North,Lucknow,Cash on Delivery
+ORD101838,C1008,2025-07-10,T-Shirt,Fashion,1,1241.47,West,Surat,Net Banking
+ORD101839,C1349,2025-08-20,Mouse,Accessories,1,865.9,East,Bhubaneswar,Credit Card
+ORD101840,C1194,2025-03-02,Smartphone,Electronics,2,27801.6,East,Ranchi,Net Banking
+ORD101841,C1214,2025-11-29,Desk,Furniture,2,11587.92,South,Vijayawada,Net Banking
+ORD101842,C1047,2025-09-02,Coffee Maker,Home Appliances,1,6243.59,North,Chandigarh,UPI
+ORD101843,C1076,2025-02-27,Smartwatch,Electronics,1,7267.83,North,Chandigarh,UPI
+ORD101844,C1081,2025-02-13,Running Shoes,Fashion,1,4555.26,South,Vijayawada,UPI
+ORD101845,C1147,2025-04-16,Mouse,Accessories,3,890.15,North,Delhi,Credit Card
+ORD101846,C1335,2025-08-15,Coffee Maker,Home Appliances,3,6320.25,South,Vijayawada,UPI
+ORD101847,C1231,2025-03-13,Mixer Grinder,Home Appliances,1,5410.49,North,Delhi,Debit Card
+ORD101848,C1257,2025-03-05,T-Shirt,Fashion,1,1295.75,West,Mumbai,Credit Card
+ORD101849,C1238,2025-12-13,Desk,Furniture,2,11495.65,West,Surat,UPI
+ORD101850,C1055,2025-07-12,Desk,Furniture,1,12330.82,East,Kolkata,Credit Card
+ORD101851,C1304,2025-11-28,T-Shirt,Fashion,2,1221.62,South,Vijayawada,UPI
+ORD101852,C1135,2025-02-04,Headphones,Electronics,1,3422.6,North,Chandigarh,Credit Card
+ORD101853,C1059,2025-06-04,T-Shirt,Fashion,2,1199.65,North,Delhi,UPI
+ORD101854,C1237,2025-04-28,Laptop,Electronics,3,55443.3,West,Pune,UPI
+ORD101855,C1030,2025-03-08,Headphones,Electronics,1,3344.79,South,Vijayawada,Debit Card
+ORD101856,C1274,2025-05-09,Bookshelf,Furniture,1,6993.88,South,Bengaluru,Cash on Delivery
+ORD101857,C1115,2025-10-09,T-Shirt,Fashion,1,1136.74,East,Ranchi,UPI
+ORD101858,C1044,2025-07-07,Mouse,Accessories,1,926.34,South,Hyderabad,UPI
+ORD101859,C1081,2025-05-06,Smartwatch,Electronics,1,6603.86,West,Mumbai,Debit Card
+ORD101860,C1065,2025-07-13,Mixer Grinder,Home Appliances,3,5513.1,South,Bengaluru,UPI
+ORD101861,C1290,2025-07-22,Coffee Maker,Home Appliances,1,6948.71,West,Mumbai,Credit Card
+ORD101862,C1026,2025-08-31,Mixer Grinder,Home Appliances,2,5439.54,East,Kolkata,Debit Card
+ORD101863,C1149,2025-10-18,Air Fryer,Home Appliances,2,7810.04,East,Ranchi,Debit Card
+ORD101864,C1217,2025-06-26,Smartwatch,Electronics,1,6459.68,West,Surat,Net Banking
+ORD101865,C1078,2025-07-15,Desk,Furniture,4,12003.22,North,Delhi,UPI
+ORD101866,C1227,2025-04-21,Laptop,Electronics,2,55811.05,South,Chennai,Credit Card
+ORD101867,C1258,2025-11-20,Laptop,Electronics,1,51461.97,South,Bengaluru,UPI
+ORD101868,C1178,2025-01-02,Mixer Grinder,Home Appliances,1,4919.23,South,Hyderabad,Debit Card
+ORD101869,C1110,2025-09-23,Coffee Maker,Home Appliances,2,6784.79,South,Vijayawada,UPI
+ORD101870,C1184,2025-06-19,Keyboard,Accessories,3,1764.49,South,Bengaluru,Debit Card
+ORD101871,C1034,2025-02-22,Desk,Furniture,1,11963.34,West,Pune,UPI
+ORD101872,C1022,2025-04-01,Smartphone,Electronics,2,29106.92,West,Pune,Cash on Delivery
+ORD101873,C1154,2025-11-30,Backpack,Fashion,2,2232.3,East,Kolkata,Debit Card
+ORD101874,C1176,2025-08-01,T-Shirt,Fashion,3,1119.08,South,Hyderabad,Debit Card
+ORD101875,C1088,2025-07-10,Air Fryer,Home Appliances,1,7788.34,North,Chandigarh,Credit Card
+ORD101876,C1166,2025-09-07,Backpack,Fashion,1,2094.39,West,Pune,UPI
+ORD101877,C1197,2025-09-19,Coffee Maker,Home Appliances,1,6260.21,North,Delhi,Net Banking
+ORD101878,C1197,2025-11-09,Desk,Furniture,1,11302.4,South,Hyderabad,Debit Card
+ORD101879,C1336,2025-02-25,Smartwatch,Electronics,1,6798.15,South,Bengaluru,UPI
+ORD101880,C1143,2025-03-26,Mouse,Accessories,1,846.23,North,Delhi,UPI
+ORD101881,C1302,2025-09-11,Coffee Maker,Home Appliances,2,6060.18,West,Mumbai,UPI
+ORD101882,C1293,2025-04-18,Mouse,Accessories,1,860.91,East,Ranchi,UPI
+ORD101883,C1256,2025-12-28,Mixer Grinder,Home Appliances,1,5491.21,North,Delhi,Net Banking
+ORD101884,C1336,2025-07-22,Bookshelf,Furniture,2,7007.06,West,Ahmedabad,Net Banking
+ORD101885,C1004,2025-07-29,Headphones,Electronics,1,3710.25,West,Surat,UPI
+ORD101886,C1037,2025-11-17,Bookshelf,Furniture,2,6162.85,West,Pune,UPI
+ORD101887,C1123,2025-08-24,Headphones,Electronics,2,3358.73,South,Chennai,UPI
+ORD101888,C1243,2025-02-05,Air Fryer,Home Appliances,1,7601.23,East,Patna,UPI
+ORD101889,C1145,2025-08-20,Office Chair,Furniture,2,9120.85,East,Ranchi,Credit Card
+ORD101890,C1178,2025-07-06,Headphones,Electronics,1,3487.75,South,Bengaluru,UPI
+ORD101891,C1244,2025-04-10,Desk,Furniture,1,11415.76,South,Hyderabad,Credit Card
+ORD101892,C1019,2025-02-03,Laptop,Electronics,1,59109.24,South,Hyderabad,Credit Card
+ORD101893,C1182,2025-11-04,Mixer Grinder,Home Appliances,1,4915.05,South,Bengaluru,Cash on Delivery
+ORD101894,C1309,2025-08-16,Keyboard,Accessories,3,1788.56,South,Bengaluru,UPI
+ORD101895,C1222,2025-06-18,Desk,Furniture,1,12577.4,East,Patna,Net Banking
+ORD101896,C1022,2025-11-04,Smartwatch,Electronics,1,7515.29,North,Delhi,UPI
+ORD101897,C1228,2025-04-30,Smartphone,Electronics,2,27047.89,South,Vijayawada,UPI
+ORD101898,C1050,2025-05-01,Office Chair,Furniture,1,8162.31,North,Jaipur,Debit Card
+ORD101899,C1246,2025-10-05,T-Shirt,Fashion,1,1191.24,South,Bengaluru,Credit Card
+ORD101900,C1053,2025-06-12,Mixer Grinder,Home Appliances,3,5380.01,West,Surat,Cash on Delivery
+ORD101901,C1216,2025-12-09,Bookshelf,Furniture,1,6159.59,West,Surat,Credit Card
+ORD101902,C1055,2025-01-16,Office Chair,Furniture,2,8075.62,North,Lucknow,UPI
+ORD101903,C1270,2025-08-23,Laptop,Electronics,4,57195.48,North,Chandigarh,Credit Card
+ORD101904,C1228,2025-07-17,Coffee Maker,Home Appliances,2,6089.81,East,Ranchi,UPI
+ORD101905,C1026,2025-04-05,Mixer Grinder,Home Appliances,3,4916.16,West,Mumbai,Net Banking
+ORD101906,C1181,2025-04-03,Running Shoes,Fashion,2,4750.36,South,Bengaluru,Credit Card
+ORD101907,C1113,2025-05-01,Desk,Furniture,2,12670.63,South,Chennai,UPI
+ORD101908,C1276,2025-06-02,Backpack,Fashion,1,2033.03,South,Chennai,UPI
+ORD101909,C1129,2025-10-12,Office Chair,Furniture,3,9126.12,North,Lucknow,UPI
+ORD101910,C1315,2025-01-23,Running Shoes,Fashion,1,4178.34,South,Hyderabad,UPI
+ORD101911,C1306,2025-09-06,Smartphone,Electronics,2,27058.05,North,Jaipur,Debit Card
+ORD101912,C1140,2025-04-26,Air Fryer,Home Appliances,3,8120.81,North,Jaipur,UPI
+ORD101913,C1054,2025-10-04,Mixer Grinder,Home Appliances,1,4804.31,South,Bengaluru,Net Banking
+ORD101914,C1044,2025-05-20,T-Shirt,Fashion,2,1223.82,East,Ranchi,Debit Card
+ORD101915,C1082,2025-06-23,T-Shirt,Fashion,4,1271.16,North,Jaipur,Debit Card
+ORD101916,C1244,2025-05-27,Air Fryer,Home Appliances,1,7388.47,South,Bengaluru,UPI
+ORD101917,C1182,2025-10-08,Bookshelf,Furniture,2,6389.64,East,Kolkata,Credit Card
+ORD101918,C1171,2025-04-21,Bookshelf,Furniture,3,6293.78,West,Pune,UPI
+ORD101919,C1205,2025-12-04,Air Fryer,Home Appliances,1,8420.93,South,Vijayawada,UPI
+ORD101920,C1081,2025-06-01,Bookshelf,Furniture,5,6427.85,North,Jaipur,Credit Card
+ORD101921,C1315,2025-07-09,Smartphone,Electronics,3,25830.28,South,Chennai,Debit Card
+ORD101922,C1203,2025-07-11,Mixer Grinder,Home Appliances,2,5285.12,West,Mumbai,UPI
+ORD101923,C1175,2025-07-09,Smartwatch,Electronics,1,6710.87,West,Mumbai,UPI
+ORD101924,C1150,2025-05-03,Running Shoes,Fashion,3,4175.69,East,Ranchi,Net Banking
+ORD101925,C1097,2025-05-26,Running Shoes,Fashion,2,4389.99,West,Pune,Debit Card
+ORD101926,C1247,2025-12-09,Mouse,Accessories,2,844.06,East,Kolkata,Credit Card
+ORD101927,C1298,2025-04-19,T-Shirt,Fashion,2,1217.85,East,Kolkata,Credit Card
+ORD101928,C1160,2025-09-24,Smartphone,Electronics,1,27695.22,South,Chennai,Debit Card
+ORD101929,C1113,2025-09-16,Headphones,Electronics,3,3776.27,West,Pune,Net Banking
+ORD101930,C1233,2025-01-13,Desk,Furniture,1,11460.56,South,Vijayawada,Credit Card
+ORD101931,C1303,2025-12-08,Smartwatch,Electronics,1,6868.68,West,Pune,Cash on Delivery
+ORD101932,C1148,2025-10-14,Running Shoes,Fashion,1,4290.63,South,Vijayawada,UPI
+ORD101933,C1134,2025-12-11,Keyboard,Accessories,1,1734.86,West,Surat,Credit Card
+ORD101934,C1092,2025-11-27,Coffee Maker,Home Appliances,3,6112.66,South,Hyderabad,Cash on Delivery
+ORD101935,C1033,2025-10-18,Running Shoes,Fashion,2,4423.05,South,Bengaluru,UPI
+ORD101936,C1301,2025-01-30,Running Shoes,Fashion,1,4699.84,North,Delhi,UPI
+ORD101937,C1276,2025-11-23,Air Fryer,Home Appliances,1,7474.53,South,Chennai,UPI
+ORD101938,C1074,2025-06-09,Running Shoes,Fashion,3,4356.87,West,Pune,Cash on Delivery
+ORD101939,C1080,2025-03-18,Headphones,Electronics,2,3507.86,West,Pune,UPI
+ORD101940,C1320,2025-03-15,Laptop,Electronics,2,56846.53,North,Jaipur,Cash on Delivery
+ORD101941,C1207,2025-02-20,Mouse,Accessories,1,915.67,South,Hyderabad,UPI
+ORD101942,C1148,2025-07-30,Mouse,Accessories,1,948.1,North,Lucknow,Credit Card
+ORD101943,C1118,2025-11-19,Bookshelf,Furniture,1,6603.43,West,Ahmedabad,Debit Card
+ORD101944,C1106,2025-01-19,Running Shoes,Fashion,2,4440.42,East,Kolkata,Credit Card
+ORD101945,C1160,2025-04-29,Headphones,Electronics,2,3717.84,West,Ahmedabad,Debit Card
+ORD101946,C1002,2025-06-23,Desk,Furniture,1,12531.19,West,,UPI
+ORD101947,C1142,2025-12-09,Mouse,Accessories,2,880.47,East,Bhubaneswar,Credit Card
+ORD101948,C1070,2025-12-18,Laptop,Electronics,3,58006.58,East,,UPI
+ORD101949,C1070,2025-03-08,Keyboard,Accessories,1,1870.93,West,Ahmedabad,UPI
+ORD101950,C1287,2025-05-30,Headphones,Electronics,2,3517.18,East,Bhubaneswar,Net Banking
+ORD101951,C1042,2025-01-16,Bookshelf,Furniture,1,6503.36,West,Pune,Credit Card
+ORD101952,C1215,2025-02-01,Smartphone,Electronics,1,28679.48,South,Hyderabad,UPI
+ORD101953,C1109,2025-10-25,Bookshelf,Furniture,3,6884.55,North,Delhi,Debit Card
+ORD101954,C1208,2025-07-21,Headphones,Electronics,1,3526.81,East,Patna,UPI
+ORD101955,C1246,2025-06-23,Office Chair,Furniture,1,8761.76,South,Bengaluru,UPI
+ORD101956,C1293,2025-03-24,Desk,Furniture,4,11266.87,North,Chandigarh,Net Banking
+ORD101957,C1203,2025-01-25,Laptop,Electronics,1,56877.42,East,Ranchi,Credit Card
+ORD101958,C1102,2025-12-28,Mixer Grinder,Home Appliances,1,5535.18,South,Vijayawada,UPI
+ORD101959,C1218,2025-09-22,Backpack,Fashion,3,2064.28,West,Pune,Credit Card
+ORD101960,C1105,2025-04-12,Office Chair,Furniture,4,8291.28,West,Ahmedabad,Credit Card
+ORD101961,C1328,2025-03-02,T-Shirt,Fashion,1,1132.46,North,Jaipur,UPI
+ORD101962,C1132,2025-09-26,Office Chair,Furniture,1,8122.94,West,Ahmedabad,Credit Card
+ORD101963,C1001,2025-11-19,Office Chair,Furniture,1,7854.66,West,Pune,UPI
+ORD101964,C1203,2025-12-16,T-Shirt,Fashion,1,1205.77,East,Bhubaneswar,Debit Card
+ORD101965,C1271,2025-01-31,Office Chair,Furniture,2,8258.45,South,Hyderabad,UPI
+ORD101966,C1235,2025-01-21,Office Chair,Furniture,2,8059.29,West,Ahmedabad,Debit Card
+ORD101967,C1268,2025-06-29,Mouse,Accessories,1,869.75,North,Jaipur,Credit Card
+ORD101968,C1214,2025-09-16,Mixer Grinder,Home Appliances,2,5344.38,West,Ahmedabad,Credit Card
+ORD101969,C1327,2025-11-19,T-Shirt,Fashion,4,1193.56,East,Kolkata,Cash on Delivery
+ORD101970,C1017,2025-11-29,Laptop,Electronics,2,52687.93,West,Pune,Credit Card
+ORD101971,C1244,2025-01-27,Laptop,Electronics,3,56362.25,South,Vijayawada,UPI
+ORD101972,C1045,2025-01-17,Air Fryer,Home Appliances,1,7288.13,South,Chennai,UPI
+ORD101973,C1184,2025-11-19,Air Fryer,Home Appliances,1,8250.67,North,Lucknow,Cash on Delivery
+ORD101974,C1223,2025-12-07,Smartphone,Electronics,4,29601.44,South,Hyderabad,Credit Card
+ORD101975,,2025-03-20,Office Chair,Furniture,2,8517.87,North,Jaipur,UPI
+ORD101976,C1084,2025-03-10,Mixer Grinder,Home Appliances,1,5526.49,South,Bengaluru,UPI
+ORD101977,C1334,2025-06-16,Coffee Maker,Home Appliances,2,6533.41,North,Delhi,Cash on Delivery
+ORD101978,C1124,2025-10-31,Laptop,Electronics,1,55702.09,East,Ranchi,Debit Card
+ORD101979,C1241,2025-07-18,Mixer Grinder,Home Appliances,1,5290.64,South,Bengaluru,UPI
+ORD101980,C1017,2025-03-08,Running Shoes,Fashion,3,4168.0,North,Lucknow,Debit Card
+ORD101981,C1111,2025-10-05,Office Chair,Furniture,2,9111.14,East,Patna,Credit Card
+ORD101982,C1171,2025-04-05,Coffee Maker,Home Appliances,3,5992.03,South,Vijayawada,UPI
+ORD101983,C1120,2025-05-12,Mouse,Accessories,1,851.58,West,Ahmedabad,UPI
+ORD101984,C1160,2025-05-04,Air Fryer,Home Appliances,1,7704.26,East,Bhubaneswar,UPI
+ORD101985,C1142,2025-01-11,Bookshelf,Furniture,2,6825.35,West,Pune,Credit Card
+ORD101986,C1345,2025-05-09,Keyboard,Accessories,4,1733.46,East,Ranchi,Net Banking
+ORD101987,C1260,2025-08-27,Backpack,Fashion,5,2179.43,West,Surat,Debit Card
+ORD101988,C1138,2025-10-19,Bookshelf,Furniture,1,6343.01,West,Ahmedabad,Debit Card
+ORD101989,C1049,2025-08-03,Backpack,Fashion,3,2233.8,East,Patna,Debit Card
+ORD101990,C1126,2025-06-27,Mixer Grinder,Home Appliances,3,5615.21,West,Surat,Debit Card
+ORD101991,C1065,2025-04-20,Smartwatch,Electronics,1,6715.42,North,Lucknow,Debit Card
+ORD101992,C1300,2025-10-03,Mouse,Accessories,2,891.11,North,Delhi,Credit Card
+ORD101993,C1265,2025-07-26,Mouse,Accessories,3,923.05,East,Kolkata,UPI
+ORD101994,C1264,2025-01-09,Headphones,Electronics,1,3319.67,South,Vijayawada,UPI
+ORD101995,C1182,2025-11-15,Desk,Furniture,2,11608.02,South,Chennai,UPI
+ORD101996,C1037,2025-01-30,Mixer Grinder,Home Appliances,4,5051.35,South,Vijayawada,UPI
+ORD101997,C1181,2025-09-02,Headphones,Electronics,1,3716.19,North,Delhi,UPI
+ORD101998,C1038,2025-04-17,Backpack,Fashion,1,2129.83,South,Chennai,UPI
+ORD101999,C1300,2025-07-02,Running Shoes,Fashion,4,4324.93,West,Surat,UPI
+ORD102000,C1287,2025-05-23,Headphones,Electronics,1,3446.72,East,Kolkata,Credit Card
+ORD102001,C1062,2025-06-26,Air Fryer,Home Appliances,1,8412.73,North,Lucknow,UPI
+ORD102002,C1335,2025-09-01,Desk,Furniture,2,11918.07,East,Kolkata,UPI
+ORD102003,C1350,2025-04-26,Coffee Maker,Home Appliances,1,6036.17,South,Vijayawada,Net Banking
+ORD102004,C1113,2025-08-08,Desk,Furniture,1,11903.12,South,Hyderabad,UPI
+ORD102005,C1121,2025-07-25,Running Shoes,Fashion,3,4483.33,West,Ahmedabad,Credit Card
+ORD102006,C1112,2025-05-04,Backpack,Fashion,2,2078.02,West,Mumbai,Net Banking
+ORD102007,C1025,2025-05-05,Desk,Furniture,2,12149.55,North,Lucknow,Net Banking
+ORD102008,C1212,2025-06-08,Backpack,Fashion,1,2271.1,South,Vijayawada,Credit Card
+ORD102009,C1032,2025-03-19,Running Shoes,Fashion,2,4240.94,West,Ahmedabad,Credit Card
+ORD102010,C1137,2025-12-18,Bookshelf,Furniture,1,6925.05,North,Chandigarh,Credit Card
+ORD102011,C1114,2025-02-12,Laptop,Electronics,2,57589.35,West,Mumbai,Credit Card
+ORD102012,C1247,2025-12-02,Backpack,Fashion,1,2252.45,East,Kolkata,UPI
+ORD102013,C1151,2025-08-05,Desk,Furniture,2,12950.28,South,Chennai,Cash on Delivery
+ORD102014,C1114,2025-03-19,Headphones,Electronics,3,3710.95,North,Delhi,Debit Card
+ORD102015,C1026,2025-02-10,Mixer Grinder,Home Appliances,2,4910.94,West,Surat,Credit Card
+ORD102016,C1174,2025-05-09,Smartphone,Electronics,1,27516.55,South,Hyderabad,Credit Card
+ORD102017,C1052,2025-09-28,Running Shoes,Fashion,3,4578.59,South,Chennai,Credit Card
+ORD102018,C1245,2025-01-26,Air Fryer,Home Appliances,2,7981.24,West,Pune,UPI
+ORD102019,C1258,2025-09-10,Keyboard,Accessories,-2,1779.68,South,Chennai,UPI
+ORD102020,C1026,2025-09-19,Bookshelf,Furniture,1,6728.06,South,Hyderabad,UPI
+ORD102021,C1350,2025-06-12,Running Shoes,Fashion,1,4822.14,West,Pune,Net Banking
+ORD102022,C1181,2025-01-12,Bookshelf,Furniture,1,6886.13,West,Pune,UPI
+ORD102023,C1169,2025-09-23,Desk,Furniture,3,12037.85,East,Bhubaneswar,Debit Card
+ORD102024,C1301,2025-12-04,Laptop,Electronics,1,56248.95,West,Surat,UPI
+ORD102025,C1069,2025-11-23,Bookshelf,Furniture,1,6783.17,South,Chennai,Credit Card
+ORD102026,C1248,2025-08-23,Backpack,Fashion,3,2208.59,East,Kolkata,UPI
+ORD102027,C1008,2025-01-12,Keyboard,Accessories,1,1938.44,West,Surat,Debit Card
+ORD102028,C1164,2025-02-11,Air Fryer,Home Appliances,1,7277.21,West,Mumbai,Cash on Delivery
+ORD102029,C1102,2025-01-22,Running Shoes,Fashion,2,4746.33,West,Pune,Credit Card
+ORD102030,C1117,2025-10-12,Headphones,Electronics,1,3717.74,South,Vijayawada,Credit Card
+ORD102031,C1219,2025-07-24,Smartwatch,Electronics,4,7146.83,East,Bhubaneswar,Credit Card
+ORD102032,C1229,2025-06-27,Headphones,Electronics,1,3284.89,South,Bengaluru,UPI
+ORD102033,C1052,2025-07-23,Backpack,Fashion,1,2075.34,North,Delhi,UPI
+ORD102034,C1220,2025-05-06,Backpack,Fashion,3,2288.5,West,Ahmedabad,Net Banking
+ORD102035,C1117,2025-06-26,Keyboard,Accessories,1,1750.29,West,Ahmedabad,UPI
+ORD102036,C1175,2025-05-29,T-Shirt,Fashion,2,1269.98,South,Vijayawada,UPI
+ORD102037,C1253,2025-05-23,Coffee Maker,Home Appliances,5,6698.92,North,Jaipur,Credit Card
+ORD102038,C1005,2025-06-23,Headphones,Electronics,1,3344.66,West,Ahmedabad,Credit Card
+ORD102039,C1061,2025-08-09,Mouse,Accessories,2,961.34,West,Surat,UPI
+ORD102040,C1340,2025-12-11,Keyboard,Accessories,2,1726.84,East,Ranchi,Debit Card
+ORD102041,C1302,2025-04-11,Office Chair,Furniture,2,8938.7,South,Hyderabad,Credit Card
+ORD102042,C1030,2025-07-11,Keyboard,Accessories,2,1776.29,West,Ahmedabad,UPI
+ORD102043,C1247,2025-10-07,Air Fryer,Home Appliances,1,8305.0,South,Vijayawada,UPI
+ORD102044,C1161,2025-08-18,Coffee Maker,Home Appliances,1,6467.55,West,Pune,UPI
+ORD102045,C1017,2025-04-29,Mouse,Accessories,2,852.47,South,Hyderabad,UPI
+ORD102046,C1258,2025-05-09,T-Shirt,Fashion,1,1130.51,South,Vijayawada,Credit Card
+ORD102047,C1015,2025-10-25,Mouse,Accessories,2,922.55,West,Surat,Cash on Delivery
+ORD102048,C1192,2025-04-17,T-Shirt,Fashion,2,1142.77,South,Vijayawada,Debit Card
+ORD102049,C1078,2025-07-21,Smartphone,Electronics,2,28969.59,South,Vijayawada,Debit Card
+ORD102050,C1071,2025-05-31,Headphones,Electronics,5,3242.53,West,Ahmedabad,UPI
+ORD102051,C1234,2025-09-19,Backpack,Fashion,3,2181.95,North,Delhi,UPI
+ORD102052,C1320,2025-05-12,Bookshelf,Furniture,2,6344.93,East,Bhubaneswar,Credit Card
+ORD102053,C1296,2025-03-02,Keyboard,Accessories,2,1761.73,North,Delhi,Credit Card
+ORD102054,C1037,2025-01-06,Laptop,Electronics,1,54246.81,East,Bhubaneswar,UPI
+ORD102055,C1079,2025-07-03,Mixer Grinder,Home Appliances,2,4903.68,South,Chennai,Credit Card
+ORD102056,C1031,2025-02-07,Running Shoes,Fashion,2,4356.93,West,Pune,Credit Card
+ORD102057,C1157,2025-11-11,Headphones,Electronics,2,3567.38,North,Delhi,Cash on Delivery
+ORD102058,,2025-12-12,Backpack,Fashion,3,2171.75,East,Kolkata,UPI
+ORD102059,C1162,2025-03-05,Running Shoes,Fashion,3,4502.37,South,Vijayawada,Credit Card
+ORD102060,C1323,2025-12-02,Mouse,Accessories,4,862.31,North,Delhi,
+ORD102061,C1347,2025-08-09,Smartwatch,Electronics,1,7136.32,North,Delhi,Net Banking
+ORD102062,C1315,2025-04-06,Mouse,Accessories,2,861.82,South,Vijayawada,UPI
+ORD102063,C1028,2025-03-08,T-Shirt,Fashion,1,1140.43,South,Bengaluru,Net Banking
+ORD102064,C1272,2025-01-13,Keyboard,Accessories,3,1777.58,South,Vijayawada,UPI
+ORD102065,C1263,2025-09-26,Keyboard,Accessories,1,1824.66,North,Lucknow,Debit Card
+ORD102066,C1026,2025-06-29,Backpack,Fashion,2,2043.18,North,Jaipur,UPI
+ORD102067,C1236,2025-08-24,Laptop,Electronics,1,55809.67,North,Delhi,Debit Card
+ORD102068,C1185,2025-07-16,Keyboard,Accessories,4,1865.18,North,Lucknow,UPI
+ORD102069,C1321,2025-09-23,Bookshelf,Furniture,2,6792.37,West,Ahmedabad,Cash on Delivery
+ORD102070,C1224,2025-11-20,Laptop,Electronics,4,50623.01,East,Patna,UPI
+ORD102071,C1083,2025-12-24,Air Fryer,Home Appliances,1,7189.56,South,Chennai,UPI
+ORD102072,C1092,2025-01-22,Air Fryer,Home Appliances,5,7735.8,East,Patna,Net Banking
+ORD102073,C1034,2025-12-13,Smartphone,Electronics,2,28017.63,East,Kolkata,UPI
+ORD102074,C1152,2025-06-18,Mixer Grinder,Home Appliances,3,5318.4,North,Lucknow,UPI
+ORD102075,C1284,2025-07-12,Smartphone,Electronics,2,28473.67,South,Chennai,Credit Card
+ORD102076,C1185,2025-09-18,Office Chair,Furniture,2,8781.12,East,Bhubaneswar,Net Banking
+ORD102077,C1283,2025-02-03,Headphones,Electronics,3,3294.46,North,Delhi,UPI
+ORD102078,C1101,2025-05-06,Mixer Grinder,Home Appliances,3,5431.81,South,Bengaluru,UPI
+ORD102079,C1076,2025-09-15,Keyboard,Accessories,2,1718.08,South,Bengaluru,UPI
+ORD102080,C1339,2025-10-04,Backpack,Fashion,2,2224.15,West,Ahmedabad,Credit Card
+ORD102081,C1205,2025-09-18,Desk,Furniture,1,12595.37,West,Surat,Debit Card
+ORD102082,C1001,2025-06-29,Mixer Grinder,Home Appliances,3,4963.24,North,Delhi,UPI
+ORD102083,C1160,2025-01-23,Running Shoes,Fashion,2,4801.73,East,Bhubaneswar,Credit Card
+ORD102084,C1085,2025-02-25,Bookshelf,Furniture,2,6063.57,South,Bengaluru,Net Banking
+ORD102085,C1300,2025-04-29,Smartphone,Electronics,2,28029.94,South,Hyderabad,Debit Card
+ORD102086,C1179,2025-06-25,Bookshelf,Furniture,1,6710.32,South,Bengaluru,Debit Card
+ORD102087,C1141,2025-12-22,Bookshelf,Furniture,1,6190.73,South,Hyderabad,Credit Card
+ORD102088,C1250,2025-01-28,Desk,Furniture,2,11332.89,South,Vijayawada,UPI
+ORD102089,C1132,2025-03-21,Coffee Maker,Home Appliances,1,6561.26,South,Hyderabad,Credit Card
+ORD102090,C1300,2025-03-16,T-Shirt,Fashion,1,1208.07,East,Bhubaneswar,Debit Card
+ORD102091,C1151,2025-05-01,Headphones,Electronics,1,3525.58,North,Jaipur,Debit Card
+ORD102092,C1187,2025-05-14,Office Chair,Furniture,1,8351.16,South,Vijayawada,UPI
+ORD102093,C1029,2025-12-04,Bookshelf,Furniture,4,6405.77,North,Lucknow,UPI
+ORD102094,C1262,2025-11-21,T-Shirt,Fashion,1,1169.2,South,Hyderabad,Cash on Delivery
+ORD102095,C1347,2025-05-21,Running Shoes,Fashion,1,4393.32,South,Chennai,Credit Card
+ORD102096,C1213,2025-09-19,Laptop,Electronics,2,52794.53,East,Patna,Credit Card
+ORD102097,C1056,2025-12-26,T-Shirt,Fashion,1,1194.04,East,Bhubaneswar,UPI
+ORD102098,C1021,2025-06-01,Smartphone,Electronics,2,27235.19,West,Ahmedabad,Credit Card
+ORD102099,C1275,2025-04-29,Office Chair,Furniture,2,9004.91,West,Ahmedabad,UPI
+ORD102100,C1227,2025-07-25,Air Fryer,Home Appliances,4,7703.1,West,Ahmedabad,Credit Card
+ORD102101,C1072,2025-01-03,Keyboard,Accessories,4,1701.24,East,Patna,Debit Card
+ORD102102,C1240,2025-07-17,Backpack,Fashion,1,2322.5,East,Patna,UPI
+ORD102103,C1195,2025-02-10,Bookshelf,Furniture,1,6806.1,West,Mumbai,Credit Card
+ORD102104,C1270,2025-05-27,Mouse,Accessories,2,940.04,East,Bhubaneswar,Credit Card
+ORD102105,C1099,2025-10-30,Keyboard,Accessories,2,1734.83,West,Surat,Debit Card
+ORD102106,C1035,2025-03-26,T-Shirt,Fashion,4,1188.35,West,Pune,Debit Card
+ORD102107,C1200,2025-08-24,T-Shirt,Fashion,2,1198.03,West,Mumbai,Credit Card
+ORD102108,C1048,2025-08-20,Backpack,Fashion,1,2339.01,South,Chennai,UPI
+ORD102109,C1037,2025-05-09,Laptop,Electronics,1,57295.0,North,Delhi,Debit Card
+ORD102110,C1332,2025-06-28,Smartphone,Electronics,1,29031.4,North,Jaipur,UPI
+ORD102111,C1070,2025-02-13,Smartwatch,Electronics,2,7225.78,South,Vijayawada,Credit Card
+ORD102112,C1096,2025-10-16,Smartwatch,Electronics,1,7438.64,West,Mumbai,Cash on Delivery
+ORD102113,C1033,2025-05-31,Mouse,Accessories,1,854.18,West,Mumbai,Debit Card
+ORD102114,C1013,2025-12-23,Mixer Grinder,Home Appliances,5,5046.88,West,Mumbai,UPI
+ORD102115,C1052,2025-02-18,Smartphone,Electronics,2,27088.07,North,Delhi,
+ORD102116,C1180,2025-09-10,Smartwatch,Electronics,4,6766.31,West,Pune,Net Banking
+ORD102117,C1188,2025-01-24,Smartwatch,Electronics,2,7044.71,West,Ahmedabad,Debit Card
+ORD102118,C1083,2025-01-26,Smartwatch,Electronics,1,7367.97,West,Ahmedabad,UPI
+ORD102119,C1230,2025-11-15,Air Fryer,Home Appliances,2,7464.31,South,Chennai,Credit Card
+ORD102120,C1140,2025-04-23,Running Shoes,Fashion,2,4667.84,South,Bengaluru,UPI
+ORD102121,C1034,2025-02-10,Mixer Grinder,Home Appliances,1,5593.64,South,Chennai,UPI
+ORD102122,C1328,2025-04-27,Office Chair,Furniture,1,8702.67,West,Surat,UPI
+ORD102123,C1110,2025-08-30,Mouse,Accessories,3,971.17,East,Kolkata,Cash on Delivery
+ORD102124,C1072,2025-03-03,Office Chair,Furniture,3,8052.26,West,Pune,Credit Card
+ORD102125,C1143,2025-10-11,Mixer Grinder,Home Appliances,3,5069.48,South,Vijayawada,UPI
+ORD102126,C1326,2025-07-01,Smartwatch,Electronics,2,6605.88,South,Vijayawada,Debit Card
+ORD102127,C1287,2025-06-11,Smartphone,Electronics,1,27576.27,South,Bengaluru,Credit Card
+ORD102128,C1038,2025-02-10,Mixer Grinder,Home Appliances,1,4890.7,West,Pune,UPI
+ORD102129,C1244,2025-03-28,Keyboard,Accessories,2,1733.65,South,Hyderabad,UPI
+ORD102130,C1165,2025-04-11,Keyboard,Accessories,1,1660.49,South,Chennai,Debit Card
+ORD102131,C1210,2025-12-29,Desk,Furniture,2,12008.84,West,Mumbai,UPI
+ORD102132,C1229,2025-03-30,Desk,Furniture,2,11557.36,West,Ahmedabad,UPI
+ORD102133,C1307,2025-09-24,Headphones,Electronics,1,3573.77,South,Chennai,UPI
+ORD102134,C1037,2025-07-13,Desk,Furniture,4,12297.88,West,Ahmedabad,UPI
+ORD102135,C1333,2025-07-14,Backpack,Fashion,4,2348.08,South,Hyderabad,UPI
+ORD102136,C1073,2025-11-16,Backpack,Fashion,1,2117.48,West,Ahmedabad,UPI
+ORD102137,C1068,2025-05-06,Air Fryer,Home Appliances,1,7837.48,East,Ranchi,UPI
+ORD102138,C1306,2025-06-10,Running Shoes,Fashion,2,4743.72,West,Mumbai,UPI
+ORD102139,C1018,2025-02-21,Mouse,Accessories,1,902.24,South,Hyderabad,UPI
+ORD102140,C1176,2025-09-30,Air Fryer,Home Appliances,4,7535.82,South,Chennai,Cash on Delivery
+ORD102141,C1063,2025-07-06,Bookshelf,Furniture,4,6211.4,North,Lucknow,Credit Card
+ORD102142,C1249,2025-09-11,Desk,Furniture,1,12226.03,West,Pune,Cash on Delivery
+ORD102143,C1014,2025-03-30,Bookshelf,Furniture,4,6635.85,South,Bengaluru,UPI
+ORD102144,C1085,2025-11-01,Mixer Grinder,Home Appliances,2,5516.05,West,Surat,UPI
+ORD102145,C1054,2025-06-06,Smartphone,Electronics,1,28812.2,East,Patna,UPI
+ORD102146,C1127,2025-05-28,Backpack,Fashion,1,2296.78,South,Vijayawada,Credit Card
+ORD102147,C1037,2025-06-26,Mixer Grinder,Home Appliances,2,5044.86,South,Vijayawada,Debit Card
+ORD102148,C1113,2025-01-16,Keyboard,Accessories,4,1900.53,East,Bhubaneswar,UPI
+ORD102149,C1098,2025-03-12,Bookshelf,Furniture,2,6840.25,North,Chandigarh,UPI
+ORD102150,C1277,2025-02-21,Headphones,Electronics,1,3547.44,West,Ahmedabad,UPI
+ORD102151,C1052,2025-10-14,Laptop,Electronics,3,58997.75,West,Mumbai,Net Banking
+ORD102152,C1178,2025-04-24,Keyboard,Accessories,1,1662.39,West,Surat,UPI
+ORD102153,C1177,2025-01-01,Bookshelf,Furniture,1,6951.6,East,Bhubaneswar,Net Banking
+ORD102154,C1063,2025-07-07,Air Fryer,Home Appliances,2,8329.36,West,Pune,UPI
+ORD102155,C1027,2025-12-21,T-Shirt,Fashion,2,1115.63,South,Vijayawada,Credit Card
+ORD102156,C1348,2025-02-25,Desk,Furniture,1,12465.33,West,Ahmedabad,UPI
+ORD102157,C1237,2025-04-05,Mouse,Accessories,2,878.11,South,Chennai,Credit Card
+ORD102158,C1094,2025-06-13,Smartwatch,Electronics,2,6972.19,East,Patna,Credit Card
+ORD102159,C1084,2025-07-19,Smartwatch,Electronics,1,6584.6,East,Bhubaneswar,Credit Card
+ORD102160,C1339,2025-10-28,Smartwatch,Electronics,1,6895.35,South,Vijayawada,Net Banking
+ORD102161,C1172,2025-11-19,Smartphone,Electronics,3,29200.69,West,Mumbai,Debit Card
+ORD102162,C1022,2025-09-17,Air Fryer,Home Appliances,1,7637.14,South,Hyderabad,Credit Card
+ORD102163,C1235,2025-11-14,Smartphone,Electronics,1,26071.52,East,Ranchi,Credit Card
+ORD102164,C1263,2025-04-05,Headphones,Electronics,1,3263.76,East,Kolkata,Credit Card
+ORD102165,C1220,2025-03-10,Bookshelf,Furniture,4,6015.55,West,Pune,UPI
+ORD102166,C1281,2025-03-03,Coffee Maker,Home Appliances,1,6177.97,North,Jaipur,UPI
+ORD102167,C1135,2025-03-27,Mixer Grinder,Home Appliances,3,5237.0,North,Chandigarh,Debit Card
+ORD102168,C1205,2025-07-02,Air Fryer,Home Appliances,1,7896.62,North,Chandigarh,Credit Card
+ORD102169,C1346,2025-11-20,Keyboard,Accessories,1,1830.33,North,Chandigarh,UPI
+ORD102170,C1137,2025-08-21,Mixer Grinder,Home Appliances,2,5157.65,South,Bengaluru,UPI
+ORD102171,C1038,2025-07-16,Headphones,Electronics,2,3283.02,North,Chandigarh,UPI
+ORD102172,C1003,2025-05-28,Desk,Furniture,1,11711.38,North,Jaipur,UPI
+ORD102173,C1326,2025-11-02,T-Shirt,Fashion,1,1237.71,South,Bengaluru,Debit Card
+ORD102174,C1038,2025-04-20,Mixer Grinder,Home Appliances,5,5173.57,East,Kolkata,Debit Card
+ORD102175,C1343,2025-09-05,Office Chair,Furniture,2,8650.73,West,Surat,UPI
+ORD102176,C1099,2025-08-09,Laptop,Electronics,1,53973.01,East,Kolkata,UPI
+ORD102177,C1107,2025-04-09,Mixer Grinder,Home Appliances,1,5242.92,West,Mumbai,Cash on Delivery
+ORD102178,C1274,2025-01-02,Smartwatch,Electronics,1,6442.56,East,Patna,Net Banking
+ORD102179,C1194,2025-09-27,Headphones,Electronics,2,3301.61,West,Mumbai,UPI
+ORD102180,C1254,2025-12-06,Smartwatch,Electronics,1,7315.5,East,Kolkata,Cash on Delivery
+ORD102181,C1171,2025-01-23,Air Fryer,Home Appliances,1,7956.18,North,Jaipur,Debit Card
+ORD102182,C1123,2025-07-21,Office Chair,Furniture,3,8946.14,South,Chennai,Debit Card
+ORD102183,C1021,2025-02-21,Air Fryer,Home Appliances,1,7844.48,West,Pune,UPI
+ORD102184,C1145,2025-11-27,Desk,Furniture,1,11361.86,North,Chandigarh,Debit Card
+ORD102185,C1281,2025-05-04,Headphones,Electronics,3,3411.04,West,Pune,UPI
+ORD102186,C1037,2025-07-04,Coffee Maker,Home Appliances,1,6047.11,South,Chennai,Net Banking
+ORD102187,C1065,2025-09-26,Backpack,Fashion,2,2245.31,East,Patna,Credit Card
+ORD102188,C1218,2025-11-09,Headphones,Electronics,4,3331.16,East,Bhubaneswar,Debit Card
+ORD102189,C1121,2025-02-16,Smartphone,Electronics,2,29339.9,South,Hyderabad,Credit Card
+ORD102190,C1105,2025-02-14,Headphones,Electronics,1,3336.69,East,Kolkata,Net Banking
+ORD102191,C1142,2025-11-05,Keyboard,Accessories,1,1872.04,South,Hyderabad,UPI
+ORD102192,C1259,2025-03-04,Office Chair,Furniture,2,8157.71,South,Vijayawada,Debit Card
+ORD102193,C1146,2025-06-21,Office Chair,Furniture,3,8928.14,West,Pune,Credit Card
+ORD102194,C1290,2025-05-21,Desk,Furniture,1,11435.13,South,Vijayawada,UPI
+ORD102195,C1164,2025-01-30,Smartphone,Electronics,1,27117.96,West,Pune,UPI
+ORD102196,C1046,2025-07-16,Coffee Maker,Home Appliances,3,6468.9,South,Vijayawada,UPI
+ORD102197,C1163,2025-08-25,Laptop,Electronics,1,59038.66,North,Lucknow,Cash on Delivery
+ORD102198,C1065,2025-08-23,Laptop,Electronics,2,52974.91,South,Bengaluru,UPI
+ORD102199,C1065,2025-09-24,Running Shoes,Fashion,1,4844.46,West,Mumbai,UPI
+ORD102200,C1004,2025-06-13,Running Shoes,Fashion,3,4741.03,North,Jaipur,Credit Card
+ORD101850,C1055,2025-07-12,Desk,Furniture,1,12330.82,East,Kolkata,Credit Card
+ORD100008,C1136,2025-11-04,Running Shoes,Fashion,3,4719.43,South,Hyderabad,UPI
+ORD101964,C1203,2025-12-16,T-Shirt,Fashion,1,1205.77,East,Bhubaneswar,Debit Card
+ORD100238,C1032,2025-02-11,Office Chair,Furniture,1,8352.45,North,Jaipur,UPI
+ORD100718,C1194,2025-05-23,Headphones,Electronics,1,3290.35,North,Chandigarh,UPI
+ORD100055,C1222,2025-10-07,Bookshelf,Furniture,3,6534.03,West,Surat,UPI
+ORD101941,C1207,2025-02-20,Mouse,Accessories,1,915.67,South,Hyderabad,UPI
+ORD101500,C1341,2025-02-09,Laptop,Electronics,3,54683.99,East,Bhubaneswar,Debit Card
+ORD100888,C1211,2025-12-03,Mixer Grinder,Home Appliances,1,4905.8,South,Vijayawada,Cash on Delivery
+ORD100594,C1317,2025-01-28,Desk,Furniture,2,12007.55,North,Lucknow,UPI
+ORD100922,C1121,2025-09-24,Air Fryer,Home Appliances,4,8187.58,South,Chennai,Net Banking
+ORD100719,C1091,2025-03-26,Coffee Maker,Home Appliances,2,6809.96,West,Surat,Net Banking
